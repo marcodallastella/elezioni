@@ -46,14 +46,9 @@ Infine viene identificato l'ultimo aggiornamento disponibile e salvato in `outpu
 
 Le colonne delle percentuali vengono convertite da stringa a float per consentire un'analisi più approfondita.
 
-#### Risultato:
+#### Grafici:
 
-##### Mappa affluenza Emilia Romagna
+##### [Mappa affluenza Emilia Romagna](https://www.datawrapper.de/_/wS5a8/)
 
-<iframe title="Affluenza Elezioni Regionali Emilia Romagna" aria-label="Map" id="datawrapper-chart-wS5a8" src="https://datawrapper.dwcdn.net/wS5a8/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="512" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-##### Mappa affluenza Umbria
-<iframe title="Affluenza Elezioni Regionali Umbria" aria-label="Map" id="datawrapper-chart-Znz4J" src="https://datawrapper.dwcdn.net/Znz4J/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="832" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+##### [Mappa affluenza Umbria](https://www.datawrapper.de/_/Znz4J/)
 
