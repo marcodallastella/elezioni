@@ -1,4 +1,4 @@
-name: scraper-er
+name: scraper-um
 
 on:
   workflow_dispatch:
