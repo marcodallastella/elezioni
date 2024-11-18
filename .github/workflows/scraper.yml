@@ -3,8 +3,8 @@ name: scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/15 11-23 * * *'
-    - cron: '*/15 0-2 * * *'
+    - cron: '*/5 * * * *'
+
 jobs:
   data_processing:
     runs-on: ubuntu-latest
