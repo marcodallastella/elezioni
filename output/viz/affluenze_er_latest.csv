@@ -1,210 +1,210 @@
 ﻿ele_info,comune,provincia,regione,ele_f,ele_m,ele_t,perc,perc_r,vot_t,data,ora,update_number,url,perc_diff
-Regionali Speciali,Alto Reno Terme,Bologna,Emilia-Romagna,3057,2979,6036,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130005,0.0
-Regionali Speciali,Anzola Dell'Emilia,Bologna,Emilia-Romagna,4867,4800,9667,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130010,0.0
-Regionali Speciali,Argelato,Bologna,Emilia-Romagna,3959,3739,7698,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130020,0.0
-Regionali Speciali,Baricella,Bologna,Emilia-Romagna,2700,2656,5356,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130030,0.0
-Regionali Speciali,Bentivoglio,Bologna,Emilia-Romagna,2238,2233,4471,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130050,0.0
-Regionali Speciali,Bologna,Bologna,Emilia-Romagna,162396,147381,309777,50.65,69.75,14677,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130060,-19.1
-Regionali Speciali,Borgo Tossignano,Bologna,Emilia-Romagna,1264,1276,2540,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130070,0.0
-Regionali Speciali,Budrio,Bologna,Emilia-Romagna,7701,7432,15133,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130080,0.0
-Regionali Speciali,Calderara Di Reno,Bologna,Emilia-Romagna,5563,5334,10897,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130090,0.0
-Regionali Speciali,Camugnano,Bologna,Emilia-Romagna,859,927,1786,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130100,0.0
+Regionali Speciali,Alto Reno Terme,Bologna,Emilia-Romagna,3057,2979,6036,43.06,68.0,2599,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130005,-24.94
+Regionali Speciali,Anzola Dell'Emilia,Bologna,Emilia-Romagna,4867,4800,9667,53.56,74.64,5178,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130010,-21.08
+Regionali Speciali,Argelato,Bologna,Emilia-Romagna,3959,3739,7698,53.0,75.31,4080,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130020,-22.31
+Regionali Speciali,Baricella,Bologna,Emilia-Romagna,2700,2656,5356,47.39,69.74,2538,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130030,-22.35
+Regionali Speciali,Bentivoglio,Bologna,Emilia-Romagna,2238,2233,4471,51.53,73.35,2304,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130050,-21.82
+Regionali Speciali,Bologna,Bologna,Emilia-Romagna,162396,147381,309777,53.17,69.75,100075,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130060,-16.58
+Regionali Speciali,Borgo Tossignano,Bologna,Emilia-Romagna,1264,1276,2540,43.46,67.13,1104,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130070,-23.67
+Regionali Speciali,Budrio,Bologna,Emilia-Romagna,7701,7432,15133,48.93,70.29,4822,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130080,-21.36
+Regionali Speciali,Calderara Di Reno,Bologna,Emilia-Romagna,5563,5334,10897,55.18,74.73,6013,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130090,-19.55
+Regionali Speciali,Camugnano,Bologna,Emilia-Romagna,859,927,1786,44.96,66.16,803,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130100,-21.2
 Regionali Speciali,Casalecchio Di Reno,Bologna,Emilia-Romagna,14939,13356,28295,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130110,0.0
-Regionali Speciali,Casalfiumanese,Bologna,Emilia-Romagna,1320,1371,2691,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130120,0.0
-Regionali Speciali,Castel D'Aiano,Bologna,Emilia-Romagna,820,865,1685,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130130,0.0
-Regionali Speciali,Castel Del Rio,Bologna,Emilia-Romagna,497,505,1002,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130140,0.0
-Regionali Speciali,Castel Di Casio,Bologna,Emilia-Romagna,1441,1414,2855,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130150,0.0
-Regionali Speciali,Castel Guelfo Di Bologna,Bologna,Emilia-Romagna,1802,1806,3608,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130160,0.0
-Regionali Speciali,Castello D'Argile,Bologna,Emilia-Romagna,2548,2656,5204,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130170,0.0
-Regionali Speciali,Castel Maggiore,Bologna,Emilia-Romagna,7714,7195,14909,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130190,0.0
+Regionali Speciali,Casalfiumanese,Bologna,Emilia-Romagna,1320,1371,2691,46.08,69.33,1240,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130120,-23.25
+Regionali Speciali,Castel D'Aiano,Bologna,Emilia-Romagna,820,865,1685,48.31,68.72,814,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130130,-20.41
+Regionali Speciali,Castel Del Rio,Bologna,Emilia-Romagna,497,505,1002,45.61,64.68,457,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130140,-19.07
+Regionali Speciali,Castel Di Casio,Bologna,Emilia-Romagna,1441,1414,2855,47.46,70.67,1355,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130150,-23.21
+Regionali Speciali,Castel Guelfo Di Bologna,Bologna,Emilia-Romagna,1802,1806,3608,49.5,69.78,1786,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130160,-20.28
+Regionali Speciali,Castello D'Argile,Bologna,Emilia-Romagna,2548,2656,5204,47.64,71.65,2479,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130170,-24.01
+Regionali Speciali,Castel Maggiore,Bologna,Emilia-Romagna,7714,7195,14909,55.09,75.26,7227,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130190,-20.17
 Regionali Speciali,Castel San Pietro Terme,Bologna,Emilia-Romagna,8745,8303,17048,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130200,0.0
-Regionali Speciali,Castenaso,Bologna,Emilia-Romagna,6813,6444,13257,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130210,0.0
-Regionali Speciali,Castiglione Dei Pepoli,Bologna,Emilia-Romagna,2187,2260,4447,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130220,0.0
-Regionali Speciali,Crevalcore,Bologna,Emilia-Romagna,5496,5406,10902,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130240,0.0
-Regionali Speciali,Dozza,Bologna,Emilia-Romagna,2673,2650,5323,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130250,0.0
-Regionali Speciali,Fontanelice,Bologna,Emilia-Romagna,747,763,1510,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130260,0.0
-Regionali Speciali,Gaggio Montano,Bologna,Emilia-Romagna,2002,1971,3973,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130270,0.0
-Regionali Speciali,Galliera,Bologna,Emilia-Romagna,2020,2068,4088,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130280,0.0
-Regionali Speciali,Granarolo Dell'Emilia,Bologna,Emilia-Romagna,5271,5035,10306,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130300,0.0
-Regionali Speciali,Grizzana Morandi,Bologna,Emilia-Romagna,1604,1671,3275,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130310,0.0
+Regionali Speciali,Castenaso,Bologna,Emilia-Romagna,6813,6444,13257,56.98,76.58,7554,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130210,-19.6
+Regionali Speciali,Castiglione Dei Pepoli,Bologna,Emilia-Romagna,2187,2260,4447,49.56,71.39,2204,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130220,-21.83
+Regionali Speciali,Crevalcore,Bologna,Emilia-Romagna,5496,5406,10902,46.87,70.52,5110,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130240,-23.65
+Regionali Speciali,Dozza,Bologna,Emilia-Romagna,2673,2650,5323,45.48,67.77,2421,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130250,-22.29
+Regionali Speciali,Fontanelice,Bologna,Emilia-Romagna,747,763,1510,51.85,73.3,783,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130260,-21.45
+Regionali Speciali,Gaggio Montano,Bologna,Emilia-Romagna,2002,1971,3973,45.56,69.76,1810,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130270,-24.2
+Regionali Speciali,Galliera,Bologna,Emilia-Romagna,2020,2068,4088,44.58,68.99,1443,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130280,-24.41
+Regionali Speciali,Granarolo Dell'Emilia,Bologna,Emilia-Romagna,5271,5035,10306,54.56,75.97,5623,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130300,-21.41
+Regionali Speciali,Grizzana Morandi,Bologna,Emilia-Romagna,1604,1671,3275,45.62,69.6,1494,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130310,-23.98
 Regionali Speciali,Imola,Bologna,Emilia-Romagna,28721,26974,55695,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130320,0.0
-Regionali Speciali,Lizzano In Belvedere,Bologna,Emilia-Romagna,986,959,1945,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130330,0.0
-Regionali Speciali,Loiano,Bologna,Emilia-Romagna,1817,1895,3712,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130340,0.0
-Regionali Speciali,Malalbergo,Bologna,Emilia-Romagna,3640,3481,7121,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130350,0.0
-Regionali Speciali,Marzabotto,Bologna,Emilia-Romagna,2801,2786,5587,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130360,0.0
-Regionali Speciali,Medicina,Bologna,Emilia-Romagna,6905,6676,13581,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130370,0.0
-Regionali Speciali,Minerbio,Bologna,Emilia-Romagna,3597,3439,7036,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130380,0.0
-Regionali Speciali,Molinella,Bologna,Emilia-Romagna,6402,6079,12481,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130390,0.0
-Regionali Speciali,Monghidoro,Bologna,Emilia-Romagna,1570,1726,3296,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130400,0.0
-Regionali Speciali,Monterenzio,Bologna,Emilia-Romagna,2376,2425,4801,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130410,0.0
-Regionali Speciali,Monte San Pietro,Bologna,Emilia-Romagna,4608,4488,9096,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130420,0.0
-Regionali Speciali,Monzuno,Bologna,Emilia-Romagna,2532,2658,5190,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130440,0.0
-Regionali Speciali,Mordano,Bologna,Emilia-Romagna,1745,1780,3525,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130450,0.0
-Regionali Speciali,Ozzano Dell'Emilia,Bologna,Emilia-Romagna,5871,5594,11465,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130460,0.0
+Regionali Speciali,Lizzano In Belvedere,Bologna,Emilia-Romagna,986,959,1945,49.25,67.82,958,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130330,-18.57
+Regionali Speciali,Loiano,Bologna,Emilia-Romagna,1817,1895,3712,47.17,66.66,1751,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130340,-19.49
+Regionali Speciali,Malalbergo,Bologna,Emilia-Romagna,3640,3481,7121,44.73,69.14,3185,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130350,-24.41
+Regionali Speciali,Marzabotto,Bologna,Emilia-Romagna,2801,2786,5587,48.25,69.73,2696,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130360,-21.48
+Regionali Speciali,Medicina,Bologna,Emilia-Romagna,6905,6676,13581,49.27,67.97,6692,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130370,-18.7
+Regionali Speciali,Minerbio,Bologna,Emilia-Romagna,3597,3439,7036,48.47,69.96,3410,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130380,-21.49
+Regionali Speciali,Molinella,Bologna,Emilia-Romagna,6402,6079,12481,47.83,66.28,5970,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130390,-18.45
+Regionali Speciali,Monghidoro,Bologna,Emilia-Romagna,1570,1726,3296,47.3,65.1,368,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130400,-17.8
+Regionali Speciali,Monterenzio,Bologna,Emilia-Romagna,2376,2425,4801,45.59,66.24,2189,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130410,-20.65
+Regionali Speciali,Monte San Pietro,Bologna,Emilia-Romagna,4608,4488,9096,54.55,75.14,4962,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130420,-20.59
+Regionali Speciali,Monzuno,Bologna,Emilia-Romagna,2532,2658,5190,45.3,67.07,2351,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130440,-21.77
+Regionali Speciali,Mordano,Bologna,Emilia-Romagna,1745,1780,3525,53.11,74.13,1872,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130450,-21.02
+Regionali Speciali,Ozzano Dell'Emilia,Bologna,Emilia-Romagna,5871,5594,11465,53.2,74.51,6099,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130460,-21.31
 Regionali Speciali,Pianoro,Bologna,Emilia-Romagna,7394,7190,14584,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130470,0.0
-Regionali Speciali,Pieve Di Cento,Bologna,Emilia-Romagna,3042,2985,6027,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130480,0.0
-Regionali Speciali,Sala Bolognese,Bologna,Emilia-Romagna,3413,3422,6835,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130500,0.0
-Regionali Speciali,San Benedetto Val Di Sambro,Bologna,Emilia-Romagna,1697,1810,3507,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130510,0.0
-Regionali Speciali,San Giorgio Di Piano,Bologna,Emilia-Romagna,3829,3635,7464,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130520,0.0
-Regionali Speciali,San Giovanni In Persiceto,Bologna,Emilia-Romagna,11791,11411,23202,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130530,0.0
-Regionali Speciali,San Lazzaro Di Savena,Bologna,Emilia-Romagna,13953,12768,26721,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130540,0.0
-Regionali Speciali,San Pietro In Casale,Bologna,Emilia-Romagna,4917,4875,9792,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130550,0.0
-Regionali Speciali,Sant'Agata Bolognese,Bologna,Emilia-Romagna,2979,3067,6046,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130560,0.0
-Regionali Speciali,Sasso Marconi,Bologna,Emilia-Romagna,6476,6001,12477,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130570,0.0
+Regionali Speciali,Pieve Di Cento,Bologna,Emilia-Romagna,3042,2985,6027,51.27,72.72,3090,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130480,-21.45
+Regionali Speciali,Sala Bolognese,Bologna,Emilia-Romagna,3413,3422,6835,52.82,74.59,3610,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130500,-21.77
+Regionali Speciali,San Benedetto Val Di Sambro,Bologna,Emilia-Romagna,1697,1810,3507,48.13,69.3,1688,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130510,-21.17
+Regionali Speciali,San Giorgio Di Piano,Bologna,Emilia-Romagna,3829,3635,7464,50.43,74.01,3764,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130520,-23.58
+Regionali Speciali,San Giovanni In Persiceto,Bologna,Emilia-Romagna,11791,11411,23202,52.78,73.12,12246,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130530,-20.34
+Regionali Speciali,San Lazzaro Di Savena,Bologna,Emilia-Romagna,13953,12768,26721,57.38,74.56,14904,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130540,-17.18
+Regionali Speciali,San Pietro In Casale,Bologna,Emilia-Romagna,4917,4875,9792,46.4,70.66,4543,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130550,-24.26
+Regionali Speciali,Sant'Agata Bolognese,Bologna,Emilia-Romagna,2979,3067,6046,46.26,69.15,2797,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130560,-22.89
+Regionali Speciali,Sasso Marconi,Bologna,Emilia-Romagna,6476,6001,12477,53.63,74.12,6692,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130570,-20.49
 Regionali Speciali,Valsamoggia,Bologna,Emilia-Romagna,12580,12518,25098,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130585,0.0
-Regionali Speciali,Vergato,Bologna,Emilia-Romagna,2991,2969,5960,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130590,0.0
-Regionali Speciali,Zola Predosa,Bologna,Emilia-Romagna,8101,7613,15714,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130600,0.0
-Regionali Speciali,Argenta,Ferrara,Emilia-Romagna,8887,8489,17376,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290010,0.0
-Regionali Speciali,Bondeno,Ferrara,Emilia-Romagna,5751,5497,11248,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290030,0.0
-Regionali Speciali,Cento,Ferrara,Emilia-Romagna,14507,14187,28694,44.61,66.76,7302,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290040,-22.15
-Regionali Speciali,Codigoro,Ferrara,Emilia-Romagna,4980,4617,9597,37.17,60.74,2937,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290050,-23.57
-Regionali Speciali,Comacchio,Ferrara,Emilia-Romagna,10001,9742,19743,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290060,0.0
-Regionali Speciali,Copparo,Ferrara,Emilia-Romagna,6988,6547,13535,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290070,0.0
-Regionali Speciali,Ferrara,Ferrara,Emilia-Romagna,55983,50779,106762,47.07,66.98,19781,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290080,-19.91
-Regionali Speciali,Fiscaglia,Ferrara,Emilia-Romagna,3730,3534,7264,37.71,60.13,1056,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290085,-22.42
+Regionali Speciali,Vergato,Bologna,Emilia-Romagna,2991,2969,5960,42.13,68.24,2511,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130590,-26.11
+Regionali Speciali,Zola Predosa,Bologna,Emilia-Romagna,8101,7613,15714,55.52,75.28,8725,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080130600,-19.76
+Regionali Speciali,Argenta,Ferrara,Emilia-Romagna,8887,8489,17376,43.78,66.95,7608,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290010,-23.17
+Regionali Speciali,Bondeno,Ferrara,Emilia-Romagna,5751,5497,11248,42.01,66.26,4725,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290030,-24.25
+Regionali Speciali,Cento,Ferrara,Emilia-Romagna,14507,14187,28694,44.88,66.76,12877,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290040,-21.88
+Regionali Speciali,Codigoro,Ferrara,Emilia-Romagna,4980,4617,9597,36.58,60.74,3511,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290050,-24.16
+Regionali Speciali,Comacchio,Ferrara,Emilia-Romagna,10001,9742,19743,29.59,58.23,5842,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290060,-28.64
+Regionali Speciali,Copparo,Ferrara,Emilia-Romagna,6988,6547,13535,43.38,65.25,5871,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290070,-21.87
+Regionali Speciali,Ferrara,Ferrara,Emilia-Romagna,55983,50779,106762,47.11,66.98,50296,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290080,-19.87
+Regionali Speciali,Fiscaglia,Ferrara,Emilia-Romagna,3730,3534,7264,37.28,60.13,2708,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290085,-22.85
 Regionali Speciali,Goro,Ferrara,Emilia-Romagna,1550,1424,2974,47.55,71.02,1414,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290091,-23.47
 Regionali Speciali,Jolanda Di Savoia,Ferrara,Emilia-Romagna,1102,1072,2174,37.12,64.23,807,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290100,-27.11
-Regionali Speciali,Lagosanto,Ferrara,Emilia-Romagna,2071,1967,4038,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290110,0.0
+Regionali Speciali,Lagosanto,Ferrara,Emilia-Romagna,2071,1967,4038,34.4,64.87,1389,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290110,-30.47
 Regionali Speciali,Masi Torello,Ferrara,Emilia-Romagna,993,874,1867,49.22,72.73,919,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290111,-23.51
-Regionali Speciali,Mesola,Ferrara,Emilia-Romagna,2856,2737,5593,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290130,0.0
+Regionali Speciali,Mesola,Ferrara,Emilia-Romagna,2856,2737,5593,39.0,62.28,2181,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290130,-23.28
 Regionali Speciali,Ostellato,Ferrara,Emilia-Romagna,2490,2424,4914,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290150,0.0
-Regionali Speciali,Poggio Renatico,Ferrara,Emilia-Romagna,3899,3744,7643,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290160,0.0
-Regionali Speciali,Portomaggiore,Ferrara,Emilia-Romagna,4745,4602,9347,41.75,64.26,3497,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290170,-22.51
-Regionali Speciali,Riva Del Po,Ferrara,Emilia-Romagna,3154,3078,6232,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290175,0.0
-Regionali Speciali,Terre Del Reno,Ferrara,Emilia-Romagna,4174,4090,8264,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290185,0.0
-Regionali Speciali,Tresignana,Ferrara,Emilia-Romagna,2999,2766,5765,41.81,63.7,2241,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290195,-21.89
-Regionali Speciali,Vigarano Mainarda,Ferrara,Emilia-Romagna,3211,3081,6292,46.56,70.13,1219,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290200,-23.57
+Regionali Speciali,Poggio Renatico,Ferrara,Emilia-Romagna,3899,3744,7643,43.82,68.03,3349,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290160,-24.21
+Regionali Speciali,Portomaggiore,Ferrara,Emilia-Romagna,4745,4602,9347,41.68,64.26,3896,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290170,-22.58
+Regionali Speciali,Riva Del Po,Ferrara,Emilia-Romagna,3154,3078,6232,35.24,61.49,2196,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290175,-26.25
+Regionali Speciali,Terre Del Reno,Ferrara,Emilia-Romagna,4174,4090,8264,43.86,67.27,3625,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290185,-23.41
+Regionali Speciali,Tresignana,Ferrara,Emilia-Romagna,2999,2766,5765,41.23,63.7,2377,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290195,-22.47
+Regionali Speciali,Vigarano Mainarda,Ferrara,Emilia-Romagna,3211,3081,6292,45.3,70.13,2850,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290200,-24.83
 Regionali Speciali,Voghiera,Ferrara,Emilia-Romagna,1541,1489,3030,49.34,69.84,1495,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080290210,-20.5
-Regionali Speciali,Bagno Di Romagna,Forli'-Cesena,Emilia-Romagna,2565,2514,5079,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320010,0.0
-Regionali Speciali,Bertinoro,Forli'-Cesena,Emilia-Romagna,4554,4389,8943,44.47,67.54,3536,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320020,-23.07
-Regionali Speciali,Borghi,Forli'-Cesena,Emilia-Romagna,1186,1235,2421,32.33,59.92,289,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320030,-27.59
-Regionali Speciali,Castrocaro Terme E Terra Del Sole,Forli'-Cesena,Emilia-Romagna,2667,2567,5234,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320040,0.0
-Regionali Speciali,Cesena,Forli'-Cesena,Emilia-Romagna,41171,38677,79848,48.69,68.82,8398,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320060,-20.13
-Regionali Speciali,Cesenatico,Forli'-Cesena,Emilia-Romagna,11115,10598,21713,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320070,0.0
+Regionali Speciali,Bagno Di Romagna,Forli'-Cesena,Emilia-Romagna,2565,2514,5079,46.17,67.32,2345,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320010,-21.15
+Regionali Speciali,Bertinoro,Forli'-Cesena,Emilia-Romagna,4554,4389,8943,44.39,67.54,3970,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320020,-23.15
+Regionali Speciali,Borghi,Forli'-Cesena,Emilia-Romagna,1186,1235,2421,34.32,59.92,831,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320030,-25.6
+Regionali Speciali,Castrocaro Terme E Terra Del Sole,Forli'-Cesena,Emilia-Romagna,2667,2567,5234,43.48,66.06,2276,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320040,-22.58
+Regionali Speciali,Cesena,Forli'-Cesena,Emilia-Romagna,41171,38677,79848,47.26,68.82,37738,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320060,-21.56
+Regionali Speciali,Cesenatico,Forli'-Cesena,Emilia-Romagna,11115,10598,21713,44.38,66.35,9637,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320070,-21.97
 Regionali Speciali,Civitella Di Romagna,Forli'-Cesena,Emilia-Romagna,1431,1409,2840,48.31,70.66,1372,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320080,-22.35
 Regionali Speciali,Dovadola,Forli'-Cesena,Emilia-Romagna,671,647,1318,35.05,60.48,462,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320100,-25.43
-Regionali Speciali,Forlì,Forli'-Cesena,Emilia-Romagna,47320,43876,91196,47.53,67.49,35094,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320110,-19.96
-Regionali Speciali,Forlimpopoli,Forli'-Cesena,Emilia-Romagna,5394,5245,10639,44.96,67.98,4497,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320120,-23.02
+Regionali Speciali,Forlì,Forli'-Cesena,Emilia-Romagna,47320,43876,91196,46.99,67.49,42850,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320110,-20.5
+Regionali Speciali,Forlimpopoli,Forli'-Cesena,Emilia-Romagna,5394,5245,10639,45.23,67.98,4812,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320120,-22.75
 Regionali Speciali,Galeata,Forli'-Cesena,Emilia-Romagna,909,895,1804,48.0,67.97,866,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320130,-19.97
-Regionali Speciali,Gambettola,Forli'-Cesena,Emilia-Romagna,4226,4038,8264,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320140,0.0
-Regionali Speciali,Gatteo,Forli'-Cesena,Emilia-Romagna,3827,3741,7568,39.58,64.55,2240,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320150,-24.97
-Regionali Speciali,Longiano,Forli'-Cesena,Emilia-Romagna,2995,2924,5919,43.5,69.25,1770,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320170,-25.75
-Regionali Speciali,Meldola,Forli'-Cesena,Emilia-Romagna,4090,3956,8046,40.71,63.47,2841,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320180,-22.76
-Regionali Speciali,Mercato Saraceno,Forli'-Cesena,Emilia-Romagna,2825,2859,5684,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320190,0.0
+Regionali Speciali,Gambettola,Forli'-Cesena,Emilia-Romagna,4226,4038,8264,43.32,67.55,3580,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320140,-24.23
+Regionali Speciali,Gatteo,Forli'-Cesena,Emilia-Romagna,3827,3741,7568,38.68,64.55,2927,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320150,-25.87
+Regionali Speciali,Longiano,Forli'-Cesena,Emilia-Romagna,2995,2924,5919,43.1,69.25,2551,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320170,-26.15
+Regionali Speciali,Meldola,Forli'-Cesena,Emilia-Romagna,4090,3956,8046,40.14,63.47,3230,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320180,-23.33
+Regionali Speciali,Mercato Saraceno,Forli'-Cesena,Emilia-Romagna,2825,2859,5684,42.52,67.21,2417,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320190,-24.69
 Regionali Speciali,Modigliana,Forli'-Cesena,Emilia-Romagna,1859,1816,3675,44.24,67.83,1626,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320210,-23.59
 Regionali Speciali,Montiano,Forli'-Cesena,Emilia-Romagna,730,730,1460,48.22,72.11,704,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320270,-23.89
 Regionali Speciali,Portico E San Benedetto,Forli'-Cesena,Emilia-Romagna,283,306,589,46.35,66.23,273,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320300,-19.88
 Regionali Speciali,Predappio,Forli'-Cesena,Emilia-Romagna,2463,2483,4946,44.9,66.82,2221,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320310,-21.92
 Regionali Speciali,Premilcuore,Forli'-Cesena,Emilia-Romagna,290,308,598,51.0,69.15,305,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320320,-18.15
-Regionali Speciali,Rocca San Casciano,Forli'-Cesena,Emilia-Romagna,833,820,1653,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320350,0.0
+Regionali Speciali,Rocca San Casciano,Forli'-Cesena,Emilia-Romagna,833,820,1653,51.06,64.86,844,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320350,-13.8
 Regionali Speciali,Roncofreddo,Forli'-Cesena,Emilia-Romagna,1356,1397,2753,49.04,71.01,1350,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320360,-21.97
-Regionali Speciali,San Mauro Pascoli,Forli'-Cesena,Emilia-Romagna,4897,4684,9581,38.39,66.9,3014,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320400,-28.51
+Regionali Speciali,San Mauro Pascoli,Forli'-Cesena,Emilia-Romagna,4897,4684,9581,39.38,66.9,3773,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320400,-27.52
 Regionali Speciali,Santa Sofia,Forli'-Cesena,Emilia-Romagna,1654,1554,3208,61.19,74.76,1963,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320420,-13.57
-Regionali Speciali,Sarsina,Forli'-Cesena,Emilia-Romagna,1430,1449,2879,53.81,67.55,642,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320430,-13.74
-Regionali Speciali,Savignano Sul Rubicone,Forli'-Cesena,Emilia-Romagna,6968,6746,13714,39.75,65.85,2972,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320440,-26.1
-Regionali Speciali,Sogliano Al Rubicone,Forli'-Cesena,Emilia-Romagna,1332,1332,2664,42.84,65.58,972,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320450,-22.74
-Regionali Speciali,Tredozio,Forli'-Cesena,Emilia-Romagna,489,525,1014,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320480,0.0
+Regionali Speciali,Sarsina,Forli'-Cesena,Emilia-Romagna,1430,1449,2879,47.66,67.55,1372,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320430,-19.89
+Regionali Speciali,Savignano Sul Rubicone,Forli'-Cesena,Emilia-Romagna,6968,6746,13714,40.7,65.85,5581,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320440,-25.15
+Regionali Speciali,Sogliano Al Rubicone,Forli'-Cesena,Emilia-Romagna,1332,1332,2664,42.76,65.58,1139,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320450,-22.82
+Regionali Speciali,Tredozio,Forli'-Cesena,Emilia-Romagna,489,525,1014,40.24,65.91,408,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320480,-25.67
 Regionali Speciali,Verghereto,Forli'-Cesena,Emilia-Romagna,694,767,1461,46.68,66.78,682,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080320490,-20.1
-Regionali Speciali,Bastiglia,Modena,Emilia-Romagna,1579,1618,3197,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500010,0.0
+Regionali Speciali,Bastiglia,Modena,Emilia-Romagna,1579,1618,3197,45.73,71.3,1462,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500010,-25.57
 Regionali Speciali,Bomporto,Modena,Emilia-Romagna,3987,3999,7986,43.79,69.22,3497,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500020,-25.43
 Regionali Speciali,Campogalliano,Modena,Emilia-Romagna,3442,3430,6872,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500030,0.0
 Regionali Speciali,Camposanto,Modena,Emilia-Romagna,1189,1227,2416,49.54,71.98,1197,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500040,-22.44
-Regionali Speciali,Carpi,Modena,Emilia-Romagna,28810,27190,56000,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500050,0.0
-Regionali Speciali,Castelfranco Emilia,Modena,Emilia-Romagna,12650,12891,25541,46.48,68.54,7496,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500060,-22.06
-Regionali Speciali,Castelnuovo Rangone,Modena,Emilia-Romagna,5929,5846,11775,54.08,73.75,2284,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500070,-19.67
-Regionali Speciali,Castelvetro Di Modena,Modena,Emilia-Romagna,4325,4368,8693,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500080,0.0
-Regionali Speciali,Cavezzo,Modena,Emilia-Romagna,2921,2697,5618,48.77,71.98,852,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500090,-23.21
-Regionali Speciali,Concordia Sulla Secchia,Modena,Emilia-Romagna,3464,3324,6788,37.45,67.17,685,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500100,-29.72
+Regionali Speciali,Carpi,Modena,Emilia-Romagna,28810,27190,56000,48.03,68.77,26574,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500050,-20.74
+Regionali Speciali,Castelfranco Emilia,Modena,Emilia-Romagna,12650,12891,25541,46.29,68.54,11822,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500060,-22.25
+Regionali Speciali,Castelnuovo Rangone,Modena,Emilia-Romagna,5929,5846,11775,51.46,73.75,6060,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500070,-22.29
+Regionali Speciali,Castelvetro Di Modena,Modena,Emilia-Romagna,4325,4368,8693,46.9,70.55,4077,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500080,-23.65
+Regionali Speciali,Cavezzo,Modena,Emilia-Romagna,2921,2697,5618,47.86,71.98,2689,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500090,-24.12
+Regionali Speciali,Concordia Sulla Secchia,Modena,Emilia-Romagna,3464,3324,6788,42.58,67.17,2890,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500100,-24.59
 Regionali Speciali,Fanano,Modena,Emilia-Romagna,1323,1339,2662,47.45,66.27,1263,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500110,-18.82
-Regionali Speciali,Finale Emilia,Modena,Emilia-Romagna,6052,5953,12005,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500120,0.0
-Regionali Speciali,Fiorano Modenese,Modena,Emilia-Romagna,6872,6760,13632,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500130,0.0
+Regionali Speciali,Finale Emilia,Modena,Emilia-Romagna,6052,5953,12005,43.61,66.65,5235,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500120,-23.04
+Regionali Speciali,Fiorano Modenese,Modena,Emilia-Romagna,6872,6760,13632,40.97,66.63,5585,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500130,-25.66
 Regionali Speciali,Fiumalbo,Modena,Emilia-Romagna,508,533,1041,48.9,74.5,509,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500140,-25.6
-Regionali Speciali,Formigine,Modena,Emilia-Romagna,14277,13825,28102,49.91,71.88,10323,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500150,-21.97
+Regionali Speciali,Formigine,Modena,Emilia-Romagna,14277,13825,28102,50.73,71.88,14257,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500150,-21.15
 Regionali Speciali,Frassinoro,Modena,Emilia-Romagna,1016,1072,2088,36.11,50.71,754,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500160,-14.6
 Regionali Speciali,Guiglia,Modena,Emilia-Romagna,1965,2005,3970,37.38,58.22,1484,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500170,-20.84
 Regionali Speciali,Lama Mocogno,Modena,Emilia-Romagna,1149,1207,2356,46.65,67.9,1099,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500180,-21.25
-Regionali Speciali,Maranello,Modena,Emilia-Romagna,6972,7047,14019,41.58,68.2,3846,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500190,-26.62
+Regionali Speciali,Maranello,Modena,Emilia-Romagna,6972,7047,14019,42.76,68.2,5682,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500190,-25.44
 Regionali Speciali,Marano Sul Panaro,Modena,Emilia-Romagna,2046,2043,4089,46.91,69.72,1918,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500200,-22.81
-Regionali Speciali,Medolla,Modena,Emilia-Romagna,2660,2552,5212,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500210,0.0
-Regionali Speciali,Mirandola,Modena,Emilia-Romagna,9814,9306,19120,42.34,68.63,1711,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500220,-26.29
-Regionali Speciali,Modena,Modena,Emilia-Romagna,73146,68193,141339,49.6,70.96,4419,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500230,-21.36
+Regionali Speciali,Medolla,Modena,Emilia-Romagna,2660,2552,5212,52.44,73.7,861,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500210,-21.26
+Regionali Speciali,Mirandola,Modena,Emilia-Romagna,9814,9306,19120,45.86,68.63,8769,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500220,-22.77
+Regionali Speciali,Modena,Modena,Emilia-Romagna,73146,68193,141339,50.9,70.96,68092,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500230,-20.06
 Regionali Speciali,Montecreto,Modena,Emilia-Romagna,358,421,779,54.94,69.47,428,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500240,-14.53
-Regionali Speciali,Montefiorino,Modena,Emilia-Romagna,976,1041,2017,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500250,0.0
+Regionali Speciali,Montefiorino,Modena,Emilia-Romagna,976,1041,2017,41.7,63.23,841,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500250,-21.53
 Regionali Speciali,Montese,Modena,Emilia-Romagna,1364,1352,2716,46.28,67.18,1257,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500260,-20.9
-Regionali Speciali,Nonantola,Modena,Emilia-Romagna,6489,6410,12899,47.91,69.51,5364,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500270,-21.6
+Regionali Speciali,Nonantola,Modena,Emilia-Romagna,6489,6410,12899,47.81,69.51,6167,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500270,-21.7
 Regionali Speciali,Novi Di Modena,Modena,Emilia-Romagna,4186,4152,8338,42.29,66.32,3526,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500280,-24.03
 Regionali Speciali,Palagano,Modena,Emilia-Romagna,949,935,1884,45.01,63.95,848,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500281,-18.94
 Regionali Speciali,Pavullo Nel Frignano,Modena,Emilia-Romagna,7359,7403,14762,43.83,64.95,6470,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500290,-21.12
-Regionali Speciali,Pievepelago,Modena,Emilia-Romagna,1218,1289,2507,34.29,54.24,528,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500300,-19.95
+Regionali Speciali,Pievepelago,Modena,Emilia-Romagna,1218,1289,2507,32.31,54.24,810,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500300,-21.93
 Regionali Speciali,Polinago,Modena,Emilia-Romagna,636,704,1340,44.7,61.87,599,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500310,-17.17
 Regionali Speciali,Prignano Sulla Secchia,Modena,Emilia-Romagna,1575,1637,3212,46.79,70.88,1503,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500320,-24.09
 Regionali Speciali,Ravarino,Modena,Emilia-Romagna,2522,2532,5054,44.74,66.11,2261,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500330,-21.37
-Regionali Speciali,Riolunato,Modena,Emilia-Romagna,318,360,678,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500340,0.0
-Regionali Speciali,San Cesario Sul Panaro,Modena,Emilia-Romagna,2594,2624,5218,49.05,73.49,515,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500350,-24.44
+Regionali Speciali,Riolunato,Modena,Emilia-Romagna,318,360,678,48.84,61.61,252,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500340,-12.77
+Regionali Speciali,San Cesario Sul Panaro,Modena,Emilia-Romagna,2594,2624,5218,51.88,73.49,2707,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500350,-21.61
 Regionali Speciali,San Felice Sul Panaro,Modena,Emilia-Romagna,4244,4116,8360,45.07,68.91,3768,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500360,-23.84
-Regionali Speciali,San Possidonio,Modena,Emilia-Romagna,1520,1513,3033,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500370,0.0
+Regionali Speciali,San Possidonio,Modena,Emilia-Romagna,1520,1513,3033,41.28,63.03,1252,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500370,-21.75
 Regionali Speciali,San Prospero,Modena,Emilia-Romagna,2366,2399,4765,39.66,66.0,1890,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500380,-26.34
-Regionali Speciali,Sassuolo,Modena,Emilia-Romagna,16313,15711,32024,40.95,65.31,10463,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500390,-24.36
-Regionali Speciali,Savignano Sul Panaro,Modena,Emilia-Romagna,3598,3617,7215,48.05,72.85,3135,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500400,-24.8
+Regionali Speciali,Sassuolo,Modena,Emilia-Romagna,16313,15711,32024,41.32,65.31,13233,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500390,-23.99
+Regionali Speciali,Savignano Sul Panaro,Modena,Emilia-Romagna,3598,3617,7215,47.97,72.85,3461,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500400,-24.88
 Regionali Speciali,Serramazzoni,Modena,Emilia-Romagna,3460,3685,7145,40.25,65.73,2876,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500410,-25.48
 Regionali Speciali,Sestola,Modena,Emilia-Romagna,1061,1090,2151,47.65,66.99,1025,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500420,-19.34
-Regionali Speciali,Soliera,Modena,Emilia-Romagna,6269,6156,12425,48.78,70.86,2011,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500430,-22.08
-Regionali Speciali,Spilamberto,Modena,Emilia-Romagna,4661,4544,9205,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500440,0.0
-Regionali Speciali,Vignola,Modena,Emilia-Romagna,9700,9162,18862,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500450,0.0
+Regionali Speciali,Soliera,Modena,Emilia-Romagna,6269,6156,12425,48.39,70.86,5630,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500430,-22.47
+Regionali Speciali,Spilamberto,Modena,Emilia-Romagna,4661,4544,9205,51.05,73.12,4699,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500440,-22.07
+Regionali Speciali,Vignola,Modena,Emilia-Romagna,9700,9162,18862,49.88,68.97,9409,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500450,-19.09
 Regionali Speciali,Zocca,Modena,Emilia-Romagna,2039,2052,4091,39.97,64.22,1635,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080500460,-24.25
 Regionali Speciali,Albareto,Parma,Emilia-Romagna,1297,1226,2523,30.92,47.29,780,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560010,-16.37
-Regionali Speciali,Bardi,Parma,Emilia-Romagna,1525,1592,3117,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560020,0.0
+Regionali Speciali,Bardi,Parma,Emilia-Romagna,1525,1592,3117,23.68,35.31,738,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560020,-11.63
 Regionali Speciali,Bedonia,Parma,Emilia-Romagna,1892,1848,3740,37.78,49.87,187,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560030,-12.09
 Regionali Speciali,Berceto,Parma,Emilia-Romagna,1022,1145,2167,34.89,49.8,756,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560040,-14.91
 Regionali Speciali,Bore,Parma,Emilia-Romagna,347,398,745,33.15,49.87,247,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560050,-16.72
 Regionali Speciali,Borgo Val Di Taro,Parma,Emilia-Romagna,3579,3520,7099,38.46,57.69,2730,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560060,-19.23
-Regionali Speciali,Busseto,Parma,Emilia-Romagna,2827,2737,5564,32.92,61.49,693,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560070,-28.57
+Regionali Speciali,Busseto,Parma,Emilia-Romagna,2827,2737,5564,39.54,61.49,2200,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560070,-21.95
 Regionali Speciali,Calestano,Parma,Emilia-Romagna,808,847,1655,35.53,59.59,588,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560080,-24.06
 Regionali Speciali,Collecchio,Parma,Emilia-Romagna,5928,5762,11690,48.25,68.4,5641,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560090,-20.15
-Regionali Speciali,Colorno,Parma,Emilia-Romagna,3401,3372,6773,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560100,0.0
+Regionali Speciali,Colorno,Parma,Emilia-Romagna,3401,3372,6773,33.97,59.48,2301,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560100,-25.51
 Regionali Speciali,Compiano,Parma,Emilia-Romagna,556,582,1138,45.08,57.68,513,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560110,-12.6
 Regionali Speciali,Corniglio,Parma,Emilia-Romagna,819,903,1722,40.3,61.61,694,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560120,-21.31
-Regionali Speciali,Felino,Parma,Emilia-Romagna,3594,3524,7118,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560130,0.0
-Regionali Speciali,Fidenza,Parma,Emilia-Romagna,10774,10122,20896,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560140,0.0
-Regionali Speciali,Fontanellato,Parma,Emilia-Romagna,2874,2892,5766,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560150,0.0
+Regionali Speciali,Felino,Parma,Emilia-Romagna,3594,3524,7118,45.69,69.87,3252,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560130,-24.18
+Regionali Speciali,Fidenza,Parma,Emilia-Romagna,10774,10122,20896,45.31,67.12,9467,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560140,-21.81
+Regionali Speciali,Fontanellato,Parma,Emilia-Romagna,2874,2892,5766,39.98,62.55,2305,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560150,-22.57
 Regionali Speciali,Fontevivo,Parma,Emilia-Romagna,2108,2153,4261,49.94,68.21,2128,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560160,-18.27
-Regionali Speciali,Fornovo Di Taro,Parma,Emilia-Romagna,2374,2297,4671,41.77,65.08,705,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560170,-23.31
+Regionali Speciali,Fornovo Di Taro,Parma,Emilia-Romagna,2374,2297,4671,37.42,65.08,1503,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560170,-27.66
 Regionali Speciali,Langhirano,Parma,Emilia-Romagna,3773,3805,7578,42.5,70.12,3221,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560180,-27.62
-Regionali Speciali,Lesignano De' Bagni,Parma,Emilia-Romagna,2040,2036,4076,43.64,72.55,1344,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560190,-28.91
-Regionali Speciali,Medesano,Parma,Emilia-Romagna,4332,4316,8648,43.17,66.1,3284,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560200,-22.93
+Regionali Speciali,Lesignano De' Bagni,Parma,Emilia-Romagna,2040,2036,4076,44.41,72.55,1810,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560190,-28.14
+Regionali Speciali,Medesano,Parma,Emilia-Romagna,4332,4316,8648,41.32,66.1,3573,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560200,-24.78
 Regionali Speciali,Monchio Delle Corti,Parma,Emilia-Romagna,435,506,941,40.06,53.28,377,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560220,-13.22
 Regionali Speciali,Montechiarugolo,Parma,Emilia-Romagna,4524,4405,8929,46.07,68.1,4114,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560230,-22.03
-Regionali Speciali,Neviano Degli Arduini,Parma,Emilia-Romagna,1474,1537,3011,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560240,0.0
+Regionali Speciali,Neviano Degli Arduini,Parma,Emilia-Romagna,1474,1537,3011,44.8,66.27,1349,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560240,-21.47
 Regionali Speciali,Noceto,Parma,Emilia-Romagna,5444,5226,10670,45.74,66.62,4880,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560250,-20.88
 Regionali Speciali,Palanzano,Parma,Emilia-Romagna,405,460,865,49.71,66.04,430,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560260,-16.33
-Regionali Speciali,Parma,Parma,Emilia-Romagna,78079,71549,149628,44.13,64.8,34509,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560270,-20.67
+Regionali Speciali,Parma,Parma,Emilia-Romagna,78079,71549,149628,44.67,64.8,63715,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560270,-20.13
 Regionali Speciali,Pellegrino Parmense,Parma,Emilia-Romagna,564,604,1168,27.91,46.08,326,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560280,-18.17
 Regionali Speciali,Polesine Zibello,Parma,Emilia-Romagna,1398,1369,2767,32.56,57.61,901,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560291,-25.05
 Regionali Speciali,Roccabianca,Parma,Emilia-Romagna,1434,1416,2850,30.98,53.8,883,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560300,-22.82
-Regionali Speciali,Sala Baganza,Parma,Emilia-Romagna,2231,2292,4523,42.85,68.42,1169,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560310,-25.57
-Regionali Speciali,Salsomaggiore Terme,Parma,Emilia-Romagna,8159,7980,16139,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560320,0.0
+Regionali Speciali,Sala Baganza,Parma,Emilia-Romagna,2231,2292,4523,44.79,68.42,2026,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560310,-23.63
+Regionali Speciali,Salsomaggiore Terme,Parma,Emilia-Romagna,8159,7980,16139,38.73,60.52,6251,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560320,-21.79
 Regionali Speciali,San Secondo Parmense,Parma,Emilia-Romagna,2291,2271,4562,43.31,67.96,1976,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560330,-24.65
 Regionali Speciali,Sissa Trecasali,Parma,Emilia-Romagna,3208,3091,6299,38.67,65.78,2436,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560345,-27.11
 Regionali Speciali,Solignano,Parma,Emilia-Romagna,685,751,1436,40.95,63.07,588,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560350,-22.12
-Regionali Speciali,Soragna,Parma,Emilia-Romagna,2188,2186,4374,46.19,62.51,971,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560360,-16.32
+Regionali Speciali,Soragna,Parma,Emilia-Romagna,2188,2186,4374,43.0,62.51,1881,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560360,-19.51
 Regionali Speciali,Sorbolo Mezzani,Parma,Emilia-Romagna,5228,5078,10306,39.49,64.98,4070,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560375,-25.49
 Regionali Speciali,Terenzo,Parma,Emilia-Romagna,601,621,1222,32.65,53.04,399,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560380,-20.39
-Regionali Speciali,Tizzano Val Parma,Parma,Emilia-Romagna,835,896,1731,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560390,0.0
+Regionali Speciali,Tizzano Val Parma,Parma,Emilia-Romagna,835,896,1731,48.47,67.93,839,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560390,-19.46
 Regionali Speciali,Tornolo,Parma,Emilia-Romagna,527,557,1084,40.04,52.97,434,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560400,-12.93
 Regionali Speciali,Torrile,Parma,Emilia-Romagna,2927,2942,5869,36.1,63.13,2119,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560410,-27.03
 Regionali Speciali,Traversetolo,Parma,Emilia-Romagna,3760,3660,7420,46.64,70.0,3461,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560420,-23.36
 Regionali Speciali,Valmozzola,Parma,Emilia-Romagna,370,395,765,24.18,39.9,185,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560440,-15.72
-Regionali Speciali,Varano De' Melegari,Parma,Emilia-Romagna,1080,1066,2146,45.45,70.2,400,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560450,-24.75
-Regionali Speciali,Varsi,Parma,Emilia-Romagna,662,727,1389,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560460,0.0
-Regionali Speciali,Agazzano,Piacenza,Emilia-Romagna,821,787,1608,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610010,0.0
-Regionali Speciali,Alseno,Piacenza,Emilia-Romagna,2004,1970,3974,41.93,66.59,1311,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610020,-24.66
+Regionali Speciali,Varano De' Melegari,Parma,Emilia-Romagna,1080,1066,2146,46.74,70.2,1003,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560450,-23.46
+Regionali Speciali,Varsi,Parma,Emilia-Romagna,662,727,1389,29.66,47.17,412,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080560460,-17.51
+Regionali Speciali,Agazzano,Piacenza,Emilia-Romagna,821,787,1608,43.35,62.95,697,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610010,-19.6
+Regionali Speciali,Alseno,Piacenza,Emilia-Romagna,2004,1970,3974,43.21,66.59,1717,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610020,-23.38
 Regionali Speciali,Alta Val Tidone,Piacenza,Emilia-Romagna,1300,1364,2664,44.41,63.14,1183,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610025,-18.73
 Regionali Speciali,Besenzone,Piacenza,Emilia-Romagna,401,399,800,43.88,67.76,351,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610030,-23.88
-Regionali Speciali,Bettola,Piacenza,Emilia-Romagna,1341,1390,2731,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610040,0.0
+Regionali Speciali,Bettola,Piacenza,Emilia-Romagna,1341,1390,2731,38.26,55.54,1045,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610040,-17.28
 Regionali Speciali,Bobbio,Piacenza,Emilia-Romagna,1742,1651,3393,43.47,60.75,1475,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610050,-17.28
-Regionali Speciali,Borgonovo Val Tidone,Piacenza,Emilia-Romagna,2987,2999,5986,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610060,0.0
-Regionali Speciali,Cadeo,Piacenza,Emilia-Romagna,2321,2300,4621,37.71,65.53,316,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610070,-27.82
-Regionali Speciali,Calendasco,Piacenza,Emilia-Romagna,998,1023,2021,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610080,0.0
+Regionali Speciali,Borgonovo Val Tidone,Piacenza,Emilia-Romagna,2987,2999,5986,36.02,60.95,2156,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610060,-24.93
+Regionali Speciali,Cadeo,Piacenza,Emilia-Romagna,2321,2300,4621,39.39,65.53,1820,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610070,-26.14
+Regionali Speciali,Calendasco,Piacenza,Emilia-Romagna,998,1023,2021,40.38,65.69,816,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610080,-25.31
 Regionali Speciali,Caorso,Piacenza,Emilia-Romagna,1913,1914,3827,39.43,64.31,1509,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610100,-24.88
 Regionali Speciali,Carpaneto Piacentino,Piacenza,Emilia-Romagna,3363,3334,6697,42.69,64.98,2859,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610110,-22.29
 Regionali Speciali,Castell'Arquato,Piacenza,Emilia-Romagna,2088,2047,4135,42.13,66.97,1742,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610120,-24.84
@@ -216,8 +216,8 @@ Regionali Speciali,Corte Brugnatella,Piacenza,Emilia-Romagna,250,257,507,49.31,6
 Regionali Speciali,Cortemaggiore,Piacenza,Emilia-Romagna,1739,1766,3505,44.62,63.56,1564,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610180,-18.94
 Regionali Speciali,Farini,Piacenza,Emilia-Romagna,760,791,1551,29.59,42.38,459,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610190,-12.79
 Regionali Speciali,Ferriere,Piacenza,Emilia-Romagna,737,807,1544,31.35,39.96,484,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610200,-8.61
-Regionali Speciali,Fiorenzuola D'Arda,Piacenza,Emilia-Romagna,5923,5618,11541,44.29,65.04,3653,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610210,-20.75
-Regionali Speciali,Gazzola,Piacenza,Emilia-Romagna,925,992,1917,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610220,0.0
+Regionali Speciali,Fiorenzuola D'Arda,Piacenza,Emilia-Romagna,5923,5618,11541,43.42,65.04,5011,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610210,-21.62
+Regionali Speciali,Gazzola,Piacenza,Emilia-Romagna,925,992,1917,46.27,67.62,887,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610220,-21.35
 Regionali Speciali,Gossolengo,Piacenza,Emilia-Romagna,2439,2321,4760,45.4,69.72,2161,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610230,-24.32
 Regionali Speciali,Gragnano Trebbiense,Piacenza,Emilia-Romagna,1768,1726,3494,38.92,62.43,1360,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610240,-23.51
 Regionali Speciali,Gropparello,Piacenza,Emilia-Romagna,1084,1143,2227,35.88,55.05,799,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610250,-19.17
@@ -225,105 +225,105 @@ Regionali Speciali,Lugagnano Val D'Arda,Piacenza,Emilia-Romagna,1858,1857,3715,3
 Regionali Speciali,Monticelli D'Ongina,Piacenza,Emilia-Romagna,2218,2189,4407,42.89,60.55,1890,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610270,-17.66
 Regionali Speciali,Morfasso,Piacenza,Emilia-Romagna,824,924,1748,18.99,32.91,332,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610280,-13.92
 Regionali Speciali,Ottone,Piacenza,Emilia-Romagna,311,374,685,16.64,34.38,114,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610300,-17.74
-Regionali Speciali,Piacenza,Piacenza,Emilia-Romagna,40483,36934,77417,43.5,63.64,25106,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610320,-20.14
-Regionali Speciali,Pianello Val Tidone,Piacenza,Emilia-Romagna,989,928,1917,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610330,0.0
-Regionali Speciali,Piozzano,Piacenza,Emilia-Romagna,239,277,516,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610340,0.0
+Regionali Speciali,Piacenza,Piacenza,Emilia-Romagna,40483,36934,77417,43.16,63.64,33416,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610320,-20.48
+Regionali Speciali,Pianello Val Tidone,Piacenza,Emilia-Romagna,989,928,1917,38.03,62.51,729,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610330,-24.48
+Regionali Speciali,Piozzano,Piacenza,Emilia-Romagna,239,277,516,45.35,69.87,234,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610340,-24.52
 Regionali Speciali,Podenzano,Piacenza,Emilia-Romagna,3816,3653,7469,43.54,67.71,3252,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610350,-24.17
-Regionali Speciali,Ponte Dell'Olio,Piacenza,Emilia-Romagna,2069,2000,4069,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610360,0.0
-Regionali Speciali,Pontenure,Piacenza,Emilia-Romagna,2528,2403,4931,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610370,0.0
+Regionali Speciali,Ponte Dell'Olio,Piacenza,Emilia-Romagna,2069,2000,4069,42.39,64.72,1725,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610360,-22.33
+Regionali Speciali,Pontenure,Piacenza,Emilia-Romagna,2528,2403,4931,42.26,69.0,2084,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610370,-26.74
 Regionali Speciali,Rivergaro,Piacenza,Emilia-Romagna,3052,2984,6036,42.38,67.37,2558,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610380,-24.99
 Regionali Speciali,Rottofreno,Piacenza,Emilia-Romagna,4843,4688,9531,39.0,63.98,3717,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610390,-24.98
 Regionali Speciali,San Giorgio Piacentino,Piacenza,Emilia-Romagna,2380,2266,4646,46.06,66.74,2140,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610400,-20.68
-Regionali Speciali,San Pietro In Cerro,Piacenza,Emilia-Romagna,342,337,679,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610410,0.0
+Regionali Speciali,San Pietro In Cerro,Piacenza,Emilia-Romagna,342,337,679,40.5,63.47,275,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610410,-22.97
 Regionali Speciali,Sarmato,Piacenza,Emilia-Romagna,1170,1156,2326,33.58,58.35,781,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610420,-24.77
 Regionali Speciali,Travo,Piacenza,Emilia-Romagna,1004,1063,2067,49.01,64.22,1013,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610430,-15.21
 Regionali Speciali,Vernasca,Piacenza,Emilia-Romagna,1144,1204,2348,32.41,51.55,761,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610440,-19.14
-Regionali Speciali,Vigolzone,Piacenza,Emilia-Romagna,1785,1757,3542,43.12,64.54,398,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610450,-21.42
-Regionali Speciali,Villanova Sull'Arda,Piacenza,Emilia-Romagna,754,783,1537,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610460,0.0
+Regionali Speciali,Vigolzone,Piacenza,Emilia-Romagna,1785,1757,3542,43.45,64.54,1539,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610450,-21.09
+Regionali Speciali,Villanova Sull'Arda,Piacenza,Emilia-Romagna,754,783,1537,37.87,62.8,582,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610460,-24.93
 Regionali Speciali,Zerba,Piacenza,Emilia-Romagna,50,67,117,28.21,35.9,33,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610470,-7.69
-Regionali Speciali,Ziano Piacentino,Piacenza,Emilia-Romagna,1159,1203,2362,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610480,0.0
-Regionali Speciali,Alfonsine,Ravenna,Emilia-Romagna,4651,4461,9112,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660010,0.0
-Regionali Speciali,Bagnacavallo,Ravenna,Emilia-Romagna,6659,6364,13023,53.67,71.39,6528,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660020,-17.72
-Regionali Speciali,Bagnara Di Romagna,Ravenna,Emilia-Romagna,899,906,1805,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660030,0.0
+Regionali Speciali,Ziano Piacentino,Piacenza,Emilia-Romagna,1159,1203,2362,36.16,58.11,854,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080610480,-21.95
+Regionali Speciali,Alfonsine,Ravenna,Emilia-Romagna,4651,4461,9112,50.16,71.91,4571,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660010,-21.75
+Regionali Speciali,Bagnacavallo,Ravenna,Emilia-Romagna,6659,6364,13023,53.79,71.39,7005,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660020,-17.6
+Regionali Speciali,Bagnara Di Romagna,Ravenna,Emilia-Romagna,899,906,1805,55.12,73.71,995,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660030,-18.59
 Regionali Speciali,Brisighella,Ravenna,Emilia-Romagna,2990,3027,6017,49.93,69.98,3004,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660040,-20.05
-Regionali Speciali,Casola Valsenio,Ravenna,Emilia-Romagna,998,1039,2037,54.63,73.01,354,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660050,-18.38
-Regionali Speciali,Castel Bolognese,Ravenna,Emilia-Romagna,3679,3562,7241,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660060,0.0
-Regionali Speciali,Cervia,Ravenna,Emilia-Romagna,12340,11431,23771,47.38,67.0,9971,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660070,-19.62
+Regionali Speciali,Casola Valsenio,Ravenna,Emilia-Romagna,998,1039,2037,52.72,73.01,1074,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660050,-20.29
+Regionali Speciali,Castel Bolognese,Ravenna,Emilia-Romagna,3679,3562,7241,52.24,71.54,3783,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660060,-19.3
+Regionali Speciali,Cervia,Ravenna,Emilia-Romagna,12340,11431,23771,47.1,67.0,11196,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660070,-19.9
 Regionali Speciali,Conselice,Ravenna,Emilia-Romagna,3777,3608,7385,44.54,65.68,3289,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660080,-21.14
 Regionali Speciali,Cotignola,Ravenna,Emilia-Romagna,3072,2973,6045,50.92,72.65,3078,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660090,-21.73
-Regionali Speciali,Faenza,Ravenna,Emilia-Romagna,23783,22561,46344,52.6,70.91,1192,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660100,-18.31
+Regionali Speciali,Faenza,Ravenna,Emilia-Romagna,23783,22561,46344,52.59,70.91,24371,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660100,-18.32
 Regionali Speciali,Fusignano,Ravenna,Emilia-Romagna,3206,3133,6339,48.29,70.23,3061,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660110,-21.94
-Regionali Speciali,Lugo,Ravenna,Emilia-Romagna,13230,12360,25590,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660120,0.0
-Regionali Speciali,Massa Lombarda,Ravenna,Emilia-Romagna,3908,3857,7765,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660130,0.0
-Regionali Speciali,Ravenna,Ravenna,Emilia-Romagna,65187,61187,126374,47.25,68.94,17411,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660140,-21.69
+Regionali Speciali,Lugo,Ravenna,Emilia-Romagna,13230,12360,25590,50.68,71.21,12968,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660120,-20.53
+Regionali Speciali,Massa Lombarda,Ravenna,Emilia-Romagna,3908,3857,7765,42.81,66.13,3324,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660130,-23.32
+Regionali Speciali,Ravenna,Ravenna,Emilia-Romagna,65187,61187,126374,48.73,68.94,61235,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660140,-20.21
 Regionali Speciali,Riolo Terme,Ravenna,Emilia-Romagna,2254,2277,4531,52.22,70.29,2366,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660150,-18.07
-Regionali Speciali,Russi,Ravenna,Emilia-Romagna,4878,4678,9556,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660160,0.0
+Regionali Speciali,Russi,Ravenna,Emilia-Romagna,4878,4678,9556,51.12,71.96,4885,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660160,-20.84
 Regionali Speciali,Sant'Agata Sul Santerno,Ravenna,Emilia-Romagna,1162,1110,2272,50.53,68.59,1148,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660170,-18.06
-Regionali Speciali,Solarolo,Ravenna,Emilia-Romagna,1694,1656,3350,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660180,0.0
+Regionali Speciali,Solarolo,Ravenna,Emilia-Romagna,1694,1656,3350,51.53,72.73,789,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080660180,-21.2
 Regionali Speciali,Albinea,Reggio Nell'Emilia,Emilia-Romagna,3803,3628,7431,56.26,77.21,4181,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680010,-20.95
-Regionali Speciali,Bagnolo In Piano,Reggio Nell'Emilia,Emilia-Romagna,3845,3739,7584,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680020,0.0
+Regionali Speciali,Bagnolo In Piano,Reggio Nell'Emilia,Emilia-Romagna,3845,3739,7584,46.88,68.37,3555,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680020,-21.49
 Regionali Speciali,Baiso,Reggio Nell'Emilia,Emilia-Romagna,1313,1408,2721,43.66,65.23,1188,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680030,-21.57
-Regionali Speciali,Bibbiano,Reggio Nell'Emilia,Emilia-Romagna,4176,4155,8331,42.72,68.38,3065,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680040,-25.66
+Regionali Speciali,Bibbiano,Reggio Nell'Emilia,Emilia-Romagna,4176,4155,8331,42.44,68.38,3536,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680040,-25.94
 Regionali Speciali,Boretto,Reggio Nell'Emilia,Emilia-Romagna,2372,2337,4709,33.72,58.01,1588,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680050,-24.29
-Regionali Speciali,Brescello,Reggio Nell'Emilia,Emilia-Romagna,2309,2328,4637,30.53,58.7,1116,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680060,-28.17
+Regionali Speciali,Brescello,Reggio Nell'Emilia,Emilia-Romagna,2309,2328,4637,31.9,58.7,1479,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680060,-26.8
 Regionali Speciali,Cadelbosco Di Sopra,Reggio Nell'Emilia,Emilia-Romagna,4305,4171,8476,37.69,62.87,3195,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680080,-25.18
 Regionali Speciali,Campagnola Emilia,Reggio Nell'Emilia,Emilia-Romagna,2276,2137,4413,45.64,66.45,2014,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680090,-20.81
-Regionali Speciali,Campegine,Reggio Nell'Emilia,Emilia-Romagna,2040,2020,4060,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680100,0.0
+Regionali Speciali,Campegine,Reggio Nell'Emilia,Emilia-Romagna,2040,2020,4060,42.64,64.42,1731,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680100,-21.78
 Regionali Speciali,Carpineti,Reggio Nell'Emilia,Emilia-Romagna,1639,1633,3272,49.11,72.61,1607,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680110,-23.5
-Regionali Speciali,Casalgrande,Reggio Nell'Emilia,Emilia-Romagna,7582,7735,15317,39.97,65.95,5263,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680120,-25.98
+Regionali Speciali,Casalgrande,Reggio Nell'Emilia,Emilia-Romagna,7582,7735,15317,39.9,65.95,6111,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680120,-26.05
 Regionali Speciali,Casina,Reggio Nell'Emilia,Emilia-Romagna,1906,1925,3831,50.14,70.64,1921,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680130,-20.5
-Regionali Speciali,Castellarano,Reggio Nell'Emilia,Emilia-Romagna,6234,6248,12482,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680140,0.0
+Regionali Speciali,Castellarano,Reggio Nell'Emilia,Emilia-Romagna,6234,6248,12482,45.3,69.56,5654,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680140,-24.26
 Regionali Speciali,Castelnovo Di Sotto,Reggio Nell'Emilia,Emilia-Romagna,3591,3494,7085,41.78,64.48,2960,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680150,-22.7
 Regionali Speciali,Castelnovo Ne' Monti,Reggio Nell'Emilia,Emilia-Romagna,4315,4149,8464,48.58,72.1,4112,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680160,-23.52
-Regionali Speciali,Cavriago,Reggio Nell'Emilia,Emilia-Romagna,4175,3924,8099,44.05,67.05,1658,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680170,-23.0
+Regionali Speciali,Cavriago,Reggio Nell'Emilia,Emilia-Romagna,4175,3924,8099,44.59,67.05,3611,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680170,-22.46
 Regionali Speciali,Canossa,Reggio Nell'Emilia,Emilia-Romagna,1523,1613,3136,40.31,66.51,1264,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680180,-26.2
-Regionali Speciali,Correggio,Reggio Nell'Emilia,Emilia-Romagna,10012,9873,19885,49.69,71.22,9369,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680200,-21.53
+Regionali Speciali,Correggio,Reggio Nell'Emilia,Emilia-Romagna,10012,9873,19885,49.83,71.22,9909,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680200,-21.39
 Regionali Speciali,Fabbrico,Reggio Nell'Emilia,Emilia-Romagna,2580,2649,5229,46.01,68.07,2406,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680210,-22.06
 Regionali Speciali,Gattatico,Reggio Nell'Emilia,Emilia-Romagna,2367,2455,4822,40.58,64.84,1957,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680220,-24.26
-Regionali Speciali,Gualtieri,Reggio Nell'Emilia,Emilia-Romagna,2805,2832,5637,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680230,0.0
-Regionali Speciali,Guastalla,Reggio Nell'Emilia,Emilia-Romagna,6015,5807,11822,43.59,66.76,4028,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680240,-23.17
-Regionali Speciali,Luzzara,Reggio Nell'Emilia,Emilia-Romagna,3489,3495,6984,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680260,0.0
-Regionali Speciali,Montecchio Emilia,Reggio Nell'Emilia,Emilia-Romagna,4335,4111,8446,44.17,68.58,3238,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680270,-24.41
+Regionali Speciali,Gualtieri,Reggio Nell'Emilia,Emilia-Romagna,2805,2832,5637,37.41,61.52,2109,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680230,-24.11
+Regionali Speciali,Guastalla,Reggio Nell'Emilia,Emilia-Romagna,6015,5807,11822,42.71,66.76,5049,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680240,-24.05
+Regionali Speciali,Luzzara,Reggio Nell'Emilia,Emilia-Romagna,3489,3495,6984,40.01,63.37,2794,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680260,-23.36
+Regionali Speciali,Montecchio Emilia,Reggio Nell'Emilia,Emilia-Romagna,4335,4111,8446,43.07,68.58,3638,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680270,-25.51
 Regionali Speciali,Novellara,Reggio Nell'Emilia,Emilia-Romagna,5398,5117,10515,47.76,69.34,5022,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680280,-21.58
 Regionali Speciali,Poviglio,Reggio Nell'Emilia,Emilia-Romagna,2991,2992,5983,39.9,63.03,2387,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680290,-23.13
-Regionali Speciali,Quattro Castella,Reggio Nell'Emilia,Emilia-Romagna,5578,5355,10933,51.58,73.85,5216,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680300,-22.27
+Regionali Speciali,Quattro Castella,Reggio Nell'Emilia,Emilia-Romagna,5578,5355,10933,51.65,73.85,5647,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680300,-22.2
 Regionali Speciali,Reggiolo,Reggio Nell'Emilia,Emilia-Romagna,3738,3719,7457,42.4,66.13,3162,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680320,-23.73
-Regionali Speciali,Reggio Nell'Emilia,Reggio Nell'Emilia,Emilia-Romagna,65855,62650,128505,46.94,67.4,35548,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680330,-20.46
-Regionali Speciali,Rio Saliceto,Reggio Nell'Emilia,Emilia-Romagna,2413,2356,4769,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680340,0.0
+Regionali Speciali,Reggio Nell'Emilia,Reggio Nell'Emilia,Emilia-Romagna,65855,62650,128505,46.41,67.4,58955,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680330,-20.99
+Regionali Speciali,Rio Saliceto,Reggio Nell'Emilia,Emilia-Romagna,2413,2356,4769,48.9,70.61,2332,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680340,-21.71
 Regionali Speciali,Rolo,Reggio Nell'Emilia,Emilia-Romagna,1510,1607,3117,44.24,68.04,1379,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680350,-23.8
-Regionali Speciali,Rubiera,Reggio Nell'Emilia,Emilia-Romagna,5933,5811,11744,46.42,70.18,4098,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680360,-23.76
-Regionali Speciali,San Martino In Rio,Reggio Nell'Emilia,Emilia-Romagna,3237,3257,6494,46.91,72.42,1155,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680370,-25.51
-Regionali Speciali,San Polo D'Enza,Reggio Nell'Emilia,Emilia-Romagna,2460,2401,4861,43.8,68.69,1642,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680380,-24.89
+Regionali Speciali,Rubiera,Reggio Nell'Emilia,Emilia-Romagna,5933,5811,11744,47.19,70.18,5542,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680360,-22.99
+Regionali Speciali,San Martino In Rio,Reggio Nell'Emilia,Emilia-Romagna,3237,3257,6494,48.77,72.42,3167,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680370,-23.65
+Regionali Speciali,San Polo D'Enza,Reggio Nell'Emilia,Emilia-Romagna,2460,2401,4861,44.25,68.69,2151,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680380,-24.44
 Regionali Speciali,Sant'Ilario D'Enza,Reggio Nell'Emilia,Emilia-Romagna,4610,4361,8971,43.09,66.29,3866,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680390,-23.2
-Regionali Speciali,Scandiano,Reggio Nell'Emilia,Emilia-Romagna,10931,10364,21295,49.94,72.56,8007,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680400,-22.62
+Regionali Speciali,Scandiano,Reggio Nell'Emilia,Emilia-Romagna,10931,10364,21295,50.45,72.56,10371,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680400,-22.11
 Regionali Speciali,Toano,Reggio Nell'Emilia,Emilia-Romagna,1697,1774,3471,38.81,65.19,1347,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680410,-26.38
 Regionali Speciali,Ventasso,Reggio Nell'Emilia,Emilia-Romagna,1809,1834,3643,50.75,65.07,1849,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680415,-14.32
 Regionali Speciali,Vetto,Reggio Nell'Emilia,Emilia-Romagna,762,800,1562,45.33,67.94,708,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680420,-22.61
 Regionali Speciali,Vezzano Sul Crostolo,Reggio Nell'Emilia,Emilia-Romagna,1832,1767,3599,46.93,72.32,1689,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680430,-25.39
 Regionali Speciali,Viano,Reggio Nell'Emilia,Emilia-Romagna,1408,1472,2880,46.77,69.24,1347,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680440,-22.47
 Regionali Speciali,Villa Minozzo,Reggio Nell'Emilia,Emilia-Romagna,1621,1652,3273,44.39,63.48,1453,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/080680450,-19.09
-Regionali Speciali,Bellaria-Igea Marina,Rimini,Emilia-Romagna,7957,7658,15615,39.7,65.15,5845,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010010,-25.45
+Regionali Speciali,Bellaria-Igea Marina,Rimini,Emilia-Romagna,7957,7658,15615,39.85,65.15,6223,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010010,-25.3
 Regionali Speciali,Casteldelci,Rimini,Emilia-Romagna,160,166,326,52.45,69.65,171,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010015,-17.2
-Regionali Speciali,Cattolica,Rimini,Emilia-Romagna,7351,6667,14018,36.94,60.24,1644,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010020,-23.3
-Regionali Speciali,Coriano,Rimini,Emilia-Romagna,4632,4588,9220,42.31,66.17,3487,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010030,-23.86
+Regionali Speciali,Cattolica,Rimini,Emilia-Romagna,7351,6667,14018,37.2,60.24,5215,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010020,-23.04
+Regionali Speciali,Coriano,Rimini,Emilia-Romagna,4632,4588,9220,41.83,66.17,3857,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010030,-24.34
 Regionali Speciali,Gemmano,Rimini,Emilia-Romagna,628,657,1285,29.49,47.12,379,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010040,-17.63
-Regionali Speciali,Maiolo,Rimini,Emilia-Romagna,353,378,731,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010045,0.0
-Regionali Speciali,Misano Adriatico,Rimini,Emilia-Romagna,5898,5843,11741,35.33,63.59,3438,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010050,-28.26
+Regionali Speciali,Maiolo,Rimini,Emilia-Romagna,353,378,731,47.74,67.32,349,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010045,-19.58
+Regionali Speciali,Misano Adriatico,Rimini,Emilia-Romagna,5898,5843,11741,35.5,63.59,3850,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010050,-28.09
 Regionali Speciali,Mondaino,Rimini,Emilia-Romagna,551,577,1128,38.09,64.3,227,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010060,-26.21
 Regionali Speciali,Montefiore Conca,Rimini,Emilia-Romagna,1083,1100,2183,23.68,54.28,517,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010080,-30.6
 Regionali Speciali,Montegridolfo,Rimini,Emilia-Romagna,442,442,884,31.45,58.39,278,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010090,-26.94
-Regionali Speciali,Montescudo-Monte Colombo,Rimini,Emilia-Romagna,3077,3116,6193,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010101,0.0
-Regionali Speciali,Morciano Di Romagna,Rimini,Emilia-Romagna,3018,2872,5890,34.83,61.4,669,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010110,-26.57
+Regionali Speciali,Montescudo-Monte Colombo,Rimini,Emilia-Romagna,3077,3116,6193,29.32,55.28,1816,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010101,-25.96
+Regionali Speciali,Morciano Di Romagna,Rimini,Emilia-Romagna,3018,2872,5890,35.67,61.4,2101,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010110,-25.73
 Regionali Speciali,Novafeltria,Rimini,Emilia-Romagna,3165,3117,6282,42.92,65.52,2696,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010115,-22.6
 Regionali Speciali,Pennabilli,Rimini,Emilia-Romagna,1274,1282,2556,41.67,62.48,1065,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010116,-20.81
-Regionali Speciali,Poggio Torriana,Rimini,Emilia-Romagna,2224,2209,4433,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010125,0.0
-Regionali Speciali,Riccione,Rimini,Emilia-Romagna,15234,13829,29063,44.47,64.36,7112,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010130,-19.89
+Regionali Speciali,Poggio Torriana,Rimini,Emilia-Romagna,2224,2209,4433,39.79,65.88,1764,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010125,-26.09
+Regionali Speciali,Riccione,Rimini,Emilia-Romagna,15234,13829,29063,43.8,64.36,12731,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010130,-20.56
 Regionali Speciali,Rimini,Rimini,Emilia-Romagna,63363,59411,122774,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010140,0.0
 Regionali Speciali,Saludecio,Rimini,Emilia-Romagna,1341,1455,2796,28.22,54.71,789,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010150,-26.49
 Regionali Speciali,San Clemente,Rimini,Emilia-Romagna,2338,2296,4634,31.64,58.98,1466,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010160,-27.34
-Regionali Speciali,San Giovanni In Marignano,Rimini,Emilia-Romagna,3991,3906,7897,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010170,0.0
+Regionali Speciali,San Giovanni In Marignano,Rimini,Emilia-Romagna,3991,3906,7897,39.56,65.09,3124,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010170,-25.53
 Regionali Speciali,San Leo,Rimini,Emilia-Romagna,1519,1552,3071,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010175,0.0
 Regionali Speciali,Sant'Agata Feltria,Rimini,Emilia-Romagna,973,1000,1973,35.73,57.26,705,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010176,-21.53
-Regionali Speciali,Santarcangelo Di Romagna,Rimini,Emilia-Romagna,9518,9004,18522,45.49,69.5,7972,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010180,-24.01
+Regionali Speciali,Santarcangelo Di Romagna,Rimini,Emilia-Romagna,9518,9004,18522,45.74,69.5,8472,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010180,-23.76
 Regionali Speciali,Talamello,Rimini,Emilia-Romagna,587,568,1155,33.77,59.06,390,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010185,-25.29
-Regionali Speciali,Verucchio,Rimini,Emilia-Romagna,4475,4402,8877,0.0,0.0,0,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010200,0.0
+Regionali Speciali,Verucchio,Rimini,Emilia-Romagna,4475,4402,8877,38.23,64.83,3394,2024-11-18,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/081010200,-26.6
