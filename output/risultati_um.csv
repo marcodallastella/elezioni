@@ -1,8 +1,8 @@
 ﻿comune,provincia,regione,url,STEFANIA PROIETTI_total,STEFANIA PROIETTI_perc,DONATELLA TESEI_total,DONATELLA TESEI_perc,MARCO RIZZO_total,MARCO RIZZO_perc,MARTINA LEONARDI_total,MARTINA LEONARDI_perc,MORENO PASQUINELLI_total,MORENO PASQUINELLI_perc,GIUSEPPE PAOLONE_total,GIUSEPPE PAOLONE_perc,GIUSEPPE TRITTO_total,GIUSEPPE TRITTO_perc,FABRIZIO PIGNALBERI_total,FABRIZIO PIGNALBERI_perc,ELIA FRANCESCO FIORINI_total,ELIA FRANCESCO FIORINI_perc,perc_diff
-Assisi,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040010,1616,"51,03",1465,"46,26",39,"1,23",22,"0,69",6,"0,19",5,"0,16",5,"0,16",5,"0,16",4,"0,13",10.31
-Bastia Umbra,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040020,397,"62,23",228,"35,74",1,"0,16",4,"0,63",0,0,1,"0,16",6,"0,94",1,"0,16",0,0,74.12
+Assisi,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040010,1801,"50,73",1657,"46,68",40,"1,13",24,"0,68",8,"0,23",6,"0,17",5,"0,14",5,"0,14",4,"0,11",8.69
+Bastia Umbra,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040020,620,"56,57",456,"41,61",4,"0,36",6,"0,55",1,"0,09",1,"0,09",6,"0,55",2,"0,18",0,0,35.96
 Bettona,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040030,409,"45,39",473,"52,50",11,"1,22",2,"0,22",0,0,0,0,2,"0,22",0,0,4,"0,44",-13.53
-Bevagna,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040040,89,"44,28",110,"54,73",0,0,0,0,0,0,0,0,2,"1,00",0,0,0,0,-19.09
+Bevagna,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040040,248,"48,63",252,"49,41",2,"0,39",2,"0,39",0,0,0,0,6,"1,18",0,0,0,0,-1.59
 Campello Sul Clitunno,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040050,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Cannara,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040060,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Cascia,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040070,17,"27,42",44,"70,97",1,"1,61",0,0,0,0,0,0,0,0,0,0,0,0,-61.36
@@ -10,56 +10,56 @@ Castel Ritaldi,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/r
 Castiglione Del Lago,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040090,1627,"61,98",936,"35,66",23,"0,88",26,"0,99",2,"0,08",3,"0,11",5,"0,19",0,0,3,"0,11",73.82
 Cerreto Di Spoleto,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Citerna,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040110,337,"50,15",328,"48,81",2,"0,30",3,"0,45",0,0,0,0,0,0,0,0,2,"0,30",2.74
-Citta' Della Pieve,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040120,846,"59,70",524,"36,98",22,"1,55",6,"0,42",4,"0,28",2,"0,14",8,"0,56",1,"0,07",4,"0,28",61.45
-Citta' Di Castello,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040130,6830,"52,40",5860,"44,96",137,"1,05",61,"0,47",26,"0,20",26,"0,20",56,"0,43",11,"0,08",27,"0,21",16.55
+Città Della Pieve,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040120,846,"59,70",524,"36,98",22,"1,55",6,"0,42",4,"0,28",2,"0,14",8,"0,56",1,"0,07",4,"0,28",61.45
+Città Di Castello,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040130,7035,"52,55",5999,"44,81",142,"1,06",61,"0,46",27,"0,20",26,"0,19",57,"0,43",11,"0,08",30,"0,22",17.27
 Collazzone,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040140,196,"47,34",209,"50,48",4,"0,97",2,"0,48",0,0,0,0,2,"0,48",0,0,1,"0,24",-6.22
-Corciano,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040150,1857,"56,46",1357,"41,26",25,"0,76",19,"0,58",6,"0,18",3,"0,09",5,"0,15",2,"0,06",15,"0,46",36.85
+Corciano,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040150,2416,"56,23",1781,"41,45",37,"0,86",23,"0,54",7,"0,16",5,"0,12",8,"0,19",3,"0,07",17,"0,40",35.65
 Costacciaro,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040160,102,"53,13",88,"45,83",0,0,0,0,2,"1,04",0,0,0,0,0,0,0,0,15.91
 Deruta,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040170,239,"35,30",428,"63,22",3,"0,44",3,"0,44",1,"0,15",2,"0,30",1,"0,15",0,0,0,0,-44.16
-Foligno,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040180,3099,"53,75",2494,"43,25",60,"1,04",20,"0,35",23,"0,40",19,"0,33",29,"0,50",6,"0,10",16,"0,28",24.26
+Foligno,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040180,4002,"54,09",3179,"42,97",80,"1,08",21,"0,28",24,"0,32",20,"0,27",47,"0,64",8,"0,11",18,"0,24",25.89
 Fossato Di Vico,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040190,231,"47,43",241,"49,49",13,"2,67",0,0,0,0,2,"0,41",0,0,0,0,0,0,-4.15
 Fratta Todina,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Giano Dell'Umbria,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Gualdo Cattaneo,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040220,536,"36,22",925,"62,50",10,"0,68",4,"0,27",2,"0,14",2,"0,14",0,0,0,0,1,"0,07",-42.05
-Gualdo Tadino,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040230,2021,"38,44",3142,"59,77",40,"0,76",16,"0,30",8,"0,15",10,"0,19",7,"0,13",4,"0,08",9,"0,17",-35.68
-Gubbio,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040240,2558,"55,33",1931,"41,77",46,"1,00",57,"1,23",7,"0,15",9,"0,19",9,"0,19",4,"0,09",2,"0,04",32.47
+Gualdo Tadino,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040230,2167,"38,55",3356,"59,70",40,"0,71",17,"0,30",8,"0,14",10,"0,18",7,"0,12",4,"0,07",12,"0,21",-35.43
+Gubbio,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040240,2784,"54,74",2158,"42,43",51,"1,00",60,"1,18",8,"0,16",9,"0,18",9,"0,18",5,"0,10",2,"0,04",29.01
 Lisciano Niccone,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040250,113,"68,90",47,"28,66",3,"1,83",0,0,0,0,0,0,0,0,0,0,1,"0,61",140.43
-Magione,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040260,1550,"52,92",1240,"42,34",39,"1,33",13,"0,44",10,"0,34",4,"0,14",1,"0,03",0,0,72,"2,46",25.0
+Magione,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040260,1996,"53,53",1570,"42,10",46,"1,23",14,"0,38",10,"0,27",4,"0,11",1,"0,03",1,"0,03",87,"2,33",27.13
 Marsciano,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040270,558,"45,81",624,"51,23",25,"2,05",1,"0,08",1,"0,08",6,"0,49",0,0,0,0,3,"0,25",-10.58
 Massa Martana,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040280,158,"47,59",163,"49,10",7,"2,11",1,"0,30",1,"0,30",0,0,2,"0,60",0,0,0,0,-3.07
 Monte Castello Di Vibio,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040290,383,"54,79",299,"42,78",5,"0,72",4,"0,57",0,0,1,"0,14",5,"0,72",0,0,2,"0,29",28.09
 Montefalco,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040300,153,"37,41",249,"60,88",3,"0,73",3,"0,73",0,0,1,"0,24",0,0,0,0,0,0,-38.55
 Monteleone Di Spoleto,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040310,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Monte Santa Maria Tiberina,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040320,187,"65,85",91,"32,04",4,"1,41",1,"0,35",1,"0,35",0,0,0,0,0,0,0,0,105.49
-Montone,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040330,221,"60,05",123,"33,42",4,"1,09",2,"0,54",7,"1,90",10,"2,72",0,0,0,0,1,"0,27",79.67
+Montone,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040330,476,"61,50",267,"34,50",9,"1,16",2,"0,26",7,"0,90",11,"1,42",0,0,0,0,2,"0,26",78.28
 Nocera Umbra,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040340,339,"42,48",447,"56,02",5,"0,63",1,"0,13",0,0,2,"0,25",4,"0,50",0,0,0,0,-24.16
 Norcia,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Paciano,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Panicale,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040370,70,"60,87",43,"37,39",1,"0,87",1,"0,87",0,0,0,0,0,0,0,0,0,0,62.79
 Passignano Sul Trasimeno,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040380,398,"47,32",418,"49,70",6,"0,71",7,"0,83",2,"0,24",2,"0,24",1,"0,12",0,0,7,"0,83",-4.78
-Perugia,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040390,8615,"54,26",6893,"43,41",182,"1,15",58,"0,37",36,"0,23",30,"0,19",24,"0,15",4,"0,03",36,"0,23",24.98
+Perugia,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040390,9040,"54,11",7282,"43,58",189,"1,13",61,"0,37",39,"0,23",32,"0,19",24,"0,14",4,"0,02",37,"0,22",24.14
 Piegaro,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040400,240,"54,42",185,"41,95",10,"2,27",0,0,0,0,3,"0,68",0,0,0,0,3,"0,68",29.73
 Pietralunga,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040410,55,"44,35",60,"48,39",8,"6,45",0,0,0,0,1,"0,81",0,0,0,0,0,0,-8.33
 Poggiodomo,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040420,18,"40,91",26,"59,09",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30.77
 Preci,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-San Giustino,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040440,1039,"51,77",914,"45,54",23,"1,15",13,"0,65",3,"0,15",4,"0,20",5,"0,25",3,"0,15",3,"0,15",13.68
+San Giustino,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040440,1509,"52,58",1280,"44,60",31,"1,08",20,"0,70",9,"0,31",5,"0,17",5,"0,17",5,"0,17",6,"0,21",17.89
 Sant'Anatolia Di Narco,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Scheggia E Pascelupo,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040460,140,"42,42",178,"53,94",6,"1,82",0,0,3,"0,91",0,0,1,"0,30",2,"0,61",0,0,-21.35
 Scheggino,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040470,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Sellano,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040480,172,"40,95",237,"56,43",5,"1,19",2,"0,48",0,0,0,0,2,"0,48",0,0,2,"0,48",-27.43
 Sigillo,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040490,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Spello,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040500,238,"53,60",186,"41,89",7,"1,58",4,"0,90",2,"0,45",1,"0,23",5,"1,13",0,0,1,"0,23",27.96
+Spello,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040500,444,"52,05",373,"43,73",8,"0,94",6,"0,70",3,"0,35",3,"0,35",15,"1,76",0,0,1,"0,12",19.03
 Spoleto,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040510,2312,"58,49",1535,"38,83",42,"1,06",18,"0,46",9,"0,23",10,"0,25",16,"0,40",1,"0,03",10,"0,25",50.62
 Todi,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040520,1227,"48,61",1249,"49,48",20,"0,79",8,"0,32",3,"0,12",5,"0,20",9,"0,36",1,"0,04",2,"0,08",-1.76
 Torgiano,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040530,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-Trevi,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040540,572,"46,50",622,"50,57",20,"1,63",6,"0,49",3,"0,24",2,"0,16",2,"0,16",1,"0,08",2,"0,16",-8.04
+Trevi,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040540,747,"46,75",806,"50,44",23,"1,44",6,"0,38",7,"0,44",2,"0,13",4,"0,25",1,"0,06",2,"0,13",-7.32
 Tuoro Sul Trasimeno,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040550,100,"58,14",66,"38,37",5,"2,91",0,0,0,0,0,0,0,0,0,0,1,"0,58",51.52
 Umbertide,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040560,1346,"52,27",1160,"45,05",33,"1,28",8,"0,31",9,"0,35",12,"0,47",1,"0,04",0,0,6,"0,23",16.03
 Valfabbrica,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040570,176,"32,90",340,"63,55",7,"1,31",0,0,0,0,1,"0,19",9,"1,68",1,"0,19",1,"0,19",-48.24
 Vallo Di Nera,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040580,86,"53,09",73,"45,06",2,"1,23",0,0,0,0,0,0,1,"0,62",0,0,0,0,17.81
 Valtopina,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040590,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Acquasparta,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040010,88,"48,62",91,"50,28",1,"0,55",0,0,0,0,0,0,1,"0,55",0,0,0,0,-3.3
-Allerona,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Allerona,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040020,123,"58,85",78,"37,32",4,"1,91",3,"1,44",1,"0,48",0,0,0,0,0,0,0,0,57.69
 Alviano,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040030,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Amelia,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040040,566,"49,69",525,"46,09",8,"0,70",11,"0,97",15,"1,32",6,"0,53",5,"0,44",1,"0,09",2,"0,18",7.81
 Arrone,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040050,131,"54,81",105,"43,93",1,"0,42",1,"0,42",0,0,1,"0,42",0,0,0,0,0,0,24.76
@@ -69,20 +69,20 @@ Baschi,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali
 Calvi Dell'Umbria,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040080,52,"30,06",118,"68,21",2,"1,16",0,0,0,0,1,"0,58",0,0,0,0,0,0,-55.93
 Castel Giorgio,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040090,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Castel Viscardo,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040100,260,"44,29",317,"54,00",2,"0,34",2,"0,34",1,"0,17",2,"0,34",2,"0,34",1,"0,17",0,0,-17.98
-Fabro,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040110,131,"53,04",97,"39,27",9,"3,64",6,"2,43",3,"1,21",0,0,0,0,1,"0,40",0,0,35.05
+Fabro,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040110,304,"44,19",350,"50,87",16,"2,33",8,"1,16",6,"0,87",1,"0,15",1,"0,15",2,"0,29",0,0,-13.14
 Ferentillo,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Ficulle,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040130,121,"44,98",136,"50,56",5,"1,86",5,"1,86",1,"0,37",1,"0,37",0,0,0,0,0,0,-11.03
 Giove,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Guardea,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040150,22,"28,95",53,"69,74",1,"1,32",0,0,0,0,0,0,0,0,0,0,0,0,-58.49
 Lugnano In Teverina,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040160,121,"34,67",223,"63,90",1,"0,29",1,"0,29",0,0,1,"0,29",0,0,2,"0,57",0,0,-45.74
-Montecastrilli,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040170,103,"44,78",122,"53,04",0,0,5,"2,17",0,0,0,0,0,0,0,0,0,0,-15.57
+Montecastrilli,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040170,256,"43,99",314,"53,95",1,"0,17",6,"1,03",3,"0,52",2,"0,34",0,0,0,0,0,0,-18.47
 Montecchio,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040180,80,"32,92",161,"66,26",2,"0,82",0,0,0,0,0,0,0,0,0,0,0,0,-50.31
 Montefranco,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040190,84,"35,59",145,"61,44",2,"0,85",5,"2,12",0,0,0,0,0,0,0,0,0,0,-42.07
-Montegabbione,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Montegabbione,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040200,189,"54,15",127,"36,39",3,"0,86",2,"0,57",24,"6,88",0,0,0,0,1,"0,29",3,"0,86",48.82
 Monteleone D'Orvieto,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040210,274,"50,09",256,"46,80",10,"1,83",3,"0,55",3,"0,55",0,0,0,0,1,"0,18",0,0,7.03
-Narni,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040220,1892,"56,08",1394,"41,32",30,"0,89",27,"0,80",15,"0,44",7,"0,21",5,"0,15",0,0,4,"0,12",35.72
-Orvieto,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040230,1546,"51,77",1374,"46,01",16,"0,54",20,"0,67",11,"0,37",7,"0,23",6,"0,20",4,"0,13",2,"0,07",12.52
-Otricoli,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040240,55,"37,41",89,"60,54",1,"0,68",1,"0,68",1,"0,68",0,0,0,0,0,0,0,0,-38.2
+Narni,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040220,2292,"56,18",1680,"41,18",37,"0,91",32,"0,78",18,"0,44",9,"0,22",5,"0,12",0,0,7,"0,17",36.43
+Orvieto,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040230,1734,"51,59",1551,"46,15",20,"0,60",25,"0,74",11,"0,33",7,"0,21",7,"0,21",4,"0,12",2,"0,06",11.8
+Otricoli,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040240,149,"37,82",242,"61,42",1,"0,25",1,"0,25",1,"0,25",0,0,0,0,0,0,0,0,-38.43
 Parrano,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040250,156,"63,41",82,"33,33",1,"0,41",2,"0,81",3,"1,22",0,0,0,0,0,0,2,"0,81",90.24
 Penna In Teverina,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040260,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Polino,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040270,48,"37,80",76,"59,84",1,"0,79",2,"1,57",0,0,0,0,0,0,0,0,0,0,-36.84
@@ -90,4 +90,4 @@ Porano,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali
 San Gemini,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 San Venanzo,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040300,409,"52,77",349,"45,03",11,"1,42",2,"0,26",0,0,0,0,1,"0,13",0,0,3,"0,39",17.19
 Stroncone,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040310,679,"41,03",919,"55,53",19,"1,15",21,"1,27",3,"0,18",8,"0,48",4,"0,24",1,"0,06",1,"0,06",-26.12
-Terni,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040320,8990,"50,08",8366,"46,60",241,"1,34",179,"1,00",41,"0,23",51,"0,28",30,"0,17",15,"0,08",39,"0,22",7.46
+Terni,Terni,Umbria,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/103040320,10390,"50,31",9588,"46,43",273,"1,32",204,"0,99",45,"0,22",55,"0,27",35,"0,17",16,"0,08",44,"0,21",8.36
