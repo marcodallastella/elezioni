@@ -21,8 +21,11 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Look for new data
-        run: jupyter nbconvert --to notebook --execute "notebooks/2.2_affluenza_um.ipynb"        
+      - name: Look for new data UMBRIA
+        run: jupyter nbconvert --to notebook --execute "notebooks/2.2_affluenza_um.ipynb"       
+        
+      - name: Look for new data EMILIA ROMAGNA
+        run: jupyter nbconvert --to notebook --execute "notebooks/2.1_affluenza_er.ipynb"        
 
       - name: Commit and push changes
         env:
