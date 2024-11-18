@@ -31,7 +31,7 @@ jobs:
         run: jupyter nbconvert --to notebook --execute "notebooks/4.0_risultati_viz_er.ipynb"       
         
       - name: Clean EMILIA ROMAGNA
-      - run: jupyter nbconvert --to notebook notebooks/4.1_risultati_viz_um.ipynb
+        run: jupyter nbconvert --to notebook notebooks/4.1_risultati_viz_um.ipynb
 
       - name: Commit and push changes
         env:
