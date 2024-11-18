@@ -4,12 +4,12 @@ Anzola Dell'Emilia,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risult
 Argelato,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130020,2536,"63,51",1327,"33,23",75,"1,88",55,"1,38",91.11
 Baricella,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130030,1277,"51,60",1115,"45,05",42,"1,70",41,"1,66",14.53
 Bentivoglio,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130050,1357,"60,15",806,"35,73",54,"2,39",39,"1,73",68.36
-Bologna,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130060,100660,"63,60",50481,"31,89",5445,"3,44",1689,"1,07",99.4
+Bologna,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130060,100911,"63,60",50601,"31,89",5452,"3,44",1696,"1,07",99.42
 Borgo Tossignano,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130070,592,"55,64",425,"39,94",28,"2,63",19,"1,79",39.29
 Budrio,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130080,4144,"55,41",3061,"40,93",182,"2,43",92,"1,23",35.38
 Calderara Di Reno,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130090,3798,"64,36",1893,"32,08",125,"2,12",85,"1,44",100.63
 Camugnano,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130100,351,"44,88",409,"52,30",10,"1,28",12,"1,53",-14.18
-Casalecchio Di Reno,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130110,9220,"64,39",4585,"32,02",357,"2,49",156,"1,09",101.09
+Casalecchio Di Reno,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130110,9514,"64,51",4708,"31,93",368,"2,50",157,"1,06",102.08
 Casalfiumanese,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130120,700,"58,53",455,"38,04",22,"1,84",19,"1,59",53.85
 Castel D'Aiano,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130130,341,"42,79",423,"53,07",20,"2,51",13,"1,63",-19.39
 Castel Del Rio,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130140,248,"55,48",184,"41,16",9,"2,01",6,"1,34",34.78
@@ -27,7 +27,7 @@ Gaggio Montano,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/
 Galliera,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130280,1006,"55,67",741,"41,01",34,"1,88",26,"1,44",35.76
 Granarolo Dell'Emilia,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130300,3417,"61,86",1930,"34,94",121,"2,19",56,"1,01",77.05
 Grizzana Morandi,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130310,855,"59,01",529,"36,51",37,"2,55",28,"1,93",61.63
-Imola,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130320,16020,"63,76",8278,"32,95",533,"2,12",294,"1,17",93.53
+Imola,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130320,16256,"63,61",8466,"33,13",538,"2,11",296,"1,16",92.02
 Lizzano In Belvedere,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130330,406,"43,84",493,"53,24",15,"1,62",12,"1,30",-17.65
 Loiano,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130340,854,"50,18",770,"45,24",31,"1,82",47,"2,76",10.91
 Malalbergo,Bologna,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080130350,1679,"54,06",1330,"42,82",54,"1,74",43,"1,38",26.24
@@ -110,7 +110,7 @@ Bomporto,Modena,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/2024111
 Campogalliano,Modena,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080500030,2083,"65,15",1015,"31,75",46,"1,44",53,"1,66",105.22
 Camposanto,Modena,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080500040,524,"45,13",605,"52,11",15,"1,29",17,"1,46",-13.39
 Carpi,Modena,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080500050,16855,"63,82",8837,"33,46",428,"1,62",292,"1,11",90.73
-Castelfranco Emilia,Modena,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080500060,6949,"63,14",3750,"34,07",202,"1,84",105,"0,95",85.31
+Castelfranco Emilia,Modena,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080500060,7281,"63,09",3936,"34,10",213,"1,85",111,"0,96",84.98
 Castelnuovo Rangone,Modena,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080500070,3534,"59,65",2224,"37,54",83,"1,40",84,"1,42",58.9
 Castelvetro Di Modena,Modena,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080500080,2321,"58,55",1541,"38,87",45,"1,14",57,"1,44",50.62
 Cavezzo,Modena,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080500090,1300,"49,54",1247,"47,52",36,"1,37",41,"1,56",4.25
@@ -177,7 +177,7 @@ Montechiarugolo,Parma,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/2
 Neviano Degli Arduini,Parma,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080560240,592,"45,19",670,"51,15",23,"1,76",25,"1,91",-11.64
 Noceto,Parma,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080560250,2054,"43,24",2603,"54,80",63,"1,33",30,"0,63",-21.09
 Palanzano,Parma,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080560260,170,"39,72",252,"58,88",5,"1,17",1,"0,23",-32.54
-Parma,Parma,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080560270,36476,"55,96",26794,"41,10",1340,"2,06",578,"0,89",36.13
+Parma,Parma,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080560270,36612,"55,98",26862,"41,08",1345,"2,06",578,"0,88",36.3
 Pellegrino Parmense,Parma,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080560280,127,"40,97",177,"57,10",5,"1,61",1,"0,32",-28.25
 Polesine Zibello,Parma,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080560291,310,"35,39",546,"62,33",12,"1,37",8,"0,91",-43.22
 Roccabianca,Parma,Emilia-Romagna,https://elezioni.interno.gov.it/risultati/20241117/regionali/scrutini/italia/080560300,423,"48,62",411,"47,24",29,"3,33",7,"0,80",2.92
