@@ -25,7 +25,7 @@ jobs:
         run: jupyter nbconvert --to notebook --execute "notebooks/3.2_risultati_um.ipynb"       
         
       - name: Look for new data EMILIA ROMAGNA
-        run: jupyter nbconvert --to notebook --execute "notebooks/4.0_risultati_viz_er.ipynb"  
+        run: jupyter nbconvert --to notebook --execute "notebooks/4.0_risultati_er.ipynb"  
         
       # - name: Clean UMBRIA
       #   run: jupyter nbconvert --to notebook --execute "notebooks/4.0_risultati_viz_er.ipynb"       
