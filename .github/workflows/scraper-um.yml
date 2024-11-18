@@ -3,7 +3,7 @@ name: scraper-um
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/10 * * * *' # Run every 10 minutes
+    - cron: '0 0 30 2 *' # Run every 10 minutes
 jobs:
   data_processing:
     runs-on: ubuntu-latest
