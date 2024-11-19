@@ -1,0 +1,937 @@
+﻿ele_info,comune,provincia,regione,ele_f,ele_m,ele_t,perc,perc_r,vot_t,data,ora,update_number,url,perc_diff
+Regionali Speciali,Arenzano,Genova,Liguria,5395,4922,10317,17.57,14.54,1813,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340010,20.84
+Regionali Speciali,Arenzano,Genova,Liguria,5395,4922,10317,36.95,34.74,3812,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340010,6.36
+Regionali Speciali,Arenzano,Genova,Liguria,5395,4922,10317,42.13,44.89,4347,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340010,-6.15
+Regionali Speciali,Arenzano,Genova,Liguria,5395,4922,10317,56.54,62.39,5833,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340010,-9.38
+Regionali Speciali,Avegno,Genova,Liguria,1114,1130,2244,10.96,11.35,246,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340020,-3.44
+Regionali Speciali,Avegno,Genova,Liguria,1114,1130,2244,31.73,30.0,712,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340020,5.77
+Regionali Speciali,Avegno,Genova,Liguria,1114,1130,2244,36.54,40.61,820,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340020,-10.02
+Regionali Speciali,Avegno,Genova,Liguria,1114,1130,2244,48.44,59.07,1087,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340020,-18.0
+Regionali Speciali,Bargagli,Genova,Liguria,1119,1164,2283,10.86,12.0,248,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340030,-9.5
+Regionali Speciali,Bargagli,Genova,Liguria,1119,1164,2283,27.16,30.27,620,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340030,-10.27
+Regionali Speciali,Bargagli,Genova,Liguria,1119,1164,2283,30.92,37.95,706,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340030,-18.52
+Regionali Speciali,Bargagli,Genova,Liguria,1119,1164,2283,42.71,51.99,975,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340030,-17.85
+Regionali Speciali,Bogliasco,Genova,Liguria,2281,2123,4404,14.78,15.17,651,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340040,-2.57
+Regionali Speciali,Bogliasco,Genova,Liguria,2281,2123,4404,33.4,30.73,1471,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340040,8.69
+Regionali Speciali,Bogliasco,Genova,Liguria,2281,2123,4404,37.78,37.95,1664,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340040,-0.45
+Regionali Speciali,Bogliasco,Genova,Liguria,2281,2123,4404,49.5,51.59,2180,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340040,-4.05
+Regionali Speciali,Borzonasca,Genova,Liguria,869,932,1801,8.05,8.66,145,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340050,-7.04
+Regionali Speciali,Borzonasca,Genova,Liguria,869,932,1801,20.16,25.69,363,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340050,-21.53
+Regionali Speciali,Borzonasca,Genova,Liguria,869,932,1801,22.93,33.41,413,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340050,-31.37
+Regionali Speciali,Borzonasca,Genova,Liguria,869,932,1801,34.93,45.52,629,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340050,-23.26
+Regionali Speciali,Busalla,Genova,Liguria,2311,2181,4492,14.02,15.45,630,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340060,-9.26
+Regionali Speciali,Busalla,Genova,Liguria,2311,2181,4492,33.73,38.23,1515,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340060,-11.77
+Regionali Speciali,Busalla,Genova,Liguria,2311,2181,4492,38.07,45.23,1710,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340060,-15.83
+Regionali Speciali,Busalla,Genova,Liguria,2311,2181,4492,51.76,58.37,2325,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340060,-11.32
+Regionali Speciali,Camogli,Genova,Liguria,2910,2870,5780,13.17,14.01,761,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340070,-6.0
+Regionali Speciali,Camogli,Genova,Liguria,2910,2870,5780,28.65,30.0,1656,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340070,-4.5
+Regionali Speciali,Camogli,Genova,Liguria,2910,2870,5780,32.85,36.85,1899,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340070,-10.85
+Regionali Speciali,Camogli,Genova,Liguria,2910,2870,5780,44.79,50.42,2589,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340070,-11.17
+Regionali Speciali,Campo Ligure,Genova,Liguria,1209,1190,2399,12.55,14.69,301,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340080,-14.57
+Regionali Speciali,Campo Ligure,Genova,Liguria,1209,1190,2399,38.56,35.84,925,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340080,7.59
+Regionali Speciali,Campo Ligure,Genova,Liguria,1209,1190,2399,43.68,45.22,1048,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340080,-3.41
+Regionali Speciali,Campo Ligure,Genova,Liguria,1209,1190,2399,56.36,60.65,1352,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340080,-7.07
+Regionali Speciali,Campomorone,Genova,Liguria,3071,2901,5972,13.93,14.52,832,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340090,-4.06
+Regionali Speciali,Campomorone,Genova,Liguria,3071,2901,5972,35.57,35.04,2124,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340090,1.51
+Regionali Speciali,Campomorone,Genova,Liguria,3071,2901,5972,40.17,43.24,2399,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340090,-7.1
+Regionali Speciali,Campomorone,Genova,Liguria,3071,2901,5972,50.7,57.54,3028,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340090,-11.89
+Regionali Speciali,Carasco,Genova,Liguria,1664,1651,3315,11.1,12.09,368,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340100,-8.19
+Regionali Speciali,Carasco,Genova,Liguria,1664,1651,3315,28.84,29.84,956,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340100,-3.35
+Regionali Speciali,Carasco,Genova,Liguria,1664,1651,3315,32.73,37.54,1085,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340100,-12.81
+Regionali Speciali,Carasco,Genova,Liguria,1664,1651,3315,43.05,52.48,1427,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340100,-17.97
+Regionali Speciali,Casarza Ligure,Genova,Liguria,2958,2869,5827,11.17,14.34,651,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340110,-22.11
+Regionali Speciali,Casarza Ligure,Genova,Liguria,2958,2869,5827,33.1,33.95,1929,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340110,-2.5
+Regionali Speciali,Casarza Ligure,Genova,Liguria,2958,2869,5827,37.65,42.41,2194,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340110,-11.22
+Regionali Speciali,Casarza Ligure,Genova,Liguria,2958,2869,5827,50.3,59.8,2931,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340110,-15.89
+Regionali Speciali,Casella,Genova,Liguria,1372,1378,2750,13.09,16.88,360,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340120,-22.45
+Regionali Speciali,Casella,Genova,Liguria,1372,1378,2750,32.51,38.07,894,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340120,-14.6
+Regionali Speciali,Casella,Genova,Liguria,1372,1378,2750,36.33,48.59,999,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340120,-25.23
+Regionali Speciali,Casella,Genova,Liguria,1372,1378,2750,46.91,65.15,1290,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340120,-28.0
+Regionali Speciali,Castiglione Chiavarese,Genova,Liguria,907,875,1782,8.87,8.11,158,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340130,9.37
+Regionali Speciali,Castiglione Chiavarese,Genova,Liguria,907,875,1782,23.51,22.75,419,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340130,3.34
+Regionali Speciali,Castiglione Chiavarese,Genova,Liguria,907,875,1782,26.82,28.63,478,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340130,-6.32
+Regionali Speciali,Castiglione Chiavarese,Genova,Liguria,907,875,1782,37.6,42.8,670,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340130,-12.15
+Regionali Speciali,Ceranesi,Genova,Liguria,1594,1630,3224,13.43,12.13,433,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340140,10.72
+Regionali Speciali,Ceranesi,Genova,Liguria,1594,1630,3224,35.45,33.75,1143,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340140,5.04
+Regionali Speciali,Ceranesi,Genova,Liguria,1594,1630,3224,40.79,44.39,1315,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340140,-8.11
+Regionali Speciali,Ceranesi,Genova,Liguria,1594,1630,3224,52.48,59.27,1692,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340140,-11.46
+Regionali Speciali,Chiavari,Genova,Liguria,14128,12198,26326,13.22,13.95,3481,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340150,-5.23
+Regionali Speciali,Chiavari,Genova,Liguria,14128,12198,26326,30.54,30.64,8039,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340150,-0.33
+Regionali Speciali,Chiavari,Genova,Liguria,14128,12198,26326,35.13,37.64,9249,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340150,-6.67
+Regionali Speciali,Chiavari,Genova,Liguria,14128,12198,26326,45.43,51.44,11961,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340150,-11.68
+Regionali Speciali,Cicagna,Genova,Liguria,979,1030,2009,11.4,13.6,229,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340160,-16.18
+Regionali Speciali,Cicagna,Genova,Liguria,979,1030,2009,30.86,32.55,620,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340160,-5.19
+Regionali Speciali,Cicagna,Genova,Liguria,979,1030,2009,35.69,38.25,717,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340160,-6.69
+Regionali Speciali,Cicagna,Genova,Liguria,979,1030,2009,45.35,54.2,911,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340160,-16.33
+Regionali Speciali,Cogoleto,Genova,Liguria,3908,3585,7493,16.08,16.67,1205,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340170,-3.54
+Regionali Speciali,Cogoleto,Genova,Liguria,3908,3585,7493,35.83,40.2,2685,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340170,-10.87
+Regionali Speciali,Cogoleto,Genova,Liguria,3908,3585,7493,40.76,51.46,3054,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340170,-20.79
+Regionali Speciali,Cogoleto,Genova,Liguria,3908,3585,7493,54.34,68.91,4072,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340170,-21.14
+Regionali Speciali,Cogorno,Genova,Liguria,2979,2845,5824,9.58,12.89,558,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340180,-25.68
+Regionali Speciali,Cogorno,Genova,Liguria,2979,2845,5824,26.63,28.63,1551,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340180,-6.99
+Regionali Speciali,Cogorno,Genova,Liguria,2979,2845,5824,31.78,35.05,1851,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340180,-9.33
+Regionali Speciali,Cogorno,Genova,Liguria,2979,2845,5824,43.36,49.33,2525,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340180,-12.1
+Regionali Speciali,Coreglia Ligure,Genova,Liguria,141,160,301,6.98,7.67,21,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340190,-9.0
+Regionali Speciali,Coreglia Ligure,Genova,Liguria,141,160,301,20.93,26.0,63,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340190,-19.5
+Regionali Speciali,Coreglia Ligure,Genova,Liguria,141,160,301,27.24,32.33,82,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340190,-15.74
+Regionali Speciali,Coreglia Ligure,Genova,Liguria,141,160,301,39.87,47.0,120,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340190,-15.17
+Regionali Speciali,Crocefieschi,Genova,Liguria,249,303,552,19.93,22.92,110,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340200,-13.05
+Regionali Speciali,Crocefieschi,Genova,Liguria,249,303,552,39.13,47.46,216,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340200,-17.55
+Regionali Speciali,Crocefieschi,Genova,Liguria,249,303,552,42.75,57.4,236,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340200,-25.52
+Regionali Speciali,Crocefieschi,Genova,Liguria,249,303,552,53.99,72.01,298,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340200,-25.02
+Regionali Speciali,Davagna,Genova,Liguria,796,868,1664,10.7,13.15,178,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340210,-18.63
+Regionali Speciali,Davagna,Genova,Liguria,796,868,1664,28.73,31.19,478,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340210,-7.89
+Regionali Speciali,Davagna,Genova,Liguria,796,868,1664,33.23,37.38,553,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340210,-11.1
+Regionali Speciali,Davagna,Genova,Liguria,796,868,1664,42.31,48.51,704,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340210,-12.78
+Regionali Speciali,Fascia,Genova,Liguria,40,39,79,16.46,13.16,13,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340220,25.08
+Regionali Speciali,Fascia,Genova,Liguria,40,39,79,34.18,34.21,27,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340220,-0.09
+Regionali Speciali,Fascia,Genova,Liguria,40,39,79,37.97,40.79,30,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340220,-6.91
+Regionali Speciali,Fascia,Genova,Liguria,40,39,79,54.43,57.89,43,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340220,-5.98
+Regionali Speciali,Favale Di Malvaro,Genova,Liguria,385,354,739,6.5,6.51,48,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340230,-0.15
+Regionali Speciali,Favale Di Malvaro,Genova,Liguria,385,354,739,16.51,18.2,122,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340230,-9.29
+Regionali Speciali,Favale Di Malvaro,Genova,Liguria,385,354,739,20.03,25.44,148,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340230,-21.27
+Regionali Speciali,Favale Di Malvaro,Genova,Liguria,385,354,739,27.74,37.13,205,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340230,-25.29
+Regionali Speciali,Fontanigorda,Genova,Liguria,95,124,219,14.16,17.41,31,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340240,-18.67
+Regionali Speciali,Fontanigorda,Genova,Liguria,95,124,219,32.88,41.3,72,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340240,-20.39
+Regionali Speciali,Fontanigorda,Genova,Liguria,95,124,219,35.16,45.75,77,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340240,-23.15
+Regionali Speciali,Fontanigorda,Genova,Liguria,95,124,219,55.71,56.68,122,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340240,-1.71
+Regionali Speciali,Genova,Genova,Liguria,253210,225668,478878,15.3,14.51,73280,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340250,5.44
+Regionali Speciali,Genova,Genova,Liguria,253210,225668,478878,34.57,32.91,165564,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340250,5.04
+Regionali Speciali,Genova,Genova,Liguria,253210,225668,478878,39.14,40.72,187446,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340250,-3.88
+Regionali Speciali,Genova,Genova,Liguria,253210,225668,478878,50.11,53.67,239944,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340250,-6.63
+Regionali Speciali,Gorreto,Genova,Liguria,53,56,109,9.17,10.38,10,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340260,-11.66
+Regionali Speciali,Gorreto,Genova,Liguria,53,56,109,33.94,25.47,37,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340260,33.25
+Regionali Speciali,Gorreto,Genova,Liguria,53,56,109,35.78,33.02,39,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340260,8.36
+Regionali Speciali,Gorreto,Genova,Liguria,53,56,109,49.54,57.55,54,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340260,-13.92
+Regionali Speciali,Isola Del Cantone,Genova,Liguria,884,930,1814,7.66,9.5,139,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340270,-19.37
+Regionali Speciali,Isola Del Cantone,Genova,Liguria,884,930,1814,20.34,23.66,369,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340270,-14.03
+Regionali Speciali,Isola Del Cantone,Genova,Liguria,884,930,1814,24.15,29.55,438,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340270,-18.27
+Regionali Speciali,Isola Del Cantone,Genova,Liguria,884,930,1814,32.8,40.09,595,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340270,-18.18
+Regionali Speciali,Lavagna,Genova,Liguria,6406,5662,12068,12.27,14.1,1481,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340280,-12.98
+Regionali Speciali,Lavagna,Genova,Liguria,6406,5662,12068,29.16,30.38,3519,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340280,-4.02
+Regionali Speciali,Lavagna,Genova,Liguria,6406,5662,12068,34.07,36.99,4112,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340280,-7.89
+Regionali Speciali,Lavagna,Genova,Liguria,6406,5662,12068,43.95,51.17,5304,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340280,-14.11
+Regionali Speciali,Leivi,Genova,Liguria,1221,1189,2410,9.42,13.17,227,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340290,-28.47
+Regionali Speciali,Leivi,Genova,Liguria,1221,1189,2410,29.67,30.99,715,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340290,-4.26
+Regionali Speciali,Leivi,Genova,Liguria,1221,1189,2410,34.52,38.46,832,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340290,-10.24
+Regionali Speciali,Leivi,Genova,Liguria,1221,1189,2410,45.27,55.17,1091,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340290,-17.94
+Regionali Speciali,Lorsica,Genova,Liguria,254,237,491,8.96,10.2,44,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340300,-12.16
+Regionali Speciali,Lorsica,Genova,Liguria,254,237,491,25.25,27.6,124,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340300,-8.51
+Regionali Speciali,Lorsica,Genova,Liguria,254,237,491,28.92,34.2,142,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340300,-15.44
+Regionali Speciali,Lorsica,Genova,Liguria,254,237,491,38.9,47.8,191,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340300,-18.62
+Regionali Speciali,Lumarzo,Genova,Liguria,925,941,1866,8.2,8.83,153,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340310,-7.13
+Regionali Speciali,Lumarzo,Genova,Liguria,925,941,1866,19.45,24.0,363,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340310,-18.96
+Regionali Speciali,Lumarzo,Genova,Liguria,925,941,1866,24.17,30.52,451,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340310,-20.81
+Regionali Speciali,Lumarzo,Genova,Liguria,925,941,1866,32.58,41.77,608,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340310,-22.0
+Regionali Speciali,Masone,Genova,Liguria,1659,1632,3291,13.98,13.38,460,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340320,4.48
+Regionali Speciali,Masone,Genova,Liguria,1659,1632,3291,34.73,34.02,1143,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340320,2.09
+Regionali Speciali,Masone,Genova,Liguria,1659,1632,3291,40.41,44.31,1330,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340320,-8.8
+Regionali Speciali,Masone,Genova,Liguria,1659,1632,3291,54.09,59.23,1780,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340320,-8.68
+Regionali Speciali,Mele,Genova,Liguria,1133,1103,2236,14.49,13.31,324,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340330,8.87
+Regionali Speciali,Mele,Genova,Liguria,1133,1103,2236,37.75,32.79,844,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340330,15.13
+Regionali Speciali,Mele,Genova,Liguria,1133,1103,2236,41.73,44.0,933,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340330,-5.16
+Regionali Speciali,Mele,Genova,Liguria,1133,1103,2236,54.56,59.85,1220,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340330,-8.84
+Regionali Speciali,Mezzanego,Genova,Liguria,730,730,1460,8.01,13.48,117,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340340,-40.58
+Regionali Speciali,Mezzanego,Genova,Liguria,730,730,1460,23.08,26.38,337,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340340,-12.51
+Regionali Speciali,Mezzanego,Genova,Liguria,730,730,1460,27.53,33.38,402,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340340,-17.53
+Regionali Speciali,Mezzanego,Genova,Liguria,730,730,1460,37.47,47.96,547,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340340,-21.87
+Regionali Speciali,Mignanego,Genova,Liguria,1659,1574,3233,12.68,13.18,410,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340350,-3.79
+Regionali Speciali,Mignanego,Genova,Liguria,1659,1574,3233,31.74,31.88,1026,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340350,-0.44
+Regionali Speciali,Mignanego,Genova,Liguria,1659,1574,3233,35.85,40.94,1159,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340350,-12.43
+Regionali Speciali,Mignanego,Genova,Liguria,1659,1574,3233,48.0,55.38,1552,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340350,-13.33
+Regionali Speciali,Moconesi,Genova,Liguria,1089,1142,2231,9.73,12.4,217,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340360,-21.53
+Regionali Speciali,Moconesi,Genova,Liguria,1089,1142,2231,27.16,30.09,606,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340360,-9.74
+Regionali Speciali,Moconesi,Genova,Liguria,1089,1142,2231,31.87,39.31,711,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340360,-18.93
+Regionali Speciali,Moconesi,Genova,Liguria,1089,1142,2231,44.64,55.62,996,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340360,-19.74
+Regionali Speciali,Moneglia,Genova,Liguria,1554,1489,3043,11.93,14.63,363,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340370,-18.46
+Regionali Speciali,Moneglia,Genova,Liguria,1554,1489,3043,25.17,28.65,766,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340370,-12.15
+Regionali Speciali,Moneglia,Genova,Liguria,1554,1489,3043,29.18,34.18,888,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340370,-14.63
+Regionali Speciali,Moneglia,Genova,Liguria,1554,1489,3043,41.37,48.06,1259,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340370,-13.92
+Regionali Speciali,Montebruno,Genova,Liguria,100,95,195,13.33,12.32,26,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340380,8.2
+Regionali Speciali,Montebruno,Genova,Liguria,100,95,195,30.77,31.03,60,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340380,-0.84
+Regionali Speciali,Montebruno,Genova,Liguria,100,95,195,32.31,35.96,63,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340380,-10.15
+Regionali Speciali,Montebruno,Genova,Liguria,100,95,195,42.05,47.78,82,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340380,-11.99
+Regionali Speciali,Montoggio,Genova,Liguria,935,943,1878,12.09,12.74,227,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340390,-5.1
+Regionali Speciali,Montoggio,Genova,Liguria,935,943,1878,28.27,30.08,531,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340390,-6.02
+Regionali Speciali,Montoggio,Genova,Liguria,935,943,1878,32.64,39.42,613,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340390,-17.2
+Regionali Speciali,Montoggio,Genova,Liguria,935,943,1878,44.09,51.62,828,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340390,-14.59
+Regionali Speciali,Ne,Genova,Liguria,1193,1230,2423,6.93,9.22,168,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340400,-24.84
+Regionali Speciali,Ne,Genova,Liguria,1193,1230,2423,21.3,26.27,516,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340400,-18.92
+Regionali Speciali,Ne,Genova,Liguria,1193,1230,2423,25.22,32.09,611,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340400,-21.41
+Regionali Speciali,Ne,Genova,Liguria,1193,1230,2423,36.57,45.87,886,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340400,-20.27
+Regionali Speciali,Neirone,Genova,Liguria,440,481,921,9.45,10.8,87,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340410,-12.5
+Regionali Speciali,Neirone,Genova,Liguria,440,481,921,23.78,27.51,219,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340410,-13.56
+Regionali Speciali,Neirone,Genova,Liguria,440,481,921,27.25,35.68,251,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340410,-23.63
+Regionali Speciali,Neirone,Genova,Liguria,440,481,921,38.33,49.87,353,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340410,-23.14
+Regionali Speciali,Orero,Genova,Liguria,259,266,525,10.29,11.73,54,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340420,-12.28
+Regionali Speciali,Orero,Genova,Liguria,259,266,525,28.76,27.88,151,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340420,3.16
+Regionali Speciali,Orero,Genova,Liguria,259,266,525,32.95,33.65,173,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340420,-2.08
+Regionali Speciali,Orero,Genova,Liguria,259,266,525,44.95,49.62,236,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340420,-9.41
+Regionali Speciali,Pieve Ligure,Genova,Liguria,1463,1394,2857,11.45,11.0,327,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340430,4.09
+Regionali Speciali,Pieve Ligure,Genova,Liguria,1463,1394,2857,29.33,29.55,838,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340430,-0.74
+Regionali Speciali,Pieve Ligure,Genova,Liguria,1463,1394,2857,33.25,36.57,950,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340430,-9.08
+Regionali Speciali,Pieve Ligure,Genova,Liguria,1463,1394,2857,43.65,48.49,1247,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340430,-9.98
+Regionali Speciali,Portofino,Genova,Liguria,428,413,841,3.92,13.95,33,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340440,-71.9
+Regionali Speciali,Portofino,Genova,Liguria,428,413,841,11.89,34.72,100,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340440,-65.75
+Regionali Speciali,Portofino,Genova,Liguria,428,413,841,12.49,39.47,105,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340440,-68.36
+Regionali Speciali,Portofino,Genova,Liguria,428,413,841,20.45,63.2,172,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340440,-67.64
+Regionali Speciali,Propata,Genova,Liguria,77,85,162,8.64,13.7,14,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340450,-36.93
+Regionali Speciali,Propata,Genova,Liguria,77,85,162,16.67,25.34,27,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340450,-34.21
+Regionali Speciali,Propata,Genova,Liguria,77,85,162,20.37,32.19,33,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340450,-36.72
+Regionali Speciali,Propata,Genova,Liguria,77,85,162,33.33,42.47,54,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340450,-21.52
+Regionali Speciali,Rapallo,Genova,Liguria,15345,13941,29286,10.78,12.66,3156,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340460,-14.85
+Regionali Speciali,Rapallo,Genova,Liguria,15345,13941,29286,25.16,27.56,7367,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340460,-8.71
+Regionali Speciali,Rapallo,Genova,Liguria,15345,13941,29286,28.41,33.68,8319,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340460,-15.65
+Regionali Speciali,Rapallo,Genova,Liguria,15345,13941,29286,38.08,46.54,11153,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340460,-18.18
+Regionali Speciali,Recco,Genova,Liguria,5031,4556,9587,14.02,15.24,1344,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340470,-8.01
+Regionali Speciali,Recco,Genova,Liguria,5031,4556,9587,31.07,33.33,2979,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340470,-6.78
+Regionali Speciali,Recco,Genova,Liguria,5031,4556,9587,35.14,40.39,3369,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340470,-13.0
+Regionali Speciali,Recco,Genova,Liguria,5031,4556,9587,46.56,53.82,4464,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340470,-13.49
+Regionali Speciali,Rezzoaglio,Genova,Liguria,381,384,765,11.63,11.88,89,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340480,-2.1
+Regionali Speciali,Rezzoaglio,Genova,Liguria,381,384,765,32.68,27.91,250,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340480,17.09
+Regionali Speciali,Rezzoaglio,Genova,Liguria,381,384,765,35.95,31.47,275,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340480,14.24
+Regionali Speciali,Rezzoaglio,Genova,Liguria,381,384,765,49.8,44.06,381,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340480,13.03
+Regionali Speciali,Ronco Scrivia,Genova,Liguria,1951,1894,3845,14.17,16.22,545,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340490,-12.64
+Regionali Speciali,Ronco Scrivia,Genova,Liguria,1951,1894,3845,30.48,36.86,1172,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340490,-17.31
+Regionali Speciali,Ronco Scrivia,Genova,Liguria,1951,1894,3845,34.25,46.04,1317,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340490,-25.61
+Regionali Speciali,Ronco Scrivia,Genova,Liguria,1951,1894,3845,44.92,59.6,1727,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340490,-24.63
+Regionali Speciali,Rondanina,Genova,Liguria,29,42,71,7.04,12.99,5,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340500,-45.8
+Regionali Speciali,Rondanina,Genova,Liguria,29,42,71,19.72,31.17,14,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340500,-36.73
+Regionali Speciali,Rondanina,Genova,Liguria,29,42,71,23.94,35.06,17,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340500,-31.72
+Regionali Speciali,Rondanina,Genova,Liguria,29,42,71,36.62,44.16,26,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340500,-17.07
+Regionali Speciali,Rossiglione,Genova,Liguria,1155,1085,2240,16.34,15.32,366,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340510,6.66
+Regionali Speciali,Rossiglione,Genova,Liguria,1155,1085,2240,38.62,34.85,865,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340510,10.82
+Regionali Speciali,Rossiglione,Genova,Liguria,1155,1085,2240,44.15,43.77,989,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340510,0.87
+Regionali Speciali,Rossiglione,Genova,Liguria,1155,1085,2240,57.68,59.83,1292,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340510,-3.59
+Regionali Speciali,Rovegno,Genova,Liguria,176,240,416,19.47,17.5,81,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340520,11.26
+Regionali Speciali,Rovegno,Genova,Liguria,176,240,416,33.17,32.73,138,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340520,1.34
+Regionali Speciali,Rovegno,Genova,Liguria,176,240,416,40.14,40.45,167,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340520,-0.77
+Regionali Speciali,Rovegno,Genova,Liguria,176,240,416,55.29,58.41,230,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340520,-5.34
+Regionali Speciali,San Colombano Certenoli,Genova,Liguria,1455,1453,2908,7.6,10.01,221,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340530,-24.08
+Regionali Speciali,San Colombano Certenoli,Genova,Liguria,1455,1453,2908,21.11,26.34,614,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340530,-19.86
+Regionali Speciali,San Colombano Certenoli,Genova,Liguria,1455,1453,2908,25.69,35.11,747,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340530,-26.83
+Regionali Speciali,San Colombano Certenoli,Genova,Liguria,1455,1453,2908,34.94,50.64,1016,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340530,-31.0
+Regionali Speciali,Santa Margherita Ligure,Genova,Liguria,5173,4631,9804,11.55,13.42,1132,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340540,-13.93
+Regionali Speciali,Santa Margherita Ligure,Genova,Liguria,5173,4631,9804,24.05,27.51,2358,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340540,-12.58
+Regionali Speciali,Santa Margherita Ligure,Genova,Liguria,5173,4631,9804,27.58,32.81,2704,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340540,-15.94
+Regionali Speciali,Santa Margherita Ligure,Genova,Liguria,5173,4631,9804,37.06,45.32,3633,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340540,-18.23
+Regionali Speciali,Sant'Olcese,Genova,Liguria,2471,2414,4885,15.33,18.19,749,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340550,-15.72
+Regionali Speciali,Sant'Olcese,Genova,Liguria,2471,2414,4885,42.07,43.97,2055,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340550,-4.32
+Regionali Speciali,Sant'Olcese,Genova,Liguria,2471,2414,4885,48.6,55.24,2374,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340550,-12.02
+Regionali Speciali,Sant'Olcese,Genova,Liguria,2471,2414,4885,61.31,70.5,2995,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340550,-13.04
+Regionali Speciali,Santo Stefano D'Aveto,Genova,Liguria,439,474,913,18.29,14.0,167,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340560,30.64
+Regionali Speciali,Santo Stefano D'Aveto,Genova,Liguria,439,474,913,38.23,27.79,349,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340560,37.57
+Regionali Speciali,Santo Stefano D'Aveto,Genova,Liguria,439,474,913,41.18,33.16,376,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340560,24.19
+Regionali Speciali,Santo Stefano D'Aveto,Genova,Liguria,439,474,913,54.0,48.32,493,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340560,11.75
+Regionali Speciali,Savignone,Genova,Liguria,1422,1405,2827,11.25,14.49,318,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340570,-22.36
+Regionali Speciali,Savignone,Genova,Liguria,1422,1405,2827,30.85,31.87,872,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340570,-3.2
+Regionali Speciali,Savignone,Genova,Liguria,1422,1405,2827,35.87,40.4,1014,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340570,-11.21
+Regionali Speciali,Savignone,Genova,Liguria,1422,1405,2827,46.41,53.89,1312,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340570,-13.88
+Regionali Speciali,Serra Ricco',Genova,Liguria,3514,3432,6946,13.35,14.65,927,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340580,-8.87
+Regionali Speciali,Serra Ricco',Genova,Liguria,3514,3432,6946,35.49,35.02,2465,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340580,1.34
+Regionali Speciali,Serra Ricco',Genova,Liguria,3514,3432,6946,39.92,43.72,2773,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340580,-8.69
+Regionali Speciali,Serra Ricco',Genova,Liguria,3514,3432,6946,51.08,58.21,3548,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340580,-12.25
+Regionali Speciali,Sestri Levante,Genova,Liguria,8952,8147,17099,10.78,12.17,1844,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340590,-11.42
+Regionali Speciali,Sestri Levante,Genova,Liguria,8952,8147,17099,29.51,29.28,5046,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340590,0.79
+Regionali Speciali,Sestri Levante,Genova,Liguria,8952,8147,17099,33.88,37.27,5793,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340590,-9.1
+Regionali Speciali,Sestri Levante,Genova,Liguria,8952,8147,17099,44.56,51.38,7619,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340590,-13.27
+Regionali Speciali,Sori,Genova,Liguria,2349,2227,4576,13.09,15.03,599,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340600,-12.91
+Regionali Speciali,Sori,Genova,Liguria,2349,2227,4576,27.67,30.14,1266,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340600,-8.2
+Regionali Speciali,Sori,Genova,Liguria,2349,2227,4576,31.18,37.47,1427,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340600,-16.79
+Regionali Speciali,Sori,Genova,Liguria,2349,2227,4576,42.2,52.45,1931,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340600,-19.54
+Regionali Speciali,Tiglieto,Genova,Liguria,541,512,1053,6.08,7.45,64,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340610,-18.39
+Regionali Speciali,Tiglieto,Genova,Liguria,541,512,1053,14.81,15.76,156,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340610,-6.03
+Regionali Speciali,Tiglieto,Genova,Liguria,541,512,1053,16.52,20.12,174,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340610,-17.89
+Regionali Speciali,Tiglieto,Genova,Liguria,541,512,1053,23.93,28.14,252,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340610,-14.96
+Regionali Speciali,Torriglia,Genova,Liguria,1095,1098,2193,13.95,15.56,306,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340620,-10.35
+Regionali Speciali,Torriglia,Genova,Liguria,1095,1098,2193,29.37,35.56,644,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340620,-17.41
+Regionali Speciali,Torriglia,Genova,Liguria,1095,1098,2193,33.93,45.67,744,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340620,-25.71
+Regionali Speciali,Torriglia,Genova,Liguria,1095,1098,2193,44.32,62.13,972,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340620,-28.67
+Regionali Speciali,Tribogna,Genova,Liguria,313,323,636,8.81,11.48,56,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340630,-23.26
+Regionali Speciali,Tribogna,Genova,Liguria,313,323,636,21.7,28.36,138,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340630,-23.48
+Regionali Speciali,Tribogna,Genova,Liguria,313,323,636,23.74,36.07,151,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340630,-34.18
+Regionali Speciali,Tribogna,Genova,Liguria,313,323,636,35.69,50.0,227,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340630,-28.62
+Regionali Speciali,Uscio,Genova,Liguria,955,938,1893,11.25,13.23,213,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340640,-14.97
+Regionali Speciali,Uscio,Genova,Liguria,955,938,1893,28.68,30.98,543,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340640,-7.42
+Regionali Speciali,Uscio,Genova,Liguria,955,938,1893,33.7,40.22,638,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340640,-16.21
+Regionali Speciali,Uscio,Genova,Liguria,955,938,1893,44.9,56.16,850,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340640,-20.05
+Regionali Speciali,Valbrevenna,Genova,Liguria,394,469,863,10.89,13.09,94,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340650,-16.81
+Regionali Speciali,Valbrevenna,Genova,Liguria,394,469,863,25.72,29.13,222,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340650,-11.71
+Regionali Speciali,Valbrevenna,Genova,Liguria,394,469,863,28.74,37.38,248,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340650,-23.11
+Regionali Speciali,Valbrevenna,Genova,Liguria,394,469,863,39.51,50.24,341,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340650,-21.36
+Regionali Speciali,Vobbia,Genova,Liguria,173,207,380,9.47,15.04,36,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340660,-37.03
+Regionali Speciali,Vobbia,Genova,Liguria,173,207,380,30.26,40.63,115,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340660,-25.52
+Regionali Speciali,Vobbia,Genova,Liguria,173,207,380,33.95,50.92,129,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340660,-33.33
+Regionali Speciali,Vobbia,Genova,Liguria,173,207,380,46.58,72.03,177,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340660,-35.33
+Regionali Speciali,Zoagli,Genova,Liguria,2066,2035,4101,6.68,10.29,274,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340670,-35.08
+Regionali Speciali,Zoagli,Genova,Liguria,2066,2035,4101,15.56,22.76,638,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340670,-31.63
+Regionali Speciali,Zoagli,Genova,Liguria,2066,2035,4101,17.65,28.58,724,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340670,-38.24
+Regionali Speciali,Zoagli,Genova,Liguria,2066,2035,4101,23.95,39.43,982,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070340670,-39.26
+Regionali Speciali,Airole,Imperia,Liguria,115,147,262,17.18,15.23,45,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370010,12.8
+Regionali Speciali,Airole,Imperia,Liguria,115,147,262,38.17,39.45,100,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370010,-3.24
+Regionali Speciali,Airole,Imperia,Liguria,115,147,262,42.37,44.53,111,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370010,-4.85
+Regionali Speciali,Airole,Imperia,Liguria,115,147,262,57.63,57.81,151,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370010,-0.31
+Regionali Speciali,Apricale,Imperia,Liguria,206,240,446,7.85,13.5,35,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370020,-41.85
+Regionali Speciali,Apricale,Imperia,Liguria,206,240,446,17.94,27.0,80,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370020,-33.56
+Regionali Speciali,Apricale,Imperia,Liguria,206,240,446,19.28,29.75,86,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370020,-35.19
+Regionali Speciali,Apricale,Imperia,Liguria,206,240,446,30.04,45.78,134,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370020,-34.38
+Regionali Speciali,Aquila D'Arroscia,Imperia,Liguria,76,97,173,10.98,18.13,19,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370030,-39.44
+Regionali Speciali,Aquila D'Arroscia,Imperia,Liguria,76,97,173,34.68,54.39,60,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370030,-36.24
+Regionali Speciali,Aquila D'Arroscia,Imperia,Liguria,76,97,173,39.88,61.99,69,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370030,-35.67
+Regionali Speciali,Aquila D'Arroscia,Imperia,Liguria,76,97,173,52.02,71.93,90,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370030,-27.68
+Regionali Speciali,Armo,Imperia,Liguria,46,39,85,16.47,10.0,14,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370040,64.7
+Regionali Speciali,Armo,Imperia,Liguria,46,39,85,35.29,37.78,30,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370040,-6.59
+Regionali Speciali,Armo,Imperia,Liguria,46,39,85,37.65,48.89,32,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370040,-22.99
+Regionali Speciali,Armo,Imperia,Liguria,46,39,85,61.18,65.56,52,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370040,-6.68
+Regionali Speciali,Aurigo,Imperia,Liguria,133,138,271,11.07,15.02,30,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370041,-26.3
+Regionali Speciali,Aurigo,Imperia,Liguria,133,138,271,34.69,48.35,94,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370041,-28.25
+Regionali Speciali,Aurigo,Imperia,Liguria,133,138,271,42.44,63.0,115,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370041,-32.63
+Regionali Speciali,Aurigo,Imperia,Liguria,133,138,271,59.41,82.42,161,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370041,-27.92
+Regionali Speciali,Badalucco,Imperia,Liguria,468,460,928,6.25,11.19,58,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370050,-44.15
+Regionali Speciali,Badalucco,Imperia,Liguria,468,460,928,20.37,26.76,189,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370050,-23.88
+Regionali Speciali,Badalucco,Imperia,Liguria,468,460,928,23.38,34.65,217,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370050,-32.53
+Regionali Speciali,Badalucco,Imperia,Liguria,468,460,928,40.95,53.94,380,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370050,-24.08
+Regionali Speciali,Bajardo,Imperia,Liguria,123,135,258,13.18,17.89,34,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370060,-26.33
+Regionali Speciali,Bajardo,Imperia,Liguria,123,135,258,25.19,34.04,65,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370060,-26.0
+Regionali Speciali,Bajardo,Imperia,Liguria,123,135,258,25.97,38.25,67,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370060,-32.1
+Regionali Speciali,Bajardo,Imperia,Liguria,123,135,258,43.02,51.58,111,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370060,-16.6
+Regionali Speciali,Bordighera,Imperia,Liguria,4878,4400,9278,10.84,12.53,1006,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370070,-13.49
+Regionali Speciali,Bordighera,Imperia,Liguria,4878,4400,9278,24.56,28.42,2279,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370070,-13.58
+Regionali Speciali,Bordighera,Imperia,Liguria,4878,4400,9278,26.85,34.13,2491,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370070,-21.33
+Regionali Speciali,Bordighera,Imperia,Liguria,4878,4400,9278,37.09,46.08,3441,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370070,-19.51
+Regionali Speciali,Borghetto D'Arroscia,Imperia,Liguria,139,179,318,5.66,10.27,18,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370080,-44.89
+Regionali Speciali,Borghetto D'Arroscia,Imperia,Liguria,139,179,318,23.9,29.31,76,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370080,-18.46
+Regionali Speciali,Borghetto D'Arroscia,Imperia,Liguria,139,179,318,25.79,34.74,82,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370080,-25.76
+Regionali Speciali,Borghetto D'Arroscia,Imperia,Liguria,139,179,318,40.57,53.47,129,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370080,-24.13
+Regionali Speciali,Borgomaro,Imperia,Liguria,315,334,649,8.94,12.67,58,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370090,-29.44
+Regionali Speciali,Borgomaro,Imperia,Liguria,315,334,649,27.12,31.96,176,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370090,-15.14
+Regionali Speciali,Borgomaro,Imperia,Liguria,315,334,649,31.9,38.88,207,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370090,-17.95
+Regionali Speciali,Borgomaro,Imperia,Liguria,315,334,649,44.53,55.38,289,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370090,-19.59
+Regionali Speciali,Camporosso,Imperia,Liguria,2398,2369,4767,9.9,12.8,472,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370100,-22.66
+Regionali Speciali,Camporosso,Imperia,Liguria,2398,2369,4767,24.33,33.21,1160,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370100,-26.74
+Regionali Speciali,Camporosso,Imperia,Liguria,2398,2369,4767,26.47,41.2,1262,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370100,-35.75
+Regionali Speciali,Camporosso,Imperia,Liguria,2398,2369,4767,37.51,54.57,1788,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370100,-31.26
+Regionali Speciali,Caravonica,Imperia,Liguria,81,105,186,13.44,12.81,25,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370110,4.92
+Regionali Speciali,Caravonica,Imperia,Liguria,81,105,186,44.09,38.42,82,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370110,14.76
+Regionali Speciali,Caravonica,Imperia,Liguria,81,105,186,45.7,42.86,85,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370110,6.63
+Regionali Speciali,Caravonica,Imperia,Liguria,81,105,186,69.89,62.07,130,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370110,12.6
+Regionali Speciali,Castellaro,Imperia,Liguria,545,532,1077,11.7,13.92,126,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370130,-15.95
+Regionali Speciali,Castellaro,Imperia,Liguria,545,532,1077,28.13,33.37,303,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370130,-15.7
+Regionali Speciali,Castellaro,Imperia,Liguria,545,532,1077,31.75,43.76,342,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370130,-27.45
+Regionali Speciali,Castellaro,Imperia,Liguria,545,532,1077,42.06,57.29,453,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370130,-26.58
+Regionali Speciali,Castel Vittorio,Imperia,Liguria,113,136,249,7.23,15.0,18,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370140,-51.8
+Regionali Speciali,Castel Vittorio,Imperia,Liguria,113,136,249,21.69,30.0,54,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370140,-27.7
+Regionali Speciali,Castel Vittorio,Imperia,Liguria,113,136,249,23.29,33.57,58,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370140,-30.62
+Regionali Speciali,Castel Vittorio,Imperia,Liguria,113,136,249,41.37,46.79,103,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370140,-11.58
+Regionali Speciali,Ceriana,Imperia,Liguria,424,484,908,10.02,12.53,91,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370150,-20.03
+Regionali Speciali,Ceriana,Imperia,Liguria,424,484,908,18.72,28.08,170,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370150,-33.33
+Regionali Speciali,Ceriana,Imperia,Liguria,424,484,908,19.93,34.13,181,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370150,-41.61
+Regionali Speciali,Ceriana,Imperia,Liguria,424,484,908,29.52,46.45,268,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370150,-36.45
+Regionali Speciali,Cervo,Imperia,Liguria,526,494,1020,9.71,14.02,99,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370160,-30.74
+Regionali Speciali,Cervo,Imperia,Liguria,526,494,1020,21.18,28.5,216,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370160,-25.68
+Regionali Speciali,Cervo,Imperia,Liguria,526,494,1020,22.25,33.9,227,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370160,-34.37
+Regionali Speciali,Cervo,Imperia,Liguria,526,494,1020,33.92,50.0,346,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370160,-32.16
+Regionali Speciali,Cesio,Imperia,Liguria,107,121,228,14.91,20.64,34,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370170,-27.76
+Regionali Speciali,Cesio,Imperia,Liguria,107,121,228,28.95,38.99,66,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370170,-25.75
+Regionali Speciali,Cesio,Imperia,Liguria,107,121,228,33.33,44.5,76,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370170,-25.1
+Regionali Speciali,Cesio,Imperia,Liguria,107,121,228,45.61,63.3,104,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370170,-27.95
+Regionali Speciali,Chiusanico,Imperia,Liguria,261,277,538,11.71,15.21,63,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370180,-23.01
+Regionali Speciali,Chiusanico,Imperia,Liguria,261,277,538,30.11,33.02,162,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370180,-8.81
+Regionali Speciali,Chiusanico,Imperia,Liguria,261,277,538,35.13,41.74,189,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370180,-15.84
+Regionali Speciali,Chiusanico,Imperia,Liguria,261,277,538,48.14,56.77,259,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370180,-15.2
+Regionali Speciali,Chiusavecchia,Imperia,Liguria,188,182,370,13.78,14.77,51,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370190,-6.7
+Regionali Speciali,Chiusavecchia,Imperia,Liguria,188,182,370,30.27,36.65,112,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370190,-17.41
+Regionali Speciali,Chiusavecchia,Imperia,Liguria,188,182,370,32.16,43.47,119,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370190,-26.02
+Regionali Speciali,Chiusavecchia,Imperia,Liguria,188,182,370,44.59,56.82,165,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370190,-21.52
+Regionali Speciali,Cipressa,Imperia,Liguria,496,489,985,10.56,15.34,104,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370200,-31.16
+Regionali Speciali,Cipressa,Imperia,Liguria,496,489,985,28.22,32.92,278,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370200,-14.28
+Regionali Speciali,Cipressa,Imperia,Liguria,496,489,985,34.82,40.49,343,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370200,-14.0
+Regionali Speciali,Cipressa,Imperia,Liguria,496,489,985,45.38,56.03,447,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370200,-19.01
+Regionali Speciali,Civezza,Imperia,Liguria,243,229,472,15.47,15.79,73,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370210,-2.03
+Regionali Speciali,Civezza,Imperia,Liguria,243,229,472,33.9,40.42,160,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370210,-16.13
+Regionali Speciali,Civezza,Imperia,Liguria,243,229,472,36.86,45.26,174,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370210,-18.56
+Regionali Speciali,Civezza,Imperia,Liguria,243,229,472,47.03,64.63,222,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370210,-27.23
+Regionali Speciali,Cosio D'Arroscia,Imperia,Liguria,83,69,152,13.82,14.72,21,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370220,-6.11
+Regionali Speciali,Cosio D'Arroscia,Imperia,Liguria,83,69,152,50.66,33.74,77,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370220,50.15
+Regionali Speciali,Cosio D'Arroscia,Imperia,Liguria,83,69,152,53.95,44.79,82,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370220,20.45
+Regionali Speciali,Cosio D'Arroscia,Imperia,Liguria,83,69,152,66.45,63.8,101,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370220,4.15
+Regionali Speciali,Costarainera,Imperia,Liguria,331,318,649,12.17,13.13,79,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370221,-7.31
+Regionali Speciali,Costarainera,Imperia,Liguria,331,318,649,29.89,32.37,194,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370221,-7.66
+Regionali Speciali,Costarainera,Imperia,Liguria,331,318,649,34.51,41.98,224,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370221,-17.79
+Regionali Speciali,Costarainera,Imperia,Liguria,331,318,649,49.0,56.34,318,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370221,-13.03
+Regionali Speciali,Diano Arentino,Imperia,Liguria,300,334,634,7.41,10.81,47,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370230,-31.45
+Regionali Speciali,Diano Arentino,Imperia,Liguria,300,334,634,18.93,28.3,120,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370230,-33.11
+Regionali Speciali,Diano Arentino,Imperia,Liguria,300,334,634,22.87,35.77,145,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370230,-36.06
+Regionali Speciali,Diano Arentino,Imperia,Liguria,300,334,634,33.28,46.58,211,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370230,-28.55
+Regionali Speciali,Diano Castello,Imperia,Liguria,948,907,1855,9.38,11.1,174,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370240,-15.5
+Regionali Speciali,Diano Castello,Imperia,Liguria,948,907,1855,23.02,26.45,427,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370240,-12.97
+Regionali Speciali,Diano Castello,Imperia,Liguria,948,907,1855,31.48,33.51,584,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370240,-6.06
+Regionali Speciali,Diano Castello,Imperia,Liguria,948,907,1855,38.17,48.28,708,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370240,-20.94
+Regionali Speciali,Diano Marina,Imperia,Liguria,2753,2395,5148,12.47,13.6,642,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370250,-8.31
+Regionali Speciali,Diano Marina,Imperia,Liguria,2753,2395,5148,23.66,29.25,1218,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370250,-19.11
+Regionali Speciali,Diano Marina,Imperia,Liguria,2753,2395,5148,25.95,35.86,1336,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370250,-27.64
+Regionali Speciali,Diano Marina,Imperia,Liguria,2753,2395,5148,37.61,49.41,1936,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370250,-23.88
+Regionali Speciali,Diano San Pietro,Imperia,Liguria,450,439,889,10.57,11.74,94,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370260,-9.97
+Regionali Speciali,Diano San Pietro,Imperia,Liguria,450,439,889,26.77,27.69,238,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370260,-3.32
+Regionali Speciali,Diano San Pietro,Imperia,Liguria,450,439,889,29.92,36.1,266,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370260,-17.12
+Regionali Speciali,Diano San Pietro,Imperia,Liguria,450,439,889,43.31,53.93,385,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370260,-19.69
+Regionali Speciali,Dolceacqua,Imperia,Liguria,946,943,1889,7.78,11.43,147,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370270,-31.93
+Regionali Speciali,Dolceacqua,Imperia,Liguria,946,943,1889,19.75,28.19,373,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370270,-29.94
+Regionali Speciali,Dolceacqua,Imperia,Liguria,946,943,1889,23.03,34.28,435,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370270,-32.82
+Regionali Speciali,Dolceacqua,Imperia,Liguria,946,943,1889,36.42,49.71,688,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370270,-26.74
+Regionali Speciali,Dolcedo,Imperia,Liguria,492,526,1018,9.53,11.31,97,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370280,-15.74
+Regionali Speciali,Dolcedo,Imperia,Liguria,492,526,1018,25.64,30.32,261,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370280,-15.44
+Regionali Speciali,Dolcedo,Imperia,Liguria,492,526,1018,29.67,36.03,302,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370280,-17.65
+Regionali Speciali,Dolcedo,Imperia,Liguria,492,526,1018,43.03,50.67,438,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370280,-15.08
+Regionali Speciali,Imperia,Imperia,Liguria,17849,16462,34311,12.14,13.6,4165,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370290,-10.74
+Regionali Speciali,Imperia,Imperia,Liguria,17849,16462,34311,28.4,32.1,9744,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370290,-11.53
+Regionali Speciali,Imperia,Imperia,Liguria,17849,16462,34311,32.1,39.9,11013,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370290,-19.55
+Regionali Speciali,Imperia,Imperia,Liguria,17849,16462,34311,43.96,53.53,15082,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370290,-17.88
+Regionali Speciali,Isolabona,Imperia,Liguria,289,296,585,8.21,12.08,48,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370300,-32.04
+Regionali Speciali,Isolabona,Imperia,Liguria,289,296,585,24.1,28.69,141,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370300,-16.0
+Regionali Speciali,Isolabona,Imperia,Liguria,289,296,585,27.18,34.06,159,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370300,-20.2
+Regionali Speciali,Isolabona,Imperia,Liguria,289,296,585,40.68,50.0,238,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370300,-18.64
+Regionali Speciali,Lucinasco,Imperia,Liguria,109,108,217,11.06,13.68,24,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370301,-19.15
+Regionali Speciali,Lucinasco,Imperia,Liguria,109,108,217,28.57,29.25,62,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370301,-2.32
+Regionali Speciali,Lucinasco,Imperia,Liguria,109,108,217,35.48,37.74,77,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370301,-5.99
+Regionali Speciali,Lucinasco,Imperia,Liguria,109,108,217,47.0,53.3,102,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370301,-11.82
+Regionali Speciali,Mendatica,Imperia,Liguria,65,89,154,25.97,22.56,40,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370310,15.12
+Regionali Speciali,Mendatica,Imperia,Liguria,65,89,154,46.1,49.39,71,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370310,-6.66
+Regionali Speciali,Mendatica,Imperia,Liguria,65,89,154,47.4,56.1,73,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370310,-15.51
+Regionali Speciali,Mendatica,Imperia,Liguria,65,89,154,62.34,67.07,96,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370310,-7.05
+Regionali Speciali,Molini Di Triora,Imperia,Liguria,227,251,478,9.21,13.39,44,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370320,-31.22
+Regionali Speciali,Molini Di Triora,Imperia,Liguria,227,251,478,19.25,30.67,92,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370320,-37.24
+Regionali Speciali,Molini Di Triora,Imperia,Liguria,227,251,478,23.43,39.31,112,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370320,-40.4
+Regionali Speciali,Molini Di Triora,Imperia,Liguria,227,251,478,33.89,55.51,162,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370320,-38.95
+Regionali Speciali,Montalto Carpasio,Imperia,Liguria,219,253,472,8.9,11.14,42,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370325,-20.11
+Regionali Speciali,Montalto Carpasio,Imperia,Liguria,219,253,472,21.19,28.95,100,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370325,-26.8
+Regionali Speciali,Montalto Carpasio,Imperia,Liguria,219,253,472,23.52,33.18,111,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370325,-29.11
+Regionali Speciali,Montalto Carpasio,Imperia,Liguria,219,253,472,35.17,49.22,166,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370325,-28.55
+Regionali Speciali,Montegrosso Pian Latte,Imperia,Liguria,54,47,101,19.8,15.89,20,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370340,24.61
+Regionali Speciali,Montegrosso Pian Latte,Imperia,Liguria,54,47,101,49.5,51.4,50,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370340,-3.7
+Regionali Speciali,Montegrosso Pian Latte,Imperia,Liguria,54,47,101,59.41,62.62,60,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370340,-5.13
+Regionali Speciali,Montegrosso Pian Latte,Imperia,Liguria,54,47,101,76.24,79.44,77,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370340,-4.03
+Regionali Speciali,Olivetta San Michele,Imperia,Liguria,98,114,212,8.02,19.02,17,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370350,-57.83
+Regionali Speciali,Olivetta San Michele,Imperia,Liguria,98,114,212,21.23,31.71,45,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370350,-33.05
+Regionali Speciali,Olivetta San Michele,Imperia,Liguria,98,114,212,25.94,37.07,55,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370350,-30.02
+Regionali Speciali,Olivetta San Michele,Imperia,Liguria,98,114,212,33.49,50.24,71,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370350,-33.34
+Regionali Speciali,Ospedaletti,Imperia,Liguria,1485,1399,2884,9.22,13.05,266,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370360,-29.35
+Regionali Speciali,Ospedaletti,Imperia,Liguria,1485,1399,2884,23.27,29.6,671,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370360,-21.39
+Regionali Speciali,Ospedaletti,Imperia,Liguria,1485,1399,2884,25.38,37.04,732,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370360,-31.48
+Regionali Speciali,Ospedaletti,Imperia,Liguria,1485,1399,2884,36.72,49.91,1059,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370360,-26.43
+Regionali Speciali,Perinaldo,Imperia,Liguria,331,369,700,8.43,18.88,59,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370370,-55.35
+Regionali Speciali,Perinaldo,Imperia,Liguria,331,369,700,17.71,46.51,124,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370370,-61.92
+Regionali Speciali,Perinaldo,Imperia,Liguria,331,369,700,19.43,54.04,136,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370370,-64.05
+Regionali Speciali,Perinaldo,Imperia,Liguria,331,369,700,28.71,67.03,201,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370370,-57.17
+Regionali Speciali,Pietrabruna,Imperia,Liguria,141,172,313,16.61,26.86,52,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370380,-38.16
+Regionali Speciali,Pietrabruna,Imperia,Liguria,141,172,313,32.27,51.71,101,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370380,-37.59
+Regionali Speciali,Pietrabruna,Imperia,Liguria,141,172,313,34.82,63.43,109,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370380,-45.1
+Regionali Speciali,Pietrabruna,Imperia,Liguria,141,172,313,50.48,78.86,158,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370380,-35.99
+Regionali Speciali,Pieve Di Teco,Imperia,Liguria,529,529,1058,8.88,14.95,94,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370390,-40.6
+Regionali Speciali,Pieve Di Teco,Imperia,Liguria,529,529,1058,25.8,33.64,273,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370390,-23.31
+Regionali Speciali,Pieve Di Teco,Imperia,Liguria,529,529,1058,28.07,41.12,297,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370390,-31.74
+Regionali Speciali,Pieve Di Teco,Imperia,Liguria,529,529,1058,40.45,56.07,428,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370390,-27.86
+Regionali Speciali,Pigna,Imperia,Liguria,345,372,717,6.56,8.63,47,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370400,-23.99
+Regionali Speciali,Pigna,Imperia,Liguria,345,372,717,20.78,22.61,149,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370400,-8.09
+Regionali Speciali,Pigna,Imperia,Liguria,345,372,717,22.04,27.58,158,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370400,-20.09
+Regionali Speciali,Pigna,Imperia,Liguria,345,372,717,37.8,44.84,271,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370400,-15.7
+Regionali Speciali,Pompeiana,Imperia,Liguria,348,348,696,8.62,13.45,60,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370410,-35.91
+Regionali Speciali,Pompeiana,Imperia,Liguria,348,348,696,24.57,32.76,171,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370410,-25.0
+Regionali Speciali,Pompeiana,Imperia,Liguria,348,348,696,28.88,42.92,201,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370410,-32.71
+Regionali Speciali,Pompeiana,Imperia,Liguria,348,348,696,39.8,56.65,277,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370410,-29.74
+Regionali Speciali,Pontedassio,Imperia,Liguria,919,919,1838,12.57,14.04,231,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370420,-10.47
+Regionali Speciali,Pontedassio,Imperia,Liguria,919,919,1838,33.79,34.75,621,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370420,-2.76
+Regionali Speciali,Pontedassio,Imperia,Liguria,919,919,1838,37.87,44.54,696,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370420,-14.98
+Regionali Speciali,Pontedassio,Imperia,Liguria,919,919,1838,50.22,58.69,923,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370420,-14.43
+Regionali Speciali,Pornassio,Imperia,Liguria,217,257,474,6.96,11.61,33,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370430,-40.05
+Regionali Speciali,Pornassio,Imperia,Liguria,217,257,474,22.78,30.36,108,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370430,-24.97
+Regionali Speciali,Pornassio,Imperia,Liguria,217,257,474,25.32,38.17,120,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370430,-33.67
+Regionali Speciali,Pornassio,Imperia,Liguria,217,257,474,37.34,56.47,177,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370430,-33.88
+Regionali Speciali,Prela',Imperia,Liguria,189,212,401,10.72,11.73,43,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370440,-8.61
+Regionali Speciali,Prela',Imperia,Liguria,189,212,401,25.19,28.83,101,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370440,-12.63
+Regionali Speciali,Prela',Imperia,Liguria,189,212,401,26.43,34.18,106,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370440,-22.67
+Regionali Speciali,Prela',Imperia,Liguria,189,212,401,40.65,50.0,163,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370440,-18.7
+Regionali Speciali,Ranzo,Imperia,Liguria,226,209,435,6.9,8.06,30,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370450,-14.39
+Regionali Speciali,Ranzo,Imperia,Liguria,226,209,435,20.46,26.14,89,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370450,-21.73
+Regionali Speciali,Ranzo,Imperia,Liguria,226,209,435,23.45,31.59,102,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370450,-25.77
+Regionali Speciali,Ranzo,Imperia,Liguria,226,209,435,41.15,51.85,179,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370450,-20.64
+Regionali Speciali,Rezzo,Imperia,Liguria,127,137,264,8.71,13.45,23,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370460,-35.24
+Regionali Speciali,Rezzo,Imperia,Liguria,127,137,264,33.33,37.82,88,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370460,-11.87
+Regionali Speciali,Rezzo,Imperia,Liguria,127,137,264,40.91,42.55,108,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370460,-3.85
+Regionali Speciali,Rezzo,Imperia,Liguria,127,137,264,51.89,56.0,137,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370460,-7.34
+Regionali Speciali,Riva Ligure,Imperia,Liguria,1196,1164,2360,11.27,15.91,266,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370461,-29.16
+Regionali Speciali,Riva Ligure,Imperia,Liguria,1196,1164,2360,24.79,32.63,585,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370461,-24.03
+Regionali Speciali,Riva Ligure,Imperia,Liguria,1196,1164,2360,27.58,39.54,651,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370461,-30.25
+Regionali Speciali,Riva Ligure,Imperia,Liguria,1196,1164,2360,38.94,52.77,919,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370461,-26.21
+Regionali Speciali,Rocchetta Nervina,Imperia,Liguria,104,109,213,17.84,21.21,38,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370480,-15.89
+Regionali Speciali,Rocchetta Nervina,Imperia,Liguria,104,109,213,30.05,41.13,64,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370480,-26.94
+Regionali Speciali,Rocchetta Nervina,Imperia,Liguria,104,109,213,33.8,51.52,72,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370480,-34.39
+Regionali Speciali,Rocchetta Nervina,Imperia,Liguria,104,109,213,47.89,65.37,102,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370480,-26.74
+Regionali Speciali,San Bartolomeo Al Mare,Imperia,Liguria,1282,1209,2491,10.64,14.03,265,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370490,-24.16
+Regionali Speciali,San Bartolomeo Al Mare,Imperia,Liguria,1282,1209,2491,27.02,29.58,673,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370490,-8.65
+Regionali Speciali,San Bartolomeo Al Mare,Imperia,Liguria,1282,1209,2491,29.51,36.44,735,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370490,-19.02
+Regionali Speciali,San Bartolomeo Al Mare,Imperia,Liguria,1282,1209,2491,42.63,52.36,1062,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370490,-18.58
+Regionali Speciali,San Biagio Della Cima,Imperia,Liguria,580,543,1123,10.86,15.74,122,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370500,-31.0
+Regionali Speciali,San Biagio Della Cima,Imperia,Liguria,580,543,1123,15.94,32.64,179,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370500,-51.16
+Regionali Speciali,San Biagio Della Cima,Imperia,Liguria,580,543,1123,27.69,38.31,311,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370500,-27.72
+Regionali Speciali,San Biagio Della Cima,Imperia,Liguria,580,543,1123,37.31,50.54,419,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370500,-26.18
+Regionali Speciali,San Lorenzo Al Mare,Imperia,Liguria,559,501,1060,12.26,15.4,130,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370510,-20.39
+Regionali Speciali,San Lorenzo Al Mare,Imperia,Liguria,559,501,1060,31.98,36.31,339,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370510,-11.93
+Regionali Speciali,San Lorenzo Al Mare,Imperia,Liguria,559,501,1060,35.66,45.82,378,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370510,-22.17
+Regionali Speciali,San Lorenzo Al Mare,Imperia,Liguria,559,501,1060,48.11,61.98,510,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370510,-22.38
+Regionali Speciali,Sanremo,Imperia,Liguria,23884,21824,45708,9.15,12.48,4181,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370520,-26.68
+Regionali Speciali,Sanremo,Imperia,Liguria,23884,21824,45708,20.16,28.36,9214,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370520,-28.91
+Regionali Speciali,Sanremo,Imperia,Liguria,23884,21824,45708,22.46,35.08,10267,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370520,-35.97
+Regionali Speciali,Sanremo,Imperia,Liguria,23884,21824,45708,32.38,47.32,14799,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370520,-31.57
+Regionali Speciali,Santo Stefano Al Mare,Imperia,Liguria,893,874,1767,10.75,16.18,190,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370521,-33.56
+Regionali Speciali,Santo Stefano Al Mare,Imperia,Liguria,893,874,1767,25.3,39.43,447,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370521,-35.84
+Regionali Speciali,Santo Stefano Al Mare,Imperia,Liguria,893,874,1767,29.32,50.17,518,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370521,-41.56
+Regionali Speciali,Santo Stefano Al Mare,Imperia,Liguria,893,874,1767,42.28,66.3,747,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370521,-36.23
+Regionali Speciali,Seborga,Imperia,Liguria,118,111,229,11.35,14.29,26,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370530,-20.57
+Regionali Speciali,Seborga,Imperia,Liguria,118,111,229,23.14,34.03,53,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370530,-32.0
+Regionali Speciali,Seborga,Imperia,Liguria,118,111,229,27.07,44.12,62,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370530,-38.64
+Regionali Speciali,Seborga,Imperia,Liguria,118,111,229,47.16,60.5,108,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370530,-22.05
+Regionali Speciali,Soldano,Imperia,Liguria,382,412,794,8.31,12.33,66,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370540,-32.6
+Regionali Speciali,Soldano,Imperia,Liguria,382,412,794,25.06,29.64,199,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370540,-15.45
+Regionali Speciali,Soldano,Imperia,Liguria,382,412,794,28.59,37.24,227,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370540,-23.23
+Regionali Speciali,Soldano,Imperia,Liguria,382,412,794,39.92,53.8,317,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370540,-25.8
+Regionali Speciali,Taggia,Imperia,Liguria,6058,5437,11495,10.68,13.82,1228,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370550,-22.72
+Regionali Speciali,Taggia,Imperia,Liguria,6058,5437,11495,26.84,32.03,3085,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370550,-16.2
+Regionali Speciali,Taggia,Imperia,Liguria,6058,5437,11495,29.73,39.87,3417,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370550,-25.43
+Regionali Speciali,Taggia,Imperia,Liguria,6058,5437,11495,40.95,52.95,4707,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370550,-22.66
+Regionali Speciali,Terzorio,Imperia,Liguria,92,95,187,17.11,18.23,32,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370560,-6.14
+Regionali Speciali,Terzorio,Imperia,Liguria,92,95,187,37.97,45.83,71,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370560,-17.15
+Regionali Speciali,Terzorio,Imperia,Liguria,92,95,187,41.71,62.5,78,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370560,-33.26
+Regionali Speciali,Terzorio,Imperia,Liguria,92,95,187,56.68,73.44,106,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370560,-22.82
+Regionali Speciali,Triora,Imperia,Liguria,148,177,325,8.62,16.25,28,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370570,-46.95
+Regionali Speciali,Triora,Imperia,Liguria,148,177,325,18.77,35.0,61,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370570,-46.37
+Regionali Speciali,Triora,Imperia,Liguria,148,177,325,20.31,40.63,66,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370570,-50.01
+Regionali Speciali,Triora,Imperia,Liguria,148,177,325,39.69,57.81,129,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370570,-31.34
+Regionali Speciali,Vallebona,Imperia,Liguria,536,557,1093,8.69,10.58,95,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370580,-17.86
+Regionali Speciali,Vallebona,Imperia,Liguria,536,557,1093,21.87,26.49,239,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370580,-17.44
+Regionali Speciali,Vallebona,Imperia,Liguria,536,557,1093,25.25,33.85,276,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370580,-25.41
+Regionali Speciali,Vallebona,Imperia,Liguria,536,557,1093,35.68,47.56,390,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370580,-24.98
+Regionali Speciali,Vallecrosia,Imperia,Liguria,3137,2910,6047,12.01,11.78,726,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370590,1.95
+Regionali Speciali,Vallecrosia,Imperia,Liguria,3137,2910,6047,27.91,30.52,1688,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370590,-8.55
+Regionali Speciali,Vallecrosia,Imperia,Liguria,3137,2910,6047,30.1,36.53,1820,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370590,-17.6
+Regionali Speciali,Vallecrosia,Imperia,Liguria,3137,2910,6047,41.13,48.73,2487,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370590,-15.6
+Regionali Speciali,Vasia,Imperia,Liguria,141,143,284,15.49,17.87,44,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370600,-13.32
+Regionali Speciali,Vasia,Imperia,Liguria,141,143,284,33.8,36.99,96,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370600,-8.62
+Regionali Speciali,Vasia,Imperia,Liguria,141,143,284,36.62,45.14,104,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370600,-18.87
+Regionali Speciali,Vasia,Imperia,Liguria,141,143,284,51.06,64.26,145,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370600,-20.54
+Regionali Speciali,Ventimiglia,Imperia,Liguria,10793,10471,21264,8.9,11.48,1893,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370610,-22.47
+Regionali Speciali,Ventimiglia,Imperia,Liguria,10793,10471,21264,21.81,26.58,4637,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370610,-17.95
+Regionali Speciali,Ventimiglia,Imperia,Liguria,10793,10471,21264,24.24,32.17,5155,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370610,-24.65
+Regionali Speciali,Ventimiglia,Imperia,Liguria,10793,10471,21264,33.31,42.62,7082,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370610,-21.84
+Regionali Speciali,Vessalico,Imperia,Liguria,88,108,196,5.61,8.05,11,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370620,-30.31
+Regionali Speciali,Vessalico,Imperia,Liguria,88,108,196,24.49,28.16,48,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370620,-13.03
+Regionali Speciali,Vessalico,Imperia,Liguria,88,108,196,29.08,35.63,57,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370620,-18.38
+Regionali Speciali,Vessalico,Imperia,Liguria,88,108,196,45.92,54.6,90,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370620,-15.9
+Regionali Speciali,Villa Faraldi,Imperia,Liguria,179,181,360,3.06,11.83,11,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370630,-74.13
+Regionali Speciali,Villa Faraldi,Imperia,Liguria,179,181,360,15.28,29.86,55,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370630,-48.83
+Regionali Speciali,Villa Faraldi,Imperia,Liguria,179,181,360,19.44,39.44,70,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370630,-50.71
+Regionali Speciali,Villa Faraldi,Imperia,Liguria,179,181,360,34.17,56.9,123,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070370630,-39.95
+Regionali Speciali,Ameglia,La Spezia,Liguria,1913,1859,3772,12.49,12.11,471,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390010,3.14
+Regionali Speciali,Ameglia,La Spezia,Liguria,1913,1859,3772,32.05,30.65,1209,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390010,4.57
+Regionali Speciali,Ameglia,La Spezia,Liguria,1913,1859,3772,36.24,41.8,1367,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390010,-13.3
+Regionali Speciali,Ameglia,La Spezia,Liguria,1913,1859,3772,47.93,55.16,1808,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390010,-13.11
+Regionali Speciali,Arcola,La Spezia,Liguria,4367,4125,8492,11.4,14.01,968,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390020,-18.63
+Regionali Speciali,Arcola,La Spezia,Liguria,4367,4125,8492,30.28,33.06,2571,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390020,-8.41
+Regionali Speciali,Arcola,La Spezia,Liguria,4367,4125,8492,34.93,40.35,2966,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390020,-13.43
+Regionali Speciali,Arcola,La Spezia,Liguria,4367,4125,8492,46.27,55.72,3929,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390020,-16.96
+Regionali Speciali,Beverino,La Spezia,Liguria,1184,1135,2319,10.44,9.52,242,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390030,9.66
+Regionali Speciali,Beverino,La Spezia,Liguria,1184,1135,2319,31.69,27.19,735,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390030,16.55
+Regionali Speciali,Beverino,La Spezia,Liguria,1184,1135,2319,36.35,35.55,843,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390030,2.25
+Regionali Speciali,Beverino,La Spezia,Liguria,1184,1135,2319,47.65,50.41,1105,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390030,-5.48
+Regionali Speciali,Bolano,La Spezia,Liguria,3378,3234,6612,10.92,13.14,722,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390040,-16.89
+Regionali Speciali,Bolano,La Spezia,Liguria,3378,3234,6612,29.6,31.25,1957,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390040,-5.28
+Regionali Speciali,Bolano,La Spezia,Liguria,3378,3234,6612,34.98,39.65,2313,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390040,-11.78
+Regionali Speciali,Bolano,La Spezia,Liguria,3378,3234,6612,47.11,56.12,3115,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390040,-16.05
+Regionali Speciali,Bonassola,La Spezia,Liguria,407,353,760,16.45,15.32,125,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390050,7.38
+Regionali Speciali,Bonassola,La Spezia,Liguria,407,353,760,35.53,35.99,270,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390050,-1.28
+Regionali Speciali,Bonassola,La Spezia,Liguria,407,353,760,38.95,41.47,296,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390050,-6.08
+Regionali Speciali,Bonassola,La Spezia,Liguria,407,353,760,51.58,57.04,392,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390050,-9.57
+Regionali Speciali,Borghetto Di Vara,La Spezia,Liguria,568,569,1137,8.71,11.88,99,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390060,-26.68
+Regionali Speciali,Borghetto Di Vara,La Spezia,Liguria,568,569,1137,25.77,28.01,293,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390060,-8.0
+Regionali Speciali,Borghetto Di Vara,La Spezia,Liguria,568,569,1137,28.23,33.16,321,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390060,-14.87
+Regionali Speciali,Borghetto Di Vara,La Spezia,Liguria,568,569,1137,37.64,43.71,428,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390060,-13.89
+Regionali Speciali,Brugnato,La Spezia,Liguria,596,579,1175,12.6,16.2,148,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390070,-22.22
+Regionali Speciali,Brugnato,La Spezia,Liguria,596,579,1175,34.47,34.78,405,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390070,-0.89
+Regionali Speciali,Brugnato,La Spezia,Liguria,596,579,1175,41.28,43.56,485,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390070,-5.23
+Regionali Speciali,Brugnato,La Spezia,Liguria,596,579,1175,58.21,61.89,684,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390070,-5.95
+Regionali Speciali,Calice Al Cornoviglio,La Spezia,Liguria,678,706,1384,6.21,9.62,86,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390080,-35.45
+Regionali Speciali,Calice Al Cornoviglio,La Spezia,Liguria,678,706,1384,18.06,22.69,250,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390080,-20.41
+Regionali Speciali,Calice Al Cornoviglio,La Spezia,Liguria,678,706,1384,20.95,26.97,290,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390080,-22.32
+Regionali Speciali,Calice Al Cornoviglio,La Spezia,Liguria,678,706,1384,30.56,38.09,423,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390080,-19.77
+Regionali Speciali,Carro,La Spezia,Liguria,311,314,625,9.28,11.57,58,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390090,-19.79
+Regionali Speciali,Carro,La Spezia,Liguria,311,314,625,23.84,25.88,149,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390090,-7.88
+Regionali Speciali,Carro,La Spezia,Liguria,311,314,625,27.36,30.29,171,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390090,-9.67
+Regionali Speciali,Carro,La Spezia,Liguria,311,314,625,38.4,42.31,240,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390090,-9.24
+Regionali Speciali,Carrodano,La Spezia,Liguria,275,278,553,8.68,14.44,48,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390100,-39.89
+Regionali Speciali,Carrodano,La Spezia,Liguria,275,278,553,26.94,34.0,149,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390100,-20.76
+Regionali Speciali,Carrodano,La Spezia,Liguria,275,278,553,30.56,39.49,169,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390100,-22.61
+Regionali Speciali,Carrodano,La Spezia,Liguria,275,278,553,42.86,53.75,237,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390100,-20.26
+Regionali Speciali,Castelnuovo Magra,La Spezia,Liguria,3662,3498,7160,10.17,14.43,728,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390110,-29.52
+Regionali Speciali,Castelnuovo Magra,La Spezia,Liguria,3662,3498,7160,29.25,32.35,2094,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390110,-9.58
+Regionali Speciali,Castelnuovo Magra,La Spezia,Liguria,3662,3498,7160,33.78,40.71,2419,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390110,-17.02
+Regionali Speciali,Castelnuovo Magra,La Spezia,Liguria,3662,3498,7160,45.2,55.71,3236,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390110,-18.87
+Regionali Speciali,Deiva Marina,La Spezia,Liguria,824,814,1638,12.27,13.64,201,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390120,-10.04
+Regionali Speciali,Deiva Marina,La Spezia,Liguria,824,814,1638,27.11,28.18,444,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390120,-3.8
+Regionali Speciali,Deiva Marina,La Spezia,Liguria,824,814,1638,30.16,32.53,494,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390120,-7.29
+Regionali Speciali,Deiva Marina,La Spezia,Liguria,824,814,1638,39.44,44.9,646,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390120,-12.16
+Regionali Speciali,Follo,La Spezia,Liguria,2697,2613,5310,10.24,11.11,544,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390130,-7.83
+Regionali Speciali,Follo,La Spezia,Liguria,2697,2613,5310,31.26,28.04,1660,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390130,11.48
+Regionali Speciali,Follo,La Spezia,Liguria,2697,2613,5310,35.61,35.79,1891,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390130,-0.5
+Regionali Speciali,Follo,La Spezia,Liguria,2697,2613,5310,47.85,52.02,2541,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390130,-8.02
+Regionali Speciali,Framura,La Spezia,Liguria,353,348,701,11.84,12.18,83,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390140,-2.79
+Regionali Speciali,Framura,La Spezia,Liguria,353,348,701,29.24,29.18,205,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390140,0.21
+Regionali Speciali,Framura,La Spezia,Liguria,353,348,701,32.52,35.21,228,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390140,-7.64
+Regionali Speciali,Framura,La Spezia,Liguria,353,348,701,43.94,51.41,308,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390140,-14.53
+Regionali Speciali,La Spezia,La Spezia,Liguria,39021,35377,74398,12.84,13.01,9551,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390150,-1.31
+Regionali Speciali,La Spezia,La Spezia,Liguria,39021,35377,74398,31.82,30.73,23670,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390150,3.55
+Regionali Speciali,La Spezia,La Spezia,Liguria,39021,35377,74398,36.64,38.64,27262,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390150,-5.18
+Regionali Speciali,La Spezia,La Spezia,Liguria,39021,35377,74398,47.68,52.09,35473,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390150,-8.47
+Regionali Speciali,Lerici,La Spezia,Liguria,4583,4245,8828,14.35,13.08,1267,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390160,9.71
+Regionali Speciali,Lerici,La Spezia,Liguria,4583,4245,8828,34.45,33.59,3041,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390160,2.56
+Regionali Speciali,Lerici,La Spezia,Liguria,4583,4245,8828,39.34,45.87,3473,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390160,-14.24
+Regionali Speciali,Lerici,La Spezia,Liguria,4583,4245,8828,51.13,64.23,4514,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390160,-20.4
+Regionali Speciali,Levanto,La Spezia,Liguria,2511,2333,4844,11.21,16.66,543,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390170,-32.71
+Regionali Speciali,Levanto,La Spezia,Liguria,2511,2333,4844,31.69,40.52,1535,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390170,-21.79
+Regionali Speciali,Levanto,La Spezia,Liguria,2511,2333,4844,37.14,51.88,1799,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390170,-28.41
+Regionali Speciali,Levanto,La Spezia,Liguria,2511,2333,4844,50.19,69.49,2431,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390170,-27.77
+Regionali Speciali,Maissana,La Spezia,Liguria,269,339,608,8.39,14.1,51,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390180,-40.5
+Regionali Speciali,Maissana,La Spezia,Liguria,269,339,608,24.18,31.57,147,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390180,-23.41
+Regionali Speciali,Maissana,La Spezia,Liguria,269,339,608,29.11,38.78,177,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390180,-24.94
+Regionali Speciali,Maissana,La Spezia,Liguria,269,339,608,38.16,49.68,232,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390180,-23.19
+Regionali Speciali,Monterosso Al Mare,La Spezia,Liguria,1043,937,1980,8.89,7.83,176,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390190,13.54
+Regionali Speciali,Monterosso Al Mare,La Spezia,Liguria,1043,937,1980,19.09,17.25,378,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390190,10.67
+Regionali Speciali,Monterosso Al Mare,La Spezia,Liguria,1043,937,1980,20.96,21.48,415,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390190,-2.42
+Regionali Speciali,Monterosso Al Mare,La Spezia,Liguria,1043,937,1980,30.56,34.6,605,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390190,-11.68
+Regionali Speciali,Luni,La Spezia,Liguria,3532,3467,6999,9.59,11.47,671,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390200,-16.39
+Regionali Speciali,Luni,La Spezia,Liguria,3532,3467,6999,27.26,29.21,1908,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390200,-6.68
+Regionali Speciali,Luni,La Spezia,Liguria,3532,3467,6999,31.3,37.71,2191,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390200,-17.0
+Regionali Speciali,Luni,La Spezia,Liguria,3532,3467,6999,42.52,53.84,2976,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390200,-21.03
+Regionali Speciali,Pignone,La Spezia,Liguria,474,479,953,4.72,4.4,45,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390210,7.27
+Regionali Speciali,Pignone,La Spezia,Liguria,474,479,953,19.31,19.44,184,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390210,-0.67
+Regionali Speciali,Pignone,La Spezia,Liguria,474,479,953,21.93,25.35,209,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390210,-13.49
+Regionali Speciali,Pignone,La Spezia,Liguria,474,479,953,31.06,34.37,296,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390210,-9.63
+Regionali Speciali,Portovenere,La Spezia,Liguria,1592,1632,3224,12.16,14.46,392,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390220,-15.91
+Regionali Speciali,Portovenere,La Spezia,Liguria,1592,1632,3224,29.5,30.77,951,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390220,-4.13
+Regionali Speciali,Portovenere,La Spezia,Liguria,1592,1632,3224,33.25,37.24,1072,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390220,-10.71
+Regionali Speciali,Portovenere,La Spezia,Liguria,1592,1632,3224,46.99,53.71,1515,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390220,-12.51
+Regionali Speciali,Ricco' Del Golfo Di Spezia,La Spezia,Liguria,1715,1662,3377,8.94,11.94,302,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390230,-25.13
+Regionali Speciali,Ricco' Del Golfo Di Spezia,La Spezia,Liguria,1715,1662,3377,27.21,30.03,919,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390230,-9.39
+Regionali Speciali,Ricco' Del Golfo Di Spezia,La Spezia,Liguria,1715,1662,3377,31.71,37.81,1071,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390230,-16.13
+Regionali Speciali,Ricco' Del Golfo Di Spezia,La Spezia,Liguria,1715,1662,3377,43.97,51.76,1485,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390230,-15.05
+Regionali Speciali,Riomaggiore,La Spezia,Liguria,739,753,1492,13.14,12.9,196,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390240,1.86
+Regionali Speciali,Riomaggiore,La Spezia,Liguria,739,753,1492,30.36,30.03,453,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390240,1.1
+Regionali Speciali,Riomaggiore,La Spezia,Liguria,739,753,1492,34.45,37.29,514,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390240,-7.62
+Regionali Speciali,Riomaggiore,La Spezia,Liguria,739,753,1492,48.39,51.14,722,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390240,-5.38
+Regionali Speciali,Rocchetta Di Vara,La Spezia,Liguria,324,374,698,8.45,10.62,59,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390250,-20.43
+Regionali Speciali,Rocchetta Di Vara,La Spezia,Liguria,324,374,698,29.08,30.53,203,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390250,-4.75
+Regionali Speciali,Rocchetta Di Vara,La Spezia,Liguria,324,374,698,32.38,36.28,226,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390250,-10.75
+Regionali Speciali,Rocchetta Di Vara,La Spezia,Liguria,324,374,698,45.99,51.33,321,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390250,-10.4
+Regionali Speciali,Santo Stefano Di Magra,La Spezia,Liguria,4153,4016,8169,11.94,12.55,975,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390260,-4.86
+Regionali Speciali,Santo Stefano Di Magra,La Spezia,Liguria,4153,4016,8169,31.74,32.73,2593,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390260,-3.02
+Regionali Speciali,Santo Stefano Di Magra,La Spezia,Liguria,4153,4016,8169,36.72,42.45,3000,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390260,-13.5
+Regionali Speciali,Santo Stefano Di Magra,La Spezia,Liguria,4153,4016,8169,48.81,57.24,3987,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390260,-14.73
+Regionali Speciali,Sarzana,La Spezia,Liguria,9612,8922,18534,12.66,14.79,2346,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390270,-14.4
+Regionali Speciali,Sarzana,La Spezia,Liguria,9612,8922,18534,31.91,33.26,5914,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390270,-4.06
+Regionali Speciali,Sarzana,La Spezia,Liguria,9612,8922,18534,36.94,42.19,6847,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390270,-12.44
+Regionali Speciali,Sarzana,La Spezia,Liguria,9612,8922,18534,49.76,57.54,9223,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390270,-13.52
+Regionali Speciali,Sesta Godano,La Spezia,Liguria,806,801,1607,10.45,9.24,168,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390280,13.1
+Regionali Speciali,Sesta Godano,La Spezia,Liguria,806,801,1607,27.13,23.2,436,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390280,16.94
+Regionali Speciali,Sesta Godano,La Spezia,Liguria,806,801,1607,32.23,30.33,518,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390280,6.26
+Regionali Speciali,Sesta Godano,La Spezia,Liguria,806,801,1607,45.24,44.11,727,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390280,2.56
+Regionali Speciali,Varese Ligure,La Spezia,Liguria,1006,1013,2019,10.35,11.91,209,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390290,-13.1
+Regionali Speciali,Varese Ligure,La Spezia,Liguria,1006,1013,2019,28.43,27.38,574,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390290,3.83
+Regionali Speciali,Varese Ligure,La Spezia,Liguria,1006,1013,2019,32.69,36.49,660,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390290,-10.41
+Regionali Speciali,Varese Ligure,La Spezia,Liguria,1006,1013,2019,45.22,52.5,913,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390290,-13.87
+Regionali Speciali,Vernazza,La Spezia,Liguria,466,461,927,9.82,11.83,91,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390300,-16.99
+Regionali Speciali,Vernazza,La Spezia,Liguria,466,461,927,26.86,28.48,249,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390300,-5.69
+Regionali Speciali,Vernazza,La Spezia,Liguria,466,461,927,29.88,33.61,277,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390300,-11.1
+Regionali Speciali,Vernazza,La Spezia,Liguria,466,461,927,42.5,48.06,394,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390300,-11.57
+Regionali Speciali,Vezzano Ligure,La Spezia,Liguria,3145,2923,6068,11.07,13.76,672,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390310,-19.55
+Regionali Speciali,Vezzano Ligure,La Spezia,Liguria,3145,2923,6068,32.19,33.36,1953,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390310,-3.51
+Regionali Speciali,Vezzano Ligure,La Spezia,Liguria,3145,2923,6068,36.98,41.47,2244,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390310,-10.83
+Regionali Speciali,Vezzano Ligure,La Spezia,Liguria,3145,2923,6068,50.64,58.21,3073,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390310,-13.0
+Regionali Speciali,Zignago,La Spezia,Liguria,211,228,439,17.08,16.11,75,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390320,6.02
+Regionali Speciali,Zignago,La Spezia,Liguria,211,228,439,36.9,37.36,162,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390320,-1.23
+Regionali Speciali,Zignago,La Spezia,Liguria,211,228,439,41.91,44.3,184,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390320,-5.4
+Regionali Speciali,Zignago,La Spezia,Liguria,211,228,439,58.09,66.67,255,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070390320,-12.87
+Regionali Speciali,Alassio,Savona,Liguria,5013,4409,9422,11.6,13.65,1093,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740010,-15.02
+Regionali Speciali,Alassio,Savona,Liguria,5013,4409,9422,25.19,29.94,2373,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740010,-15.87
+Regionali Speciali,Alassio,Savona,Liguria,5013,4409,9422,28.26,36.75,2663,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740010,-23.1
+Regionali Speciali,Alassio,Savona,Liguria,5013,4409,9422,41.55,50.69,3915,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740010,-18.03
+Regionali Speciali,Albenga,Savona,Liguria,10007,9328,19335,13.12,14.95,2536,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740020,-12.24
+Regionali Speciali,Albenga,Savona,Liguria,10007,9328,19335,30.31,34.76,5860,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740020,-12.8
+Regionali Speciali,Albenga,Savona,Liguria,10007,9328,19335,33.7,42.74,6515,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740020,-21.15
+Regionali Speciali,Albenga,Savona,Liguria,10007,9328,19335,46.49,57.35,8989,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740020,-18.94
+Regionali Speciali,Albissola Marina,Savona,Liguria,2536,2270,4806,17.33,16.77,833,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740030,3.34
+Regionali Speciali,Albissola Marina,Savona,Liguria,2536,2270,4806,36.2,36.61,1740,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740030,-1.12
+Regionali Speciali,Albissola Marina,Savona,Liguria,2536,2270,4806,40.45,45.75,1944,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740030,-11.58
+Regionali Speciali,Albissola Marina,Savona,Liguria,2536,2270,4806,53.02,60.96,2548,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740030,-13.02
+Regionali Speciali,Albisola Superiore,Savona,Liguria,4690,4170,8860,14.41,15.3,1277,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740040,-5.82
+Regionali Speciali,Albisola Superiore,Savona,Liguria,4690,4170,8860,33.56,34.15,2973,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740040,-1.73
+Regionali Speciali,Albisola Superiore,Savona,Liguria,4690,4170,8860,37.72,42.44,3342,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740040,-11.12
+Regionali Speciali,Albisola Superiore,Savona,Liguria,4690,4170,8860,48.97,52.68,4339,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740040,-7.04
+Regionali Speciali,Altare,Savona,Liguria,966,911,1877,6.55,11.57,123,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740050,-43.39
+Regionali Speciali,Altare,Savona,Liguria,966,911,1877,16.36,29.25,307,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740050,-44.07
+Regionali Speciali,Altare,Savona,Liguria,966,911,1877,20.03,37.71,376,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740050,-46.88
+Regionali Speciali,Altare,Savona,Liguria,966,911,1877,32.07,50.56,602,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740050,-36.57
+Regionali Speciali,Andora,Savona,Liguria,3319,3104,6423,11.47,14.43,737,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740060,-20.51
+Regionali Speciali,Andora,Savona,Liguria,3319,3104,6423,27.06,34.36,1738,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740060,-21.25
+Regionali Speciali,Andora,Savona,Liguria,3319,3104,6423,29.88,43.01,1919,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740060,-30.53
+Regionali Speciali,Andora,Savona,Liguria,3319,3104,6423,43.66,58.53,2804,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740060,-25.41
+Regionali Speciali,Arnasco,Savona,Liguria,238,253,491,11.81,13.33,58,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740070,-11.4
+Regionali Speciali,Arnasco,Savona,Liguria,238,253,491,26.88,33.54,132,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740070,-19.86
+Regionali Speciali,Arnasco,Savona,Liguria,238,253,491,31.16,41.01,153,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740070,-24.02
+Regionali Speciali,Arnasco,Savona,Liguria,238,253,491,46.03,56.16,226,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740070,-18.04
+Regionali Speciali,Balestrino,Savona,Liguria,323,310,633,9.79,8.83,62,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740080,10.87
+Regionali Speciali,Balestrino,Savona,Liguria,323,310,633,22.27,27.61,141,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740080,-19.34
+Regionali Speciali,Balestrino,Savona,Liguria,323,310,633,23.38,34.99,148,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740080,-33.18
+Regionali Speciali,Balestrino,Savona,Liguria,323,310,633,37.12,46.71,235,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740080,-20.53
+Regionali Speciali,Bardineto,Savona,Liguria,377,374,751,9.45,15.3,71,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740090,-38.24
+Regionali Speciali,Bardineto,Savona,Liguria,377,374,751,24.37,36.44,183,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740090,-33.12
+Regionali Speciali,Bardineto,Savona,Liguria,377,374,751,26.9,40.75,202,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740090,-33.99
+Regionali Speciali,Bardineto,Savona,Liguria,377,374,751,37.42,49.79,281,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740090,-24.84
+Regionali Speciali,Bergeggi,Savona,Liguria,504,483,987,15.7,15.48,155,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740100,1.42
+Regionali Speciali,Bergeggi,Savona,Liguria,504,483,987,35.56,41.07,351,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740100,-13.42
+Regionali Speciali,Bergeggi,Savona,Liguria,504,483,987,40.63,51.91,401,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740100,-21.73
+Regionali Speciali,Bergeggi,Savona,Liguria,504,483,987,54.2,66.36,535,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740100,-18.32
+Regionali Speciali,Boissano,Savona,Liguria,1140,1142,2282,9.16,13.61,209,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740110,-32.7
+Regionali Speciali,Boissano,Savona,Liguria,1140,1142,2282,26.47,32.95,604,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740110,-19.67
+Regionali Speciali,Boissano,Savona,Liguria,1140,1142,2282,30.94,43.15,706,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740110,-28.3
+Regionali Speciali,Boissano,Savona,Liguria,1140,1142,2282,45.66,60.41,1042,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740110,-24.42
+Regionali Speciali,Borghetto Santo Spirito,Savona,Liguria,2077,1852,3929,12.95,15.2,509,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740120,-14.8
+Regionali Speciali,Borghetto Santo Spirito,Savona,Liguria,2077,1852,3929,27.21,32.09,1069,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740120,-15.21
+Regionali Speciali,Borghetto Santo Spirito,Savona,Liguria,2077,1852,3929,29.35,38.35,1153,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740120,-23.47
+Regionali Speciali,Borghetto Santo Spirito,Savona,Liguria,2077,1852,3929,39.76,50.06,1562,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740120,-20.58
+Regionali Speciali,Borgio Verezzi,Savona,Liguria,1082,993,2075,12.67,14.81,263,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740130,-14.45
+Regionali Speciali,Borgio Verezzi,Savona,Liguria,1082,993,2075,28.1,31.72,583,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740130,-11.41
+Regionali Speciali,Borgio Verezzi,Savona,Liguria,1082,993,2075,31.08,39.2,645,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740130,-20.71
+Regionali Speciali,Borgio Verezzi,Savona,Liguria,1082,993,2075,43.23,52.85,897,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740130,-18.2
+Regionali Speciali,Bormida,Savona,Liguria,307,304,611,6.71,7.21,41,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740140,-6.93
+Regionali Speciali,Bormida,Savona,Liguria,307,304,611,14.08,20.84,86,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740140,-32.44
+Regionali Speciali,Bormida,Savona,Liguria,307,304,611,14.89,26.45,91,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740140,-43.71
+Regionali Speciali,Bormida,Savona,Liguria,307,304,611,22.59,37.68,138,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740140,-40.05
+Regionali Speciali,Cairo Montenotte,Savona,Liguria,5622,5409,11031,6.62,14.43,730,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740150,-54.12
+Regionali Speciali,Cairo Montenotte,Savona,Liguria,5622,5409,11031,18.57,33.4,2048,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740150,-44.4
+Regionali Speciali,Cairo Montenotte,Savona,Liguria,5622,5409,11031,21.37,41.16,2357,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740150,-48.08
+Regionali Speciali,Cairo Montenotte,Savona,Liguria,5622,5409,11031,34.78,54.69,3837,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740150,-36.41
+Regionali Speciali,Calice Ligure,Savona,Liguria,912,885,1797,8.4,11.92,151,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740160,-29.53
+Regionali Speciali,Calice Ligure,Savona,Liguria,912,885,1797,25.21,28.88,453,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740160,-12.71
+Regionali Speciali,Calice Ligure,Savona,Liguria,912,885,1797,28.66,36.34,515,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740160,-21.13
+Regionali Speciali,Calice Ligure,Savona,Liguria,912,885,1797,41.46,51.22,745,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740160,-19.06
+Regionali Speciali,Calizzano,Savona,Liguria,777,749,1526,9.9,12.61,151,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740170,-21.49
+Regionali Speciali,Calizzano,Savona,Liguria,777,749,1526,22.54,30.43,344,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740170,-25.93
+Regionali Speciali,Calizzano,Savona,Liguria,777,749,1526,25.29,36.67,386,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740170,-31.03
+Regionali Speciali,Calizzano,Savona,Liguria,777,749,1526,35.71,49.69,545,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740170,-28.13
+Regionali Speciali,Carcare,Savona,Liguria,2516,2165,4681,8.95,14.96,419,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740180,-40.17
+Regionali Speciali,Carcare,Savona,Liguria,2516,2165,4681,25.83,35.36,1209,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740180,-26.95
+Regionali Speciali,Carcare,Savona,Liguria,2516,2165,4681,29.54,43.81,1383,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740180,-32.57
+Regionali Speciali,Carcare,Savona,Liguria,2516,2165,4681,43.69,58.48,2045,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740180,-25.29
+Regionali Speciali,Casanova Lerrone,Savona,Liguria,292,279,571,9.11,14.74,52,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740190,-38.2
+Regionali Speciali,Casanova Lerrone,Savona,Liguria,292,279,571,21.72,31.93,124,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740190,-31.98
+Regionali Speciali,Casanova Lerrone,Savona,Liguria,292,279,571,23.82,38.77,136,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740190,-38.56
+Regionali Speciali,Casanova Lerrone,Savona,Liguria,292,279,571,38.35,52.81,219,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740190,-27.38
+Regionali Speciali,Castelbianco,Savona,Liguria,155,139,294,9.86,12.5,29,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740200,-21.12
+Regionali Speciali,Castelbianco,Savona,Liguria,155,139,294,27.21,31.43,80,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740200,-13.43
+Regionali Speciali,Castelbianco,Savona,Liguria,155,139,294,31.97,39.29,94,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740200,-18.63
+Regionali Speciali,Castelbianco,Savona,Liguria,155,139,294,45.24,55.36,133,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740200,-18.28
+Regionali Speciali,Castelvecchio Di Rocca Barbena,Savona,Liguria,65,93,158,15.19,15.57,24,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740210,-2.44
+Regionali Speciali,Castelvecchio Di Rocca Barbena,Savona,Liguria,65,93,158,30.38,28.14,48,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740210,7.96
+Regionali Speciali,Castelvecchio Di Rocca Barbena,Savona,Liguria,65,93,158,34.81,34.13,55,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740210,1.99
+Regionali Speciali,Castelvecchio Di Rocca Barbena,Savona,Liguria,65,93,158,46.84,49.1,74,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740210,-4.6
+Regionali Speciali,Celle Ligure,Savona,Liguria,2350,2186,4536,14.35,16.13,651,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740220,-11.04
+Regionali Speciali,Celle Ligure,Savona,Liguria,2350,2186,4536,32.25,34.46,1463,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740220,-6.41
+Regionali Speciali,Celle Ligure,Savona,Liguria,2350,2186,4536,36.97,43.08,1677,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740220,-14.18
+Regionali Speciali,Celle Ligure,Savona,Liguria,2350,2186,4536,50.99,59.35,2313,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740220,-14.09
+Regionali Speciali,Cengio,Savona,Liguria,1444,1346,2790,9.21,14.22,257,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740230,-35.23
+Regionali Speciali,Cengio,Savona,Liguria,1444,1346,2790,28.28,33.6,789,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740230,-15.83
+Regionali Speciali,Cengio,Savona,Liguria,1444,1346,2790,32.29,40.01,901,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740230,-19.3
+Regionali Speciali,Cengio,Savona,Liguria,1444,1346,2790,44.77,55.07,1249,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740230,-18.7
+Regionali Speciali,Ceriale,Savona,Liguria,2403,2206,4609,12.11,14.31,558,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740240,-15.37
+Regionali Speciali,Ceriale,Savona,Liguria,2403,2206,4609,26.08,31.0,1202,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740240,-15.87
+Regionali Speciali,Ceriale,Savona,Liguria,2403,2206,4609,29.03,37.98,1338,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740240,-23.57
+Regionali Speciali,Ceriale,Savona,Liguria,2403,2206,4609,41.85,54.4,1929,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740240,-23.07
+Regionali Speciali,Cisano Sul Neva,Savona,Liguria,920,862,1782,15.21,18.08,271,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740250,-15.87
+Regionali Speciali,Cisano Sul Neva,Savona,Liguria,920,862,1782,36.81,38.49,656,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740250,-4.36
+Regionali Speciali,Cisano Sul Neva,Savona,Liguria,920,862,1782,40.68,47.13,725,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740250,-13.69
+Regionali Speciali,Cisano Sul Neva,Savona,Liguria,920,862,1782,56.0,64.58,998,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740250,-13.29
+Regionali Speciali,Cosseria,Savona,Liguria,546,539,1085,8.39,11.32,91,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740260,-25.88
+Regionali Speciali,Cosseria,Savona,Liguria,546,539,1085,25.81,30.34,280,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740260,-14.93
+Regionali Speciali,Cosseria,Savona,Liguria,546,539,1085,29.12,38.95,316,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740260,-25.24
+Regionali Speciali,Cosseria,Savona,Liguria,546,539,1085,42.67,53.26,463,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740260,-19.88
+Regionali Speciali,Dego,Savona,Liguria,1288,1180,2468,4.13,8.47,102,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740270,-51.24
+Regionali Speciali,Dego,Savona,Liguria,1288,1180,2468,12.97,21.07,320,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740270,-38.44
+Regionali Speciali,Dego,Savona,Liguria,1288,1180,2468,14.14,27.22,349,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740270,-48.05
+Regionali Speciali,Dego,Savona,Liguria,1288,1180,2468,24.23,38.74,598,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740270,-37.45
+Regionali Speciali,Erli,Savona,Liguria,148,156,304,6.25,9.68,19,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740280,-35.43
+Regionali Speciali,Erli,Savona,Liguria,148,156,304,23.03,25.16,70,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740280,-8.47
+Regionali Speciali,Erli,Savona,Liguria,148,156,304,23.68,27.1,72,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740280,-12.62
+Regionali Speciali,Erli,Savona,Liguria,148,156,304,33.22,40.65,101,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740280,-18.28
+Regionali Speciali,Finale Ligure,Savona,Liguria,5544,5077,10621,12.28,13.27,1304,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740290,-7.46
+Regionali Speciali,Finale Ligure,Savona,Liguria,5544,5077,10621,27.05,31.23,2873,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740290,-13.38
+Regionali Speciali,Finale Ligure,Savona,Liguria,5544,5077,10621,30.12,38.15,3199,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740290,-21.05
+Regionali Speciali,Finale Ligure,Savona,Liguria,5544,5077,10621,42.7,52.59,4535,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740290,-18.81
+Regionali Speciali,Garlenda,Savona,Liguria,593,576,1169,9.92,12.45,116,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740300,-20.32
+Regionali Speciali,Garlenda,Savona,Liguria,593,576,1169,23.35,31.9,273,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740300,-26.8
+Regionali Speciali,Garlenda,Savona,Liguria,593,576,1169,27.2,40.9,318,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740300,-33.5
+Regionali Speciali,Garlenda,Savona,Liguria,593,576,1169,41.15,56.7,481,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740300,-27.43
+Regionali Speciali,Giustenice,Savona,Liguria,451,457,908,11.89,12.91,108,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740310,-7.9
+Regionali Speciali,Giustenice,Savona,Liguria,451,457,908,29.52,36.11,268,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740310,-18.25
+Regionali Speciali,Giustenice,Savona,Liguria,451,457,908,35.13,44.23,319,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740310,-20.57
+Regionali Speciali,Giustenice,Savona,Liguria,451,457,908,47.47,61.37,431,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740310,-22.65
+Regionali Speciali,Giusvalla,Savona,Liguria,466,426,892,4.37,5.57,39,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740320,-21.54
+Regionali Speciali,Giusvalla,Savona,Liguria,466,426,892,10.54,13.32,94,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740320,-20.87
+Regionali Speciali,Giusvalla,Savona,Liguria,466,426,892,11.77,15.98,105,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740320,-26.35
+Regionali Speciali,Giusvalla,Savona,Liguria,466,426,892,16.37,21.55,146,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740320,-24.04
+Regionali Speciali,Laigueglia,Savona,Liguria,805,755,1560,10.9,13.34,170,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740330,-18.29
+Regionali Speciali,Laigueglia,Savona,Liguria,805,755,1560,24.04,30.15,375,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740330,-20.27
+Regionali Speciali,Laigueglia,Savona,Liguria,805,755,1560,25.96,37.04,405,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740330,-29.91
+Regionali Speciali,Laigueglia,Savona,Liguria,805,755,1560,38.46,53.35,600,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740330,-27.91
+Regionali Speciali,Loano,Savona,Liguria,5022,4375,9397,12.58,15.5,1182,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740340,-18.84
+Regionali Speciali,Loano,Savona,Liguria,5022,4375,9397,27.02,33.34,2539,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740340,-18.96
+Regionali Speciali,Loano,Savona,Liguria,5022,4375,9397,30.44,40.92,2860,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740340,-25.61
+Regionali Speciali,Loano,Savona,Liguria,5022,4375,9397,43.6,54.72,4097,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740340,-20.32
+Regionali Speciali,Magliolo,Savona,Liguria,503,493,996,11.14,12.89,111,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740350,-13.58
+Regionali Speciali,Magliolo,Savona,Liguria,503,493,996,21.18,29.21,211,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740350,-27.49
+Regionali Speciali,Magliolo,Savona,Liguria,503,493,996,25.6,36.49,255,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740350,-29.84
+Regionali Speciali,Magliolo,Savona,Liguria,503,493,996,37.55,49.27,374,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740350,-23.79
+Regionali Speciali,Mallare,Savona,Liguria,593,569,1162,5.59,11.39,65,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740360,-50.92
+Regionali Speciali,Mallare,Savona,Liguria,593,569,1162,17.9,30.5,208,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740360,-41.31
+Regionali Speciali,Mallare,Savona,Liguria,593,569,1162,20.65,39.0,240,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740360,-47.05
+Regionali Speciali,Mallare,Savona,Liguria,593,569,1162,32.44,49.87,377,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740360,-34.95
+Regionali Speciali,Massimino,Savona,Liguria,54,48,102,9.8,13.83,10,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740370,-29.14
+Regionali Speciali,Massimino,Savona,Liguria,54,48,102,26.47,36.17,27,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740370,-26.82
+Regionali Speciali,Massimino,Savona,Liguria,54,48,102,37.25,42.55,38,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740370,-12.46
+Regionali Speciali,Massimino,Savona,Liguria,54,48,102,51.96,61.7,53,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740370,-15.79
+Regionali Speciali,Millesimo,Savona,Liguria,1584,1437,3021,9.93,18.62,300,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740380,-46.67
+Regionali Speciali,Millesimo,Savona,Liguria,1584,1437,3021,26.25,42.67,793,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740380,-38.48
+Regionali Speciali,Millesimo,Savona,Liguria,1584,1437,3021,29.26,52.65,884,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740380,-44.43
+Regionali Speciali,Millesimo,Savona,Liguria,1584,1437,3021,42.07,68.96,1271,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740380,-38.99
+Regionali Speciali,Mioglia,Savona,Liguria,349,338,687,10.92,13.62,75,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740390,-19.82
+Regionali Speciali,Mioglia,Savona,Liguria,349,338,687,22.27,25.35,153,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740390,-12.15
+Regionali Speciali,Mioglia,Savona,Liguria,349,338,687,24.16,31.77,166,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740390,-23.95
+Regionali Speciali,Mioglia,Savona,Liguria,349,338,687,31.44,41.0,216,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740390,-23.32
+Regionali Speciali,Murialdo,Savona,Liguria,429,428,857,8.75,15.99,75,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740400,-45.28
+Regionali Speciali,Murialdo,Savona,Liguria,429,428,857,23.22,38.89,199,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740400,-40.29
+Regionali Speciali,Murialdo,Savona,Liguria,429,428,857,26.95,46.88,231,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740400,-42.51
+Regionali Speciali,Murialdo,Savona,Liguria,429,428,857,35.94,58.67,308,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740400,-38.74
+Regionali Speciali,Nasino,Savona,Liguria,105,133,238,8.4,9.47,20,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740410,-11.3
+Regionali Speciali,Nasino,Savona,Liguria,105,133,238,17.65,22.22,42,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740410,-20.57
+Regionali Speciali,Nasino,Savona,Liguria,105,133,238,18.91,24.28,45,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740410,-22.12
+Regionali Speciali,Nasino,Savona,Liguria,105,133,238,31.93,37.45,76,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740410,-14.74
+Regionali Speciali,Noli,Savona,Liguria,1232,1181,2413,10.94,13.74,264,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740420,-20.38
+Regionali Speciali,Noli,Savona,Liguria,1232,1181,2413,25.98,29.35,627,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740420,-11.48
+Regionali Speciali,Noli,Savona,Liguria,1232,1181,2413,29.42,35.76,710,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740420,-17.73
+Regionali Speciali,Noli,Savona,Liguria,1232,1181,2413,42.27,52.75,1020,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740420,-19.87
+Regionali Speciali,Onzo,Savona,Liguria,97,79,176,18.75,15.68,33,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740430,19.58
+Regionali Speciali,Onzo,Savona,Liguria,97,79,176,41.48,41.08,73,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740430,0.97
+Regionali Speciali,Onzo,Savona,Liguria,97,79,176,48.3,49.73,85,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740430,-2.88
+Regionali Speciali,Onzo,Savona,Liguria,97,79,176,59.66,69.19,105,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740430,-13.77
+Regionali Speciali,Orco Feglino,Savona,Liguria,540,505,1045,7.75,10.0,81,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740440,-22.5
+Regionali Speciali,Orco Feglino,Savona,Liguria,540,505,1045,22.78,27.84,238,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740440,-18.18
+Regionali Speciali,Orco Feglino,Savona,Liguria,540,505,1045,26.41,34.41,276,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740440,-23.25
+Regionali Speciali,Orco Feglino,Savona,Liguria,540,505,1045,38.47,50.69,402,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740440,-24.11
+Regionali Speciali,Ortovero,Savona,Liguria,632,641,1273,11.94,14.47,152,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740450,-17.48
+Regionali Speciali,Ortovero,Savona,Liguria,632,641,1273,30.95,36.72,394,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740450,-15.71
+Regionali Speciali,Ortovero,Savona,Liguria,632,641,1273,35.11,46.82,447,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740450,-25.01
+Regionali Speciali,Ortovero,Savona,Liguria,632,641,1273,47.29,61.79,602,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740450,-23.47
+Regionali Speciali,Osiglia,Savona,Liguria,305,331,636,5.66,8.8,36,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740460,-35.68
+Regionali Speciali,Osiglia,Savona,Liguria,305,331,636,16.67,22.59,106,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740460,-26.21
+Regionali Speciali,Osiglia,Savona,Liguria,305,331,636,18.4,27.57,117,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740460,-33.26
+Regionali Speciali,Osiglia,Savona,Liguria,305,331,636,23.9,35.88,152,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740460,-33.39
+Regionali Speciali,Pallare,Savona,Liguria,482,474,956,5.75,10.85,55,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740470,-47.0
+Regionali Speciali,Pallare,Savona,Liguria,482,474,956,16.53,30.06,158,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740470,-45.01
+Regionali Speciali,Pallare,Savona,Liguria,482,474,956,19.35,37.09,185,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740470,-47.83
+Regionali Speciali,Pallare,Savona,Liguria,482,474,956,33.89,50.31,324,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740470,-32.64
+Regionali Speciali,Piana Crixia,Savona,Liguria,363,360,723,6.64,10.87,48,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740480,-38.91
+Regionali Speciali,Piana Crixia,Savona,Liguria,363,360,723,14.52,29.16,105,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740480,-50.21
+Regionali Speciali,Piana Crixia,Savona,Liguria,363,360,723,16.04,34.14,116,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740480,-53.02
+Regionali Speciali,Piana Crixia,Savona,Liguria,363,360,723,27.8,46.8,201,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740480,-40.6
+Regionali Speciali,Pietra Ligure,Savona,Liguria,3904,3532,7436,12.2,14.17,907,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740490,-13.9
+Regionali Speciali,Pietra Ligure,Savona,Liguria,3904,3532,7436,25.94,31.81,1929,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740490,-18.45
+Regionali Speciali,Pietra Ligure,Savona,Liguria,3904,3532,7436,29.67,39.6,2206,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740490,-25.08
+Regionali Speciali,Pietra Ligure,Savona,Liguria,3904,3532,7436,41.37,53.3,3076,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740490,-22.38
+Regionali Speciali,Plodio,Savona,Liguria,272,284,556,9.53,13.43,53,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740500,-29.04
+Regionali Speciali,Plodio,Savona,Liguria,272,284,556,30.76,41.74,171,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740500,-26.31
+Regionali Speciali,Plodio,Savona,Liguria,272,284,556,34.35,50.82,191,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740500,-32.41
+Regionali Speciali,Plodio,Savona,Liguria,272,284,556,48.02,66.61,267,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740500,-27.91
+Regionali Speciali,Pontinvrea,Savona,Liguria,425,437,862,13.92,13.09,120,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740510,6.34
+Regionali Speciali,Pontinvrea,Savona,Liguria,425,437,862,28.89,27.9,249,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740510,3.55
+Regionali Speciali,Pontinvrea,Savona,Liguria,425,437,862,32.6,35.13,281,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740510,-7.2
+Regionali Speciali,Pontinvrea,Savona,Liguria,425,437,862,46.06,50.17,397,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740510,-8.19
+Regionali Speciali,Quiliano,Savona,Liguria,3419,3233,6652,12.75,14.35,848,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740520,-11.15
+Regionali Speciali,Quiliano,Savona,Liguria,3419,3233,6652,30.67,33.19,2040,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740520,-7.59
+Regionali Speciali,Quiliano,Savona,Liguria,3419,3233,6652,34.82,42.86,2316,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740520,-18.76
+Regionali Speciali,Quiliano,Savona,Liguria,3419,3233,6652,46.47,57.17,3091,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740520,-18.72
+Regionali Speciali,Rialto,Savona,Liguria,341,331,672,7.59,7.21,51,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740530,5.27
+Regionali Speciali,Rialto,Savona,Liguria,341,331,672,18.6,21.18,125,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740530,-12.18
+Regionali Speciali,Rialto,Savona,Liguria,341,331,672,22.32,26.62,150,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740530,-16.15
+Regionali Speciali,Rialto,Savona,Liguria,341,331,672,31.1,38.68,209,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740530,-19.6
+Regionali Speciali,Roccavignale,Savona,Liguria,482,446,928,9.91,14.94,92,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740540,-33.67
+Regionali Speciali,Roccavignale,Savona,Liguria,482,446,928,22.31,30.33,207,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740540,-26.44
+Regionali Speciali,Roccavignale,Savona,Liguria,482,446,928,25.22,37.29,234,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740540,-32.37
+Regionali Speciali,Roccavignale,Savona,Liguria,482,446,928,35.99,50.51,334,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740540,-28.75
+Regionali Speciali,Sassello,Savona,Liguria,1133,1104,2237,9.12,11.81,204,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740550,-22.78
+Regionali Speciali,Sassello,Savona,Liguria,1133,1104,2237,22.08,23.76,494,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740550,-7.07
+Regionali Speciali,Sassello,Savona,Liguria,1133,1104,2237,24.05,30.92,538,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740550,-22.22
+Regionali Speciali,Sassello,Savona,Liguria,1133,1104,2237,34.24,43.05,766,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740550,-20.46
+Regionali Speciali,Savona,Savona,Liguria,26386,23214,49600,14.84,16.21,7362,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740560,-8.45
+Regionali Speciali,Savona,Savona,Liguria,26386,23214,49600,31.51,36.05,15627,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740560,-12.59
+Regionali Speciali,Savona,Savona,Liguria,26386,23214,49600,35.5,43.19,17608,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740560,-17.81
+Regionali Speciali,Savona,Savona,Liguria,26386,23214,49600,46.72,56.1,23173,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740560,-16.72
+Regionali Speciali,Spotorno,Savona,Liguria,1654,1554,3208,13.12,17.47,421,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740570,-24.9
+Regionali Speciali,Spotorno,Savona,Liguria,1654,1554,3208,28.74,34.3,922,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740570,-16.21
+Regionali Speciali,Spotorno,Savona,Liguria,1654,1554,3208,32.36,41.49,1038,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740570,-22.01
+Regionali Speciali,Spotorno,Savona,Liguria,1654,1554,3208,45.07,56.0,1446,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740570,-19.52
+Regionali Speciali,Stella,Savona,Liguria,1505,1539,3044,11.17,12.35,340,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740580,-9.55
+Regionali Speciali,Stella,Savona,Liguria,1505,1539,3044,26.61,30.33,810,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740580,-12.27
+Regionali Speciali,Stella,Savona,Liguria,1505,1539,3044,30.19,39.35,919,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740580,-23.28
+Regionali Speciali,Stella,Savona,Liguria,1505,1539,3044,41.92,53.54,1276,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740580,-21.7
+Regionali Speciali,Stellanello,Savona,Liguria,351,373,724,8.56,13.54,62,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740590,-36.78
+Regionali Speciali,Stellanello,Savona,Liguria,351,373,724,22.79,31.31,165,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740590,-27.21
+Regionali Speciali,Stellanello,Savona,Liguria,351,373,724,25.83,42.03,187,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740590,-38.54
+Regionali Speciali,Stellanello,Savona,Liguria,351,373,724,40.61,54.87,294,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740590,-25.99
+Regionali Speciali,Testico,Savona,Liguria,69,72,141,14.18,15.83,20,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740600,-10.42
+Regionali Speciali,Testico,Savona,Liguria,69,72,141,35.46,38.13,50,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740600,-7.0
+Regionali Speciali,Testico,Savona,Liguria,69,72,141,41.84,45.32,59,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740600,-7.68
+Regionali Speciali,Testico,Savona,Liguria,69,72,141,58.16,63.31,82,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740600,-8.13
+Regionali Speciali,Toirano,Savona,Liguria,1243,1220,2463,10.6,14.94,261,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740610,-29.05
+Regionali Speciali,Toirano,Savona,Liguria,1243,1220,2463,27.45,33.36,676,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740610,-17.72
+Regionali Speciali,Toirano,Savona,Liguria,1243,1220,2463,31.95,42.51,787,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740610,-24.84
+Regionali Speciali,Toirano,Savona,Liguria,1243,1220,2463,45.11,59.56,1111,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740610,-24.26
+Regionali Speciali,Tovo San Giacomo,Savona,Liguria,1191,1158,2349,11.15,12.18,262,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740620,-8.46
+Regionali Speciali,Tovo San Giacomo,Savona,Liguria,1191,1158,2349,27.46,32.81,645,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740620,-16.31
+Regionali Speciali,Tovo San Giacomo,Savona,Liguria,1191,1158,2349,32.01,41.63,752,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740620,-23.11
+Regionali Speciali,Tovo San Giacomo,Savona,Liguria,1191,1158,2349,46.49,59.13,1092,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740620,-21.38
+Regionali Speciali,Urbe,Savona,Liguria,390,414,804,8.71,11.85,70,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740630,-26.5
+Regionali Speciali,Urbe,Savona,Liguria,390,414,804,22.39,28.37,180,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740630,-21.08
+Regionali Speciali,Urbe,Savona,Liguria,390,414,804,25.5,33.8,205,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740630,-24.56
+Regionali Speciali,Urbe,Savona,Liguria,390,414,804,37.06,48.3,298,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740630,-23.27
+Regionali Speciali,Vado Ligure,Savona,Liguria,3780,3461,7241,13.15,15.55,952,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740640,-15.43
+Regionali Speciali,Vado Ligure,Savona,Liguria,3780,3461,7241,30.35,35.41,2198,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740640,-14.29
+Regionali Speciali,Vado Ligure,Savona,Liguria,3780,3461,7241,33.93,44.57,2457,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740640,-23.87
+Regionali Speciali,Vado Ligure,Savona,Liguria,3780,3461,7241,44.63,57.96,3232,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740640,-23.0
+Regionali Speciali,Varazze,Savona,Liguria,6278,5966,12244,13.12,14.05,1607,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740650,-6.62
+Regionali Speciali,Varazze,Savona,Liguria,6278,5966,12244,29.92,33.38,3663,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740650,-10.37
+Regionali Speciali,Varazze,Savona,Liguria,6278,5966,12244,34.0,41.45,4163,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740650,-17.97
+Regionali Speciali,Varazze,Savona,Liguria,6278,5966,12244,46.26,55.47,5664,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740650,-16.6
+Regionali Speciali,Vendone,Savona,Liguria,155,165,320,12.81,15.43,41,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740660,-16.98
+Regionali Speciali,Vendone,Savona,Liguria,155,165,320,31.25,39.47,100,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740660,-20.83
+Regionali Speciali,Vendone,Savona,Liguria,155,165,320,35.63,48.07,114,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740660,-25.88
+Regionali Speciali,Vendone,Savona,Liguria,155,165,320,50.31,64.99,161,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740660,-22.59
+Regionali Speciali,Vezzi Portio,Savona,Liguria,373,394,767,10.95,9.52,84,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740670,15.02
+Regionali Speciali,Vezzi Portio,Savona,Liguria,373,394,767,25.03,27.79,192,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740670,-9.93
+Regionali Speciali,Vezzi Portio,Savona,Liguria,373,394,767,27.77,35.03,213,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740670,-20.73
+Regionali Speciali,Vezzi Portio,Savona,Liguria,373,394,767,41.07,51.4,315,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740670,-20.1
+Regionali Speciali,Villanova D'Albenga,Savona,Liguria,1177,1180,2357,13.11,17.94,309,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740680,-26.92
+Regionali Speciali,Villanova D'Albenga,Savona,Liguria,1177,1180,2357,31.01,36.93,731,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740680,-16.03
+Regionali Speciali,Villanova D'Albenga,Savona,Liguria,1177,1180,2357,35.34,48.06,833,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740680,-26.47
+Regionali Speciali,Villanova D'Albenga,Savona,Liguria,1177,1180,2357,48.15,65.87,1135,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740680,-26.9
+Regionali Speciali,Zuccarello,Savona,Liguria,165,152,317,13.88,16.29,44,2024-10-27,12:00,0,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740690,-14.79
+Regionali Speciali,Zuccarello,Savona,Liguria,165,152,317,32.18,43.0,102,2024-10-27,19:00,1,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740690,-25.16
+Regionali Speciali,Zuccarello,Savona,Liguria,165,152,317,36.28,50.81,115,2024-10-27,23:00,2,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740690,-28.6
+Regionali Speciali,Zuccarello,Savona,Liguria,165,152,317,49.21,65.15,156,2024-10-28,15:00,3,https://elezioni.interno.gov.it/risultati/20241117/regionali/votanti/italia/070740690,-24.47
