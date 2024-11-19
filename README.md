@@ -22,19 +22,19 @@ Per farlo utilizziamo l'API non documentata del sito. (🙏 Grazie [Leon Yin](ht
 ## Grafici
 
 #### Risultati presidente (confronto centrodestra-centrosinistra)
-- [Liguria](https://www.datawrapper.de/_/zC8EU/)
-- [Emilia Romagna](https://www.datawrapper.de/_/9yIHu/?v=10)
-- [Umbria](https://www.datawrapper.de/_/ervq2/?v=12)
+- [Liguria](https://www.datawrapper.de/_/zC8EU)
+- [Emilia Romagna](https://www.datawrapper.de/_/9yIHu)
+- [Umbria](https://www.datawrapper.de/_/ervq2)
 
 #### Affluenza
-- Liguria
+- [Liguria](https://www.datawrapper.de/_/TPPvf/)
 - [Emilia Romagna](https://www.datawrapper.de/_/pWRZG/)
-- Umbria
+- [Umbria](https://www.datawrapper.de/_/YElha/)
 
 #### Affluenza - confronto con elezioni regionali precedenti
-- Umbria
-- Emilia Romagna
-- [Liguria](https://www.datawrapper.de/_/DM7Nf/?v=2)
+- [Umbria](https://www.datawrapper.de/_/Znz4J)
+- [Emilia Romagna](https://www.datawrapper.de/_/wS5a8/?v=11)
+- [Liguria](https://www.datawrapper.de/_/DM7Nf)
 
 ### Contatti
 
