@@ -20,14 +20,14 @@ Per farlo utilizziamo l'API non documentata del sito. (Per saperne di più su co
 - [Risultati Emilia Romagna](output/risultati_er.csv)
 - [Risultati Umbria](output/risultati_um.csv)
 
-## Grafici
+### Qualche mappa
 
-#### Risultati presidente (confronto centrodestra-centrosinistra)
+##### Risultati presidente (confronto centrodestra-centrosinistra)
 - [Liguria](https://www.datawrapper.de/_/zC8EU)
 - [Emilia Romagna](https://www.datawrapper.de/_/9yIHu)
 - [Umbria](https://www.datawrapper.de/_/ervq2)
 
-#### Affluenza
+##### Affluenza
 - [Liguria](https://www.datawrapper.de/_/TPPvf/)
 - [Emilia Romagna](https://www.datawrapper.de/_/pWRZG/)
 - [Umbria](https://www.datawrapper.de/_/YElha/)
