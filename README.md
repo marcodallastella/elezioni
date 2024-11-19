@@ -19,6 +19,23 @@ Per farlo utilizziamo l'API non documentata del sito. (🙏 Grazie [Leon Yin](ht
 - [Risultati Emilia Romagna](output/risultati_er.csv)
 - [Risultati Umbria](output/risultati_um.csv)
 
+## Grafici
+
+#### Risultati presidente (confronto centrodestra-centrosinistra)
+- [Liguria](https://www.datawrapper.de/_/zC8EU/)
+- [Emilia Romagna](https://www.datawrapper.de/_/9yIHu/?v=10)
+- [Umbria](https://www.datawrapper.de/_/ervq2/?v=12)
+
+#### Affluenza
+- Liguria
+- [Emilia Romagna](https://www.datawrapper.de/_/pWRZG/)
+- Umbria
+
+#### Affluenza - confronto con elezioni regionali precedenti
+- Umbria
+- Emilia Romagna
+- [Liguria](https://www.datawrapper.de/_/DM7Nf/?v=2)
+
 ### Contatti
 
 Marco Dalla Stella
