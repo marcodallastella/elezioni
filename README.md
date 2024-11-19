@@ -2,7 +2,7 @@
 
 Questo repository contiene i notebooks usate per estrarre ed elaborare dati di elezioni da [Eligendo](https://dait.interno.gov.it/elezioni), il portale del Ministero dell'Interno contenente i dati delle elezioni politiche ed europee.
 
-Per farlo utilizziamo l'API non documentata del sito. (Grazie [Leon Yin](https://inspectelement.org/apis.html).
+Per farlo utilizziamo l'API non documentata del sito. (🙏 Grazie [Leon Yin](https://inspectelement.org/apis.html)).
 
 ## Notebooks
 
