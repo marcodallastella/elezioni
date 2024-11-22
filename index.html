@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Italian Regional Elections Data Analysis</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+  <style>
+    .region-btn.active {
+      background-color: #1d4ed8;
+      color: white;
+    }
+
+    .viz-btn.active {
+      background-color: #4f46e5;
+      color: white;
+    }
+
+    .content-section {
+      display: none;
+    }
+
+    .content-section.active {
+      display: block;
+    }
+
+    .viz-type {
+      display: none;
+    }
+
+    .viz-type.active {
+      display: block;
+    }
+  </style>
+</head>
+
+<body class="bg-gray-50">
+  <!-- Hero Section -->
+  <header class="bg-white shadow-sm">
+    <div class="max-w-5xl mx-auto px-4 py-16">
+      <h1 class="text-4xl font-bold text-gray-900 mb-4">Italian Regional Elections Data Analysis</h1>
+      <p class="text-xl text-gray-600 max-w-3xl">
+        A deep dive into the 2024 regional elections across Italy, using real-time data collection and visualization to
+        reveal voting patterns and trends.
+      </p>
+    </div>
+  </header>
+
+  <!-- Technical Overview -->
+  <section class="py-16 bg-gray-50">
+    <div class="max-w-5xl mx-auto px-4">
+      <h2 class="text-2xl font-semibold text-gray-900 mb-8">Behind the Data</h2>
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="bg-white p-6 rounded-lg shadow-sm">
+          <h3 class="font-semibold text-lg mb-3">Data Collection</h3>
+          <p class="text-gray-600">
+            Used Python to access and process real-time election data through the Italian Ministry of Interior's API
+            system, enabling immediate updates as results came in.
+          </p>
+        </div>
+        <div class="bg-white p-6 rounded-lg shadow-sm">
+          <h3 class="font-semibold text-lg mb-3">Analysis</h3>
+          <p class="text-gray-600">
+            Developed automated scripts to track voter turnout, calculate margins, and compare results with historical
+            data across all municipalities.
+          </p>
+        </div>
+        <div class="bg-white p-6 rounded-lg shadow-sm">
+          <h3 class="font-semibold text-lg mb-3">Visualization</h3>
+          <p class="text-gray-600">
+            Created interactive maps and charts using Datawrapper to reveal geographical patterns and temporal trends in
+            voting behavior.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Visualizations -->
+  <section class="py-16 bg-white">
+    <div class="max-w-5xl mx-auto px-4">
+      <div class="flex flex-col gap-6 mb-8">
+        <!-- Region Selection -->
+        <div class="flex items-center justify-between">
+          <h2 class="text-2xl font-semibold text-gray-900">Select Region</h2>
+          <div class="flex gap-4">
+            <button onclick="showContent('emilia')"
+              class="region-btn active px-4 py-2 rounded-md bg-blue-50 text-blue-600 hover:bg-blue-100 transition-colors">
+              Emilia Romagna
+            </button>
+            <button onclick="showContent('liguria')"
+              class="region-btn px-4 py-2 rounded-md bg-blue-50 text-blue-600 hover:bg-blue-100 transition-colors">
+              Liguria
+            </button>
+            <button onclick="showContent('umbria')"
+              class="region-btn px-4 py-2 rounded-md bg-blue-50 text-blue-600 hover:bg-blue-100 transition-colors">
+              Umbria
+            </button>
+          </div>
+        </div>
+
+        <!-- Visualization Type Selection -->
+        <div class="flex items-center justify-between border-t pt-6">
+          <h2 class="text-xl font-semibold text-gray-900">Select Data View</h2>
+          <div class="flex gap-4">
+            <button onclick="showVizType('results')"
+              class="viz-btn active px-4 py-2 rounded-md bg-indigo-50 text-indigo-600 hover:bg-indigo-100 transition-colors">
+              Election Results
+            </button>
+            <button onclick="showVizType('shift')"
+              class="viz-btn px-4 py-2 rounded-md bg-indigo-50 text-indigo-600 hover:bg-indigo-100 transition-colors">
+              Margin shift
+            </button>
+            <button onclick="showVizType('turnout')"
+              class="viz-btn px-4 py-2 rounded-md bg-indigo-50 text-indigo-600 hover:bg-indigo-100 transition-colors">
+              Voter Turnout
+            </button>
+            <button onclick="showVizType('historical')"
+              class="viz-btn px-4 py-2 rounded-md bg-indigo-50 text-indigo-600 hover:bg-indigo-100 transition-colors">
+              Turnout Comparison
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Visualization containers -->
+      <div class="viz-containers mt-8">
+        <!-- Emilia Romagna -->
+        <div id="emilia-results" class="viz-container">
+          <iframe title="Risultati elezioni regionali 2024 Emilia Romagna" aria-label="Mappa"
+            id="datawrapper-chart-9yIHu" src="https://datawrapper.dwcdn.net/9yIHu/13/" scrolling="no" frameborder="0"
+            style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+          <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+        </div>
+        <div id="emilia-shift" class="viz-container">
+          <iframe title="Spostamenti elettorali Emilia Romagna 2020-2024" aria-label="Mappa" id="datawrapper-chart-GaMfk" src="https://datawrapper.dwcdn.net/GaMfk/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="569" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+          </script>
+        </div>
+        <div id="emilia-turnout" class="viz-container">
+          <iframe title="Affluenza elezioni regionali 2024 Emilia Romagna" aria-label="Mappa"
+            id="datawrapper-chart-pWRZG" src="https://datawrapper.dwcdn.net/pWRZG/" scrolling="no" frameborder="0"
+            style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+          <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+        </div>
+        <div id="emilia-historical" class="viz-container">
+          <iframe title="Confronto affluenza elezioni regionali Emilia Romagna" aria-label="Mappa"
+            id="datawrapper-chart-wS5a8" src="https://datawrapper.dwcdn.net/wS5a8/" scrolling="no" frameborder="0"
+            style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+          <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+        </div>
+
+        <!-- Liguria -->
+        <div id="liguria-results" class="viz-container">
+          <iframe title="Risultati elezioni regionali 2024 Liguria" aria-label="Mappa" id="datawrapper-chart-zC8EU"
+            src="https://datawrapper.dwcdn.net/zC8EU/" scrolling="no" frameborder="0"
+            style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+          <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+        </div>
+        <div id="liguria-turnout" class="viz-container">
+          <iframe title="Affluenza elezioni regionali 2024 Liguria" aria-label="Mappa" id="datawrapper-chart-TPPvf"
+            src="https://datawrapper.dwcdn.net/TPPvf/" scrolling="no" frameborder="0"
+            style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+          <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+        </div>
+        <div id="liguria-historical" class="viz-container">
+          <iframe title="Confronto affluenza elezioni regionali Liguria" aria-label="Mappa" id="datawrapper-chart-DM7Nf"
+            src="https://datawrapper.dwcdn.net/DM7Nf/" scrolling="no" frameborder="0"
+            style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+          <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+        </div>
+
+        <!-- Umbria -->
+        <div id="umbria-results" class="viz-container">
+          <iframe title="Risultati elezioni regionali 2024 Umbria" aria-label="Mappa" id="datawrapper-chart-ervq2"
+            src="https://datawrapper.dwcdn.net/ervq2/" scrolling="no" frameborder="0"
+            style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+          <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+        </div>
+        <div id="umbria-shift" class="viz-container">
+          <iframe title="Spostamenti elettorali Umbria 2019-2024" aria-label="Mappa" id="datawrapper-chart-24Edr" src="https://datawrapper.dwcdn.net/24Edr/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="946" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+          </script>
+        </div>
+        <div id="umbria-turnout" class="viz-container">
+          <iframe title="Affluenza elezioni regionali 2024 Umbria" aria-label="Mappa" id="datawrapper-chart-YElha"
+            src="https://datawrapper.dwcdn.net/YElha/" scrolling="no" frameborder="0"
+            style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+          <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+        </div>
+        <div id="umbria-historical" class="viz-container">
+          <iframe title="Confronto affluenza elezioni regionali Umbria" aria-label="Mappa" id="datawrapper-chart-Znz4J"
+            src="https://datawrapper.dwcdn.net/Znz4J/" scrolling="no" frameborder="0"
+            style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+          <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  </section>
+
+  <!-- Technical Details Section -->
+  <section class="py-16 bg-gray-50">
+    <div class="max-w-5xl mx-auto px-4">
+      <h2 class="text-2xl font-semibold text-gray-900 mb-8">Technical Process</h2>
+      <div class="prose max-w-none">
+        <p class="text-gray-600 mb-6">
+          This project uses Python to access and process election data in real-time through the Italian Ministry of
+          Interior's undocumented API. The process involves:
+        </p>
+        <ul class="list-disc pl-6 text-gray-600 space-y-2 mb-6">
+          <li>Automated data collection using custom Python scripts</li>
+          <li>Real-time processing of voter turnout and results</li>
+          <li>Geocoding of electoral data for mapping</li>
+          <li>Integration with Datawrapper for interactive visualizations</li>
+        </ul>
+        <p class="text-gray-600">
+          All code and documentation is available on GitHub, allowing for transparency and reproducibility of the
+          analysis.
+        </p>
+      </div>
+    </div>
+
+    <div id="emilia-results" class="viz-container">
+      <iframe title="Risultati elezioni regionali 2024 Emilia Romagna" aria-label="Mappa" id="datawrapper-chart-9yIHu"
+        src="https://datawrapper.dwcdn.net/9yIHu/13/" scrolling="no" frameborder="0"
+        style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+      <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+    </div>
+
+    <div id="emilia-turnout" class="viz-container">
+      <iframe title="Affluenza elezioni regionali 2024 Emilia Romagna" aria-label="Mappa" id="datawrapper-chart-pWRZG"
+        src="https://datawrapper.dwcdn.net/pWRZG/" scrolling="no" frameborder="0"
+        style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+      <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+    </div>
+
+    <div id="emilia-historical" class="viz-container">
+      <iframe title="Confronto affluenza elezioni regionali Emilia Romagna" aria-label="Mappa"
+        id="datawrapper-chart-wS5a8" src="https://datawrapper.dwcdn.net/wS5a8/" scrolling="no" frameborder="0"
+        style="width: 0; min-width: 100% !important; border: none;" height="492" data-external="1"></iframe>
+      <script>!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();</script>
+    </div>
+
+  </section>
+
+  <footer class="bg-gray-900 text-white py-12">
+    <div class="max-w-5xl mx-auto px-4 text-center">
+      <p class="mb-4">Analysis and visualization by Marco Dalla Stella</p>
+      <div class="flex justify-center space-x-6 mb-8">
+        <a href="mailto:m.dallastella@proton.me" class="hover:text-blue-400 transition-colors">
+          <i class="fa fa-envelope"></i>
+        </a>
+        <a href="https://github.com/marcodallastella" class="hover:text-blue-400 transition-colors">
+          <i class="fa-brands fa-github"></i>
+        </a>
+        <a href="https://bsky.app/profile/mdallastella.bsky.social" class="hover:text-blue-400 transition-colors">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" class="inline-block">
+            <path
+              d="M12 3.5c1.5.8 4.5 2.2 6 2.5 2.5.5 3.5 2.5 3.5 4s-1.5 3.5-3 4c-1 .3-3 .5-4 .5.5.5 2.5 2 2.5 4.5 0 2-1.8 2.5-3 2.5-2 0-3.5-2.5-4-3.5-.5 1-2 3.5-4 3.5-1.2 0-3-.5-3-2.5 0-2.5 2-4 2.5-4.5-1 0-3-.2-4-.5-1.5-.5-3-2.5-3-4s1-3.5 3.5-4c1.5-.3 4.5-1.7 6-2.5.5-.3 2-1.5 2-1.5s1.5 1.2 2 1.5z" />
+          </svg>
+        </a>
+      </div>
+      <p class="text-sm text-gray-400">Code available on <a href="https://github.com/marcodallastella"
+          class="underline">GitHub</a></p>
+    </div>
+  </footer>
+
+  <script>
+    let currentRegion = 'emilia';
+    let currentVizType = 'results';
+
+    function showContent(region) {
+      // Update region buttons
+      document.querySelectorAll('.region-btn').forEach(btn => {
+        btn.classList.remove('active');
+      });
+      event.target.classList.add('active');
+
+      currentRegion = region;
+      updateVisibility();
+    }
+
+    function showVizType(vizType) {
+      // Update visualization type buttons
+      document.querySelectorAll('.viz-btn').forEach(btn => {
+        btn.classList.remove('active');
+      });
+      event.target.classList.add('active');
+
+      currentVizType = vizType;
+      updateVisibility();
+    }
+
+    function updateVisibility() {
+      // Hide all visualizations
+      document.querySelectorAll('.viz-container').forEach(container => {
+        container.style.display = 'none';
+      });
+
+      // Show the selected visualization
+      const targetId = `${currentRegion}-${currentVizType}`;
+      const targetElement = document.getElementById(targetId);
+      if (targetElement) {
+        targetElement.style.display = 'block';
+      }
+    }
+
+    // Initialize the view
+    document.addEventListener('DOMContentLoaded', () => {
+      updateVisibility();
+    });
+  </script>
+</body>
+
+</html>
